@@ -1,0 +1,26 @@
+<!-- Corpus Holder -->
+<template>
+
+    <div if:true={showButtons} class="slds-grid slds-wrap">
+
+        <div class="slds-size_6-of-12 slds-align_absolute-center slds-p-top_medium">
+            <lightning-button class="slds-p-left_x-small"
+                              variant="brand"
+                              label="Create New Corpus Document"
+                              onclick={openCorpus}>
+            </lightning-button>
+        </div>
+
+        <div class="slds-size_6-of-12 slds-align_absolute-center slds-p-top_medium">
+            <lightning-button class="slds-p-left_x-small"
+                              variant="brand"
+                              label="Create Annotations for Corpus Document"
+                              onclick={openAnnotations}>
+            </lightning-button>
+        </div>
+    </div>
+
+    <c-corpus-creation if:true={newCorpus}></c-corpus-creation>
+    <c-annotation-creation if:true={newAnnotations}></c-annotation-creation>
+
+</template>

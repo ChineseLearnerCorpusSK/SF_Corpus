@@ -1,0 +1,217 @@
+<!-- Annotation Creation -->
+<template>
+
+    <div if:true={loading}>
+        <lightning-spinner alternative-text="Loading" size="medium"></lightning-spinner>
+    </div>
+
+    <div if:false={loading}>
+
+        <div class="slds-grid slds-wrap">
+            <div class="slds-size_8-of-12 slds-border_right slds-p-around_small">
+
+                <p>Document Id: <b>{corpus.Document_Id__c}</b></p>
+
+                <p class="slds-p-top_medium">Corpus Text</p>
+                <pre class="slds-p-around_small slds-box_border fontSize"
+                     onclick={getSelectedCharacter}>{corpus.Corpus_Text__c}</pre>
+
+                <div class="slds-grid slds-wrap slds-p-top_small">
+
+                    <lightning-input class="slds-size_2-of-12 slds-p-around_small"
+                                     type="checkbox"
+                                     name="Missing_M__c"
+                                     data-annotation="M"
+                                     label="Missing (M)"
+                                     onchange={handleChangeAnnotationCheckbox}>
+                    </lightning-input>
+
+                    <lightning-input class="slds-size_2-of-12 slds-p-around_small"
+                                     type="checkbox"
+                                     name="Redundant_R__c"
+                                     data-annotation="R"
+                                     label="Redundant (R)"
+                                     onchange={handleChangeAnnotationCheckbox}>
+                    </lightning-input>
+
+                    <lightning-input class="slds-size_2-of-12 slds-p-around_small"
+                                     type="checkbox"
+                                     name="Word_Order_W__c"
+                                     data-annotation="W"
+                                     label="Word Order (W)"
+                                     onchange={handleChangeAnnotationCheckbox}>
+                    </lightning-input>
+
+                    <lightning-input class="slds-size_2-of-12 slds-p-around_small"
+                                     type="checkbox"
+                                     name="Incorrect_Selection_S__c"
+                                     data-annotation="S"
+                                     label="Incorrect Selection (S)"
+                                     onchange={handleChangeAnnotationCheckbox}>
+                    </lightning-input>
+
+                    <lightning-input class="slds-size_2-of-12 slds-p-around_small"
+                                     type="checkbox"
+                                     name="Has_Blank_Space__c"
+                                     label="Add Free Space"
+                                     onchange={handleChangeAnnotationCheckbox}>
+                    </lightning-input>
+
+                    <lightning-dual-listbox if:true={showFirstMultipicklist}
+                                            class="slds-size_6-of-12 slds-p-around_small"
+                                            name="Word_Level__c"
+                                            label="Word Level"
+                                            source-label="Available"
+                                            selected-label="Selected"
+                                            options={wordLevelOptions}
+                                            onchange={handleWordLevel}>
+                    </lightning-dual-listbox>
+
+                    <lightning-dual-listbox if:true={showFirstMultipicklist}
+                                            class="slds-size_6-of-12 slds-p-around_small"
+                                            name="Grammatical_Function__c"
+                                            label="Grammatical Function"
+                                            source-label="Available"
+                                            selected-label="Selected"
+                                            options={grammaticalFunctionOptions}
+                                            onchange={handleGrammarFunction}>
+                    </lightning-dual-listbox>
+
+                    <lightning-dual-listbox if:true={showFirstMultipicklist}
+                                            class="slds-size_6-of-12 slds-p-around_small"
+                                            name="Sentence_Structure__c"
+                                            label="Sentence Structure"
+                                            source-label="Available"
+                                            selected-label="Selected"
+                                            options={sentenceStructureOptions}
+                                            onchange={handleSentenceStructure}>
+                    </lightning-dual-listbox>
+
+                    <lightning-dual-listbox if:true={showFirstMultipicklist}
+                                            class="slds-size_6-of-12 slds-p-around_small"
+                                            name="Other__c"
+                                            label="Other"
+                                            source-label="Available"
+                                            selected-label="Selected"
+                                            options={otherValuesOptions}
+                                            onchange={handleOther}>
+                    </lightning-dual-listbox>
+
+                    <lightning-dual-listbox if:true={showSecondMultipicklist}
+                                            class="slds-size_6-of-12 slds-p-around_small"
+                                            name="Word_Level__c"
+                                            label="Word Level"
+                                            source-label="Available"
+                                            selected-label="Selected"
+                                            options={wordLevelSecondOptions}
+                                            onchange={handleWordLevel}>
+                    </lightning-dual-listbox>
+
+                    <lightning-dual-listbox if:true={showSecondMultipicklist}
+                                            class="slds-size_6-of-12 slds-p-around_small"
+                                            name="Grammatical_Function__c"
+                                            label="Grammatical Function"
+                                            source-label="Available"
+                                            selected-label="Selected"
+                                            options={grammaticalFunctionSecondOptions}
+                                            onchange={handleGrammarFunction}>
+                    </lightning-dual-listbox>
+
+                    <lightning-dual-listbox if:true={showSecondMultipicklist}
+                                            class="slds-size_6-of-12 slds-p-around_small"
+                                            name="Sentence_Structure__c"
+                                            label="Sentence Structure"
+                                            source-label="Available"
+                                            selected-label="Selected"
+                                            options={sentenceStructureSecondOptions}
+                                            onchange={handleSentenceStructure}>
+                    </lightning-dual-listbox>
+
+                    <lightning-dual-listbox if:true={showSecondMultipicklist}
+                                            class="slds-size_6-of-12 slds-p-around_small"
+                                            name="Other__c"
+                                            label="Other"
+                                            source-label="Available"
+                                            selected-label="Selected"
+                                            options={otherValuesSecondOptions}
+                                            onchange={handleOther}>
+                    </lightning-dual-listbox>
+
+                </div>
+            </div>
+
+            <div class="slds-size_4-of-12 slds-p-around_small">
+
+                <p>Selected Character</p>
+                <div class="slds-p-around_small slds-box_border fontSize">
+                    {annotation.Selected_Character__c}
+                </div>
+
+                <p class="slds-p-top_small">Tags</p>
+
+                <div class="slds-grid slds-wrap">
+
+                    <div class="slds-size_3-of-12 slds-p-around_xx-small">
+                        <p class="slds-border_right"><b>Missing (M)</b></p>
+                        {annotation.Missing_M_Tagset__c}
+                    </div>
+
+                    <div class="slds-size_3-of-12 slds-p-around_xx-small">
+                        <p class="slds-border_right"><b>Redundant (R)</b></p>
+                        {annotation.Redundant_R_Tagset__c}
+                    </div>
+
+                    <div class="slds-size_3-of-12 slds-p-around_xx-small">
+                        <p class="slds-border_right"><b>Word Order (W)</b></p>
+                        {annotation.Word_Order_W_Tagset__c}
+                    </div>
+
+                    <div class="slds-size_3-of-12 slds-p-around_xx-small">
+                        <p><b>Incorrect Selection (S)</b></p>
+                        {annotation.Incorrect_Selection_S_Tagset__c}
+                    </div>
+
+                    <div class="slds-size_6-of-12 slds-align_absolute-center slds-p-top_x-large">
+                        <lightning-button class="slds-p-left_x-small"
+                                          variant="brand"
+                                          label="Create Annotation"
+                                          onclick={saveAnnotation}>
+                        </lightning-button>
+                    </div>
+
+                    <div class="slds-size_6-of-12 slds-align_absolute-center slds-p-top_x-large">
+                        <lightning-button class="slds-p-left_x-small"
+                                          label="Clear Selection"
+                                          onclick={fetchTagSet}>
+                        </lightning-button>
+                    </div>
+
+                </div>
+
+
+                <p class="slds-p-top_medium">Annotated Corpus Text Preview</p>
+                <pre class="slds-p-around_small slds-box_border fontSize">
+                    {annotatedText}
+                </pre>
+
+                <div class="slds-p-top_medium">
+                    <p class="slds-p-bottom_small slds-border_bottom">
+                        <b>Created Annotations for Corpus Document: {corpus.Document_Id__c}</b>
+                    </p>
+                    <template for:each={annotations}
+                              for:item="annotation">
+                        <div class="slds-p-around_small slds-border_bottom" key={annotation.Id}>
+                            <c-single-annotation single-annotation={annotation}></c-single-annotation>
+                        </div>
+                    </template>
+                </div>
+
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+</template>

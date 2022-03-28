@@ -1,0 +1,151 @@
+<!-- Corpus Creation -->
+<template>
+
+    <div if:true={loading}>
+        <lightning-spinner alternative-text="Loading" size="medium"></lightning-spinner>
+    </div>
+
+    <div if:false={loading}>
+        <div if:false={openAnnotations}>
+
+            <div class="slds-grid slds-wrap">
+
+                <lightning-input
+                        class="slds-p-around_small slds-size_3-of-12"
+                        type="text"
+                        label="Document Id"
+                        name="Document_Id__c"
+                        onchange={handleChange}>
+                </lightning-input>
+
+                <div class="slds-size_9-of-12"></div>
+
+                <lightning-combobox
+                        class="slds-p-around_small slds-size_3-of-12"
+                        name="Gender__c"
+                        label="Gender"
+                        placeholder="Select Gender"
+                        options={genderOptions}
+                        onchange={handleChange}>
+                </lightning-combobox>
+
+                <lightning-input
+                        class="slds-p-around_small slds-size_3-of-12"
+                        type="number"
+                        label="Year"
+                        name="Year__c"
+                        onchange={handleChange}>
+                </lightning-input>
+
+                <lightning-combobox
+                        class="slds-p-around_small slds-size_3-of-12"
+                        name="Degree__c"
+                        label="Degree"
+                        placeholder="Select Degree"
+                        options={degreeOptions}
+                        onchange={handleChange}>
+                </lightning-combobox>
+
+                <lightning-combobox
+                        class="slds-p-around_small slds-size_3-of-12"
+                        name="Study_Exchange__c"
+                        label="Study Exchange"
+                        placeholder="Select Study Exchange"
+                        options={studyExchangeOptions}
+                        onchange={handleChange}>
+                </lightning-combobox>
+
+                <lightning-combobox
+                        class="slds-p-around_small slds-size_3-of-12"
+                        name="Proficiency__c"
+                        label="Proficiency"
+                        placeholder="Select Proficiency"
+                        options={proficiencyOptions}
+                        onchange={handleChange}>
+                </lightning-combobox>
+
+                <lightning-combobox
+                        class="slds-p-around_small slds-size_3-of-12"
+                        name="HSK__c"
+                        label="HSK"
+                        placeholder="Select HSK"
+                        options={hskOptions}
+                        onchange={handleChange}>
+                </lightning-combobox>
+
+                <lightning-input
+                        class="slds-p-around_small slds-size_3-of-12"
+                        type="text"
+                        label="Mother Tongue"
+                        name="Mother_Tongue__c"
+                        onchange={handleChange}>
+                </lightning-input>
+
+                <lightning-combobox
+                        class="slds-p-around_small slds-size_3-of-12"
+                        name="Bilingual__c"
+                        label="Bilingual"
+                        placeholder="Select Bilingual"
+                        options={bilingualOptions}
+                        onchange={handleChange}>
+                </lightning-combobox>
+
+                <lightning-combobox
+                        class="slds-p-around_small slds-size_3-of-12"
+                        name="Chinese_Heritage__c"
+                        label="Chinese Heritage"
+                        placeholder="Select Chinese Heritage"
+                        options={chineseHeritageOptions}
+                        onchange={handleChange}>
+                </lightning-combobox>
+
+                <lightning-combobox
+                        class="slds-p-around_small slds-size_3-of-12"
+                        name="Translation__c"
+                        label="Translation"
+                        placeholder="Select Translation"
+                        options={translationOptions}
+                        onchange={handleChange}>
+                </lightning-combobox>
+
+                <lightning-input
+                        class="slds-p-around_small slds-size_3-of-12"
+                        type="text"
+                        label="Text Type"
+                        name="Text_Type__c"
+                        onchange={handleChange}>
+                </lightning-input>
+
+                <lightning-input
+                        class="slds-p-around_small slds-size_3-of-12"
+                        type="text"
+                        label="Text Length"
+                        name="Text_Length__c"
+                        value={corpus.Text_Length__c}
+                        read-only>
+                </lightning-input>
+
+                <lightning-textarea
+                        class="slds-p-around_small slds-size_12-of-12"
+                        name="Corpus_Text__c"
+                        label="Corpus Text"
+                        onchange={handleChange}>
+                </lightning-textarea>
+
+            </div>
+
+            <div class="slds-align_absolute-center slds-p-top_medium">
+                <lightning-button class="slds-p-left_x-small"
+                                  variant="brand"
+                                  label="Save"
+                                  onclick={saveCorpus}>
+                </lightning-button>
+            </div>
+
+        </div>
+
+        <c-annotation-creation if:true={openAnnotations} corpus={corpus}></c-annotation-creation>
+
+    </div>
+
+</template>
