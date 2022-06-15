@@ -1,0 +1,16 @@
+<doc.id: 000027_008>
+<doc.year: 2011>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: Y>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 180>
+
+你好丽脸！
+我非常高兴你想来上海旅行。当然我在上海可以陪你。我给你看看最有意思的地方。首先你到虹桥机场以后，有一些方法怎么到我的家——最简单，但是也最贵是坐出租车。我的住址是655，交通大学，然后你在番禺路上讲来校园的入口。我的住址是655，交通大学，然后你在番禺路上讲来校园的入口。在校园500米一直走，你看一家饭馆，然后右拐而一直走。你在你的右边看一六层的楼叫做联兴楼。

@@ -1,0 +1,19 @@
+<doc.id: 000026_010>
+<doc.year: 2013>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: Y>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 220>
+
+三分钟热度的坏处。
+
+对我来说，除了好处以外，所谓“三分钟热度”的性格也有一些坏处。如果人的爱好、喜欢做的事情太多了，就可能每个爱好的水平不太高。比如，我喜欢游泳、打篮球、看书、在电影院看最新的电影、跟朋友一起玩儿、等，那就很可能每个爱好的水平不一样。
+说实话，这样的人的性格不太稳定了，经常会改变自己的意见。他们做什么事儿，几分钟以后忽然紧张了，很快要做别的事儿。
+我自己的性格不是这样的，我的爱好没有那么多，所以我所做都享受。这样做让我很开心。

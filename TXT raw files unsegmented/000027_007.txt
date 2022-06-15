@@ -1,0 +1,21 @@
+<doc.id: 000027_007>
+<doc.year: 2012>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: Y>
+<doc.proficiency: Int>
+<doc.hsk: 4>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 285>
+
+
+难忘的香港之旅
+
+上个寒假我跟一个朋友决定去香港旅行。因为那时候在中国开始春节，所以到香港的机票很贵。我没有其他的办法只买机票从上海到深圳，然后坐巴士就到了香港。
+香港的天气比上海的比较温暖。第一天有一点下雨，我却参观了很多地方。香港有一些特点，比如说它各种各样的点心很好吃。我还对喝奶茶入迷，所以我终于有了机会品味真正的香港奶茶。除了小饭馆和市场以外，有一天我去了大屿山。大屿山的风景非常优美。那天的天气真不错——很热和阴。坐索道的时候我一边拍照照相，一边欣赏。
+大屿山是一个值得参观的地方之一。我看到了天坛大佛，就我心里很感动。
+香港是热闹的城市，每个人可以找得到合适的娱乐活动。

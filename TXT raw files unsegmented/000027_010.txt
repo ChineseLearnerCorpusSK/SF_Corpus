@@ -1,0 +1,16 @@
+<doc.id: 000027_010>
+<doc.year: 2011>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: Y>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 150>
+
+介绍人物
+一些年以前我跟一位在德国留学的同学交了朋友。他不是很外向性格的人，但是认识他以后，我发现他的生活方式非常厉害。因为他是从阿尔阿尔卑斯山脉的城市来的，所以他一向很爱活动。什么运动他都云作：足球、篮球、排球等等。除了这些以外，他最喜欢的运动是去登山。他也是喜欢冒险的。有的时候他开摩托车开得很快。

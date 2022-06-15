@@ -1,0 +1,20 @@
+<doc.id: 000025_006>
+<doc.year: 2014>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Adv>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: Hungarian>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 278>
+
+《盲人摸象》的故事
+
+我有两个例子，对我来说它们都跟“盲人摸象”的故事有关系:
+弟一个：如果冯铁教授让我们翻译一篇文章，可是那篇文章太长，他说我们应该文章分开来翻译，每个学生翻译一段。到底我们的翻译没有意思，或者它的意思跟原来的课文不一样。原因是每个学生用不同的词汇，或者不知道下或者上一段是什么意思的。
+
+弟二个：假使一个公司的领导不了解公司部门的过程，他怎么会好得管理全公司？如果他只听会计的话，他只注视钱；如果他听工作人员的话，他可能给他们太高的工资，如果他听具体部门管理人的话，他就来注视哪些部门的问题。一位好的领导应该有很多专人来听为了管理一家成功的公司。

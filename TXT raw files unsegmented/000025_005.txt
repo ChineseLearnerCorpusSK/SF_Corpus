@@ -1,0 +1,31 @@
+<doc.id: 000025_005>
+<doc.year: 2014>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Adv>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: Hungarian>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 136>
+
+招聘启事：
+
+一家对外贸易公司招聘一位懂英语，汉语和斯洛伐克语的翻译。
+
+要求：
+现行地精通上述的外语；
+灵活工作时间；
+谈判时进行现场翻译；
+进行同时翻译；
+进行上述外语的译文；
+高等教育的毕业。
+
+本公司申请谋职位的人寄求职申请与短自传。
+本公司的地址：斯中对外贸易公司
+电话号码：
+电子邮件地址：
+
