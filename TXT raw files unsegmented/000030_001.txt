@@ -1,0 +1,15 @@
+<doc.id: 000030_001>
+<doc.year: 2021>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 4>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 124>
+
+对我最大压力来自学校，特别其次学期。压力有好也不好影响。在我们的生活我们遇到那么多不一样的各种压力。有些人喜欢遇到压力。临时不远就可以努力努力工作或者学习。那些人谁不喜欢遇到压力，他们不应该推迟事情哪需要结束。压力对身体不好，压力鼓励皮肤上的问题。

@@ -1,0 +1,21 @@
+<doc.id: 000046_001>
+<doc.year: 2020>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 3>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 143>
+
+新爱的外国朋友：
+你好！
+很高兴认识你。我的汉语名字是陈梦梅。我是斯洛伐克人，今年我十九岁。我住在XX靠近Zilina。我在高级中学学习汉语。我是四年级的学生。我的爱好是现代舞，看书，旅游和看电影。每星期六我在Tesco做收银员。
+你呢？你最近怎么样？告诉我一些关于你自己的事情。
+我期待你的回答。
+祝你快乐
+健康幸福

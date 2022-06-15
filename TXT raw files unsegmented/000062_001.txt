@@ -1,0 +1,34 @@
+<doc.id: 000062_001>
+<doc.year: 2021>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 154>
+
+明天，我们去打球,好吗？
+太好了! 什么时间？ 
+在十一点， 可以吗？
+可以。 
+
+A: 你们学院有多少个系？
+B: 我们学院有五个系。
+A: 你们学院有多少个专业？
+B: 我们学院有六十个专业。
+
+A: 你们系的老师多不多？
+B:我们系的老师有一百。
+
+A:你今年多大？
+B: 我今年二十三。
+
+A: 你爸爸，妈妈都在上海吗？
+B: 不，他们现在北京。
+
+B: 我当然来。我厨师寿面和蛋糕，好吗？

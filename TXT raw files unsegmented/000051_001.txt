@@ -1,0 +1,22 @@
+<doc.id: 000051_001>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 3>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 190>
+
+亲爱的朋友：
+你好！好久不见了。希望你把日子过得好。
+你应该能猜中我给你写信的原因。其实，跟上次不太一样。上次，我真的没想到那家用你借的钱的卖传真公司会破产。
+不过，我想出来了新的投资机会。我想创立一家大型的向中国出口叉子的公司，我缺乏的是资本。自从那个传真的灾难以来，我不名一文。只要你原因投几万块钱，好几倍的利润就是保证的，你要相信我，这个老朋友肯定不会骗你。
+此致
+敬礼
+完全诚恳的文柏
+

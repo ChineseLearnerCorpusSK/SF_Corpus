@@ -1,0 +1,22 @@
+<doc.id: 000043_001>
+<doc.year: 2020>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 3>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 172>
+
+我的爱人XX：
+首先你告诉我你最近过得怎么样，你现在在干嘛？
+我天天在想你，你也想我吗？
+我实在特别想你。学校里作业太多，我希望早点能通过考试然后咱们两个可以见面。我准备带你去国外旅行，晚一点会告诉你。我也很想带你来我家和我的父母认识一下，你应该不建议吧。
+和你在一起我真的感觉非常安全，像是缘分让我们在一起。
+你是我这世界上最喜欢的人
+非常爱你哦
+你的爱丽丝

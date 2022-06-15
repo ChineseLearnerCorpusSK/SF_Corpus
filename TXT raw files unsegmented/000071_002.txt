@@ -1,0 +1,20 @@
+<doc.id: 000071_002>
+<doc.year: 2021>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 272>
+
+
+我每天压力很大的时候，喜欢晚上六点锻炼身体，做瑜伽。做瑜伽以后我去洗个澡，吃完晚饭，然后休息一会儿。不过有的时候我喜欢早上九点进行锻炼，早上做热身运动对身体健康有好处。
+
+我有好几种休闲活动，比如看电影、听音乐、做瑜伽、看书、旅行、爬山、骑马等。我很难选择最喜欢的一个，因为我都喜欢。但是最近我难过的时候，喜欢听听音乐。
+我不太喜欢跑步， 可是我听说过跑步对身体的好处最大。我喜欢走路，每次至少走六公里。我觉得瑜伽也对身体很好。
+我觉得整天对着电脑工作或者玩儿电脑对身体不好因为人们需要锻炼。坐着用电脑太长时间会引起很多健康问题，比如头疼、眼疼、背疼等。

@@ -1,0 +1,31 @@
+<doc.id: 000073_002>
+<doc.year: 2021>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 261>
+
+我喜欢早上进行锻炼。因为这是开始新天的好方法。
+我休闲的活动很多，比如唱歌，爬山，走路，练瑜伽，看电影，弹钢琴。但是我最喜欢旅行，应为旅行得时候能了解新国家。
+我常常走路，也有的时候跑步。我觉得锻炼身体的最好方法是结合各种锻炼方法。
+整天对着电脑，我觉得不好。因为年轻人整天用电脑身体又累又不健康。
+
+那儿跑过来一只狗。
+公交站开走了一辆车。
+公园玩儿了很多小孩儿。
+他现在已经会打太极拳了。
+我今天22岁了。
+你爸爸手好了，现在可以开车了。
+她唱歌唱得耳朵疼了。
+饭做得好香了。
+我高兴得跳舞了。
+你们又哭又笑。
+蔬菜又好吃又健康。
+我的猫又可爱又聪明。

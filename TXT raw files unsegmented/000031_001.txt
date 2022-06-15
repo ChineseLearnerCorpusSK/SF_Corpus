@@ -1,0 +1,15 @@
+<doc.id: 000031_001>
+<doc.year: 2021>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 4>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 242>
+
+目前，你遇到的最大的压力来自哪方面?现在，我在担心我的毕业。因为我选择数学和物理学，所以这门课不是很容易。我也担心中文毕业，因为我会中文，但是我的谈话能力不是很好。我一般不喜欢和人说话，因为我真的很害羞。我只会在无法影响的情况不感到压力。我不喜欢压力，因为我总是忘记我学到的东西。我总是在工作之前就感到压力，但是在开始的哪一刻，所有的压力消失了。对我来说，承受压力没有好处，因为如果我感到压力，我就会失去兴趣。所以我告诉自己，你可以做到。我竭尽所能，当我感到自信是，我便不在感到压力。

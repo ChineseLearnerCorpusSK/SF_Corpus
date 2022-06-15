@@ -1,0 +1,19 @@
+<doc.id: 000045_001>
+<doc.year: 2020>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 3>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 126>
+
+白茉好！
+我叫XX，来自斯洛伐克。今天我18岁和有哥哥，但是我们没有相同的父母。我妈妈和他爸爸在交往。我们和两只小狗一起生活在Presov。我也住在宿舍以为我的高中学在班斯卡比斯里卡。我不太喜欢游戏，但我真的喜欢游泳和自行车希望我们可以成为朋友。期待你的回信。
+此致
+敬礼
+

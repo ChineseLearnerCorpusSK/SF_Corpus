@@ -1,0 +1,18 @@
+<doc.id: 000053_001>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 3>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 150>
+
+你好娜塔莉：
+我记得我见到你的时候你看起来多好。认识你是我一生中发生的最伟大的事情。
+你的每一个声音在我耳边就像音乐，一首宁静的摇篮曲，让我沉醉在甜蜜的白日梦中。当我凝视你深情的眼睛时，我看到了更美好的明天。我非常喜欢你，见到你我就会很高兴。如果你愿意，也许我们可以一起玩一些电脑游戏。
+祝你今天过得愉快。

@@ -1,0 +1,15 @@
+<doc.id: 000038_001>
+<doc.year: 2021>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 4>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 113>
+
+目前，我觉得最大的压力是冠状病毒。 我们必须隔离.。某些人可能会感到与外界隔绝。我感到学校压力对我是最大的。因为我今年毕业，所以我需要学习很多东西。我通过散步，跑步或运动来减轻压力。压力有利于推动您做事。坏处是您会开始感到焦虑。

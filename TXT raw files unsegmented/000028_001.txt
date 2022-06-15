@@ -1,0 +1,27 @@
+<doc.id: 000028_001>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 150>
+
+我跟我朋友们在森林里迷路了
+都不知道到底到了哪里
+很容易会受伤，甚至会死
+天空开始变黑了逐渐感到冷
+森林那么黑,手机没有电
+冷汗流下来，全部在我脸上
+突然从阴深的地方出现了一只个鬼
+森林那么黑，逐渐我们累
+越来越近，好像没有嘴。
+我们飞快的逃走，看起来像在飞
+因为在我背后有只难看鬼
+所以我天使请你快球我吧
+因为在我背后有只难看鬼

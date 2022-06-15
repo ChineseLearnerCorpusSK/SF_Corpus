@@ -1,0 +1,18 @@
+<doc.id: 000034_001>
+<doc.year: 2021>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 4>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 143>
+
+
+我认为很多压力来自责任。 学校，工作，养育子女，人际关系。 我自己最大的压力来自学校，正在准备考试。
+我看不到压力太大的优势。 它可以帮助某些人更多地工作。 我不喜欢压力状况，我也不擅长应对压力。 我不能集中精力，我做错了。
+减轻压力的好方法是深呼吸。 还要告诉自己一切都会好起来，或者在考虑我爱的人。

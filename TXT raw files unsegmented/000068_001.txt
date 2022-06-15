@@ -1,0 +1,56 @@
+<doc.id: 000068_001>
+<doc.year: 2021>
+<doc.gender: M>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 348>
+
+
+A：请问，办公室在那？
+B: 对不起，请在说一遍。 
+A：办公室在那？
+
+A: 你哥哥做什么工作？
+B:他是医生。
+A:他学习什么专业？
+B:他学习。
+
+A: 你们学院打不打？
+B: 我们学院是打。
+A: 你们学院有多少系？
+B: 我们学院有十二个系。
+A: 你们学院有多少个专业？
+B: 有很多个专业。
+
+A: 你们系的老师多不多？
+B: 我们系的老师是多。
+A: 你们系有没有外国老师？
+B: 我们系有外国老师。
+A: 你们系的外国老师是娜过人？
+B: 我们外国老师是中国人。
+
+A: 你们汉语系的学生多不多？
+B: 我们系的学生是多。
+A: 你们系的学生多吗？
+B: 我们系的男学生很少， 女学生是很多。
+A: 你喜欢不喜欢你们系？
+B: 我很喜欢。
+
+A：你今年多大？ 
+ B：我今年二十一岁。 
+ A：你的生日是哪天？ 
+ B：星期五是我的生日。 
+ A：是吗？快乐生日。 
+ B：谢谢。 
+
+A：您是哪儿人马？ 
+B：我是上海人。 
+A：你爸爸，妈妈都在上海吗？ 
+B：不，他们现在在北京。

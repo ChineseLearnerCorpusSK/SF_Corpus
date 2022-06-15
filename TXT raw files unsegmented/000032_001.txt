@@ -1,0 +1,18 @@
+<doc.id: 000032_001>
+<doc.year: 2021>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 4>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 250>
+
+
+我现在最大的压力就是我的毕业，因为我们真的不知道会发生什么，也不知道我们到底要怎么毕业。我也有压力因为现在的情况，不是因为我害怕生病，而是因为我认为有些人所做的事情毫无意义。
+嗯，通常压力对我有不好的影响，因为我会胃痛，感觉不好，但有时我需要压力或我不能正常工作。因为我的学校需要有压力，否则我不会做我的家庭作业。
+我不知道。通常当我感到有压力的时候，我就会去睡觉，哈哈，但有时这个不起作用，我无法入睡。其他时候，因为我没有完成作业而感到压力，我只要完成作业，我就不再有压力了。也许看电影或看书会有帮助。

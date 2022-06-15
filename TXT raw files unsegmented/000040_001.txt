@@ -1,0 +1,19 @@
+<doc.id: 000040_001>
+<doc.year: 2020>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 3>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 178>
+
+亲爱的妈妈，
+
+我在法国度假时给你写了一封信。我和朋友们在这里享受很多阳光、大海和有趣的博物馆。很抱歉你不能和我在一起。 我们四个月没见了！我特别想你，特别是在晚上，当我很想我的家人的时候。但只有两个月，我就会回到斯洛伐克的家。 那段时间我会去很多美丽的地方，然后我会给你看所有的照片和给你我买的纪念品。我相信你在家里过得很好,很快就会见到你! 我爱你。
+
+你可爱的女儿

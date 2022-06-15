@@ -1,0 +1,29 @@
+<doc.id: 000059_001>
+<doc.year: 2021>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 131>
+
+你们学院大不大？
+我们学运很大。
+你们学院有多少个系？
+我们学院有六系。
+你们学院有多少个专业？
+我们学院有无专业。
+你喜欢你的专业吗？
+她当然喜欢。
+
+你们汉语系的学生多不多？
+我们系的学生不很多。
+你们系的男学生多吗？
+我们系的男学生很少，女学生很多。
+她喜欢不喜欢他们系？
+我很喜欢。

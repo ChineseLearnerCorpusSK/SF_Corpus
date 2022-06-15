@@ -1,0 +1,53 @@
+<doc.id: 000061_001>
+<doc.year: 2021>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 321>
+
+A: 请问 ， 这是什么?
+B: 这是无数.
+A: 无数怎么样.？
+B: 很有意思.
+
+A: 这是什么?
+B: 这是熊猫.
+A: 熊猫怎么样?
+B: 她很漂亮.
+
+A: 我们去跳舞，好吗?
+B: 什么时候去?
+A:现在去，可以吗?
+B: 对不起， 明天我很忙，恐怕不行。
+A: 没关系。
+
+A: 你哥哥做什么工作 ?
+B: 她是学生。
+A: 她学习什么专业?
+B: 她学习汉语。
+
+A: 你们学院多少（个）系？ 
+B: 我们学院有下五个系。 
+A: 你们系的老师多不多？ 
+B: 我们系的老师一点。 
+
+A: 你们系的男学生多吗？ 
+B: 我们系的男学生很少，奴学生。 
+
+A:你今年多大？ 
+B: 我今年二十三。 
+A: 你爸爸，妈妈都在上海吗？ 
+B: 不，他们现在北京。  
+A: 你哥哥有孩子吗？ 
+B: 他有一个女儿和一个儿子。 
+A: 他们今天几岁？ 
+B: 女儿八岁，儿子五岁。 
+A: 下星期五是林娜的生日，我们有个聚会。你来不来？ 
+B: 我当然来。我厨师寿面和蛋糕，好吗？

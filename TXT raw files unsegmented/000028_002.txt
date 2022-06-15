@@ -1,0 +1,24 @@
+<doc.id: 000028_002>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 97>
+
+是五星期晚上你打算去那儿？
+最好的是出去玩儿
+一点吃一点聊天儿
+我请你马上来加入我
+你快穿上鞋，快跟着我
+我让你看我最喜欢的地方
+周五晚上我们出去玩儿
+在我的城市
+你一定会跟我朋友们谈得来
+我的城市打招呼你，欢迎光临

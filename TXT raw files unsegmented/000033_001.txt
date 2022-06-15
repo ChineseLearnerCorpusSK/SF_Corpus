@@ -1,0 +1,18 @@
+<doc.id: 000033_001>
+<doc.year: 2021>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 4>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 146>
+
+
+最大的压力来自无法完成工作的情况。 我总是尽责地按时完成工作。所以当我工作时突然发生了什么事，我对此感到难过。
+解决这种压力只有一种方法。我必须对所有事情进行完善的计划，以免发生意外事件。但是，这并不总是可能的。
+压力也有其好处。就我而言，压力迫使我计划自己的工作。没有压力，我将无法做大多数事情。

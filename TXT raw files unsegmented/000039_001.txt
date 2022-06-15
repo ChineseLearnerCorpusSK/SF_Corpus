@@ -1,0 +1,16 @@
+<doc.id: 000039_001>
+<doc.year: 2020>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 3>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 115>
+
+亲爱的XXX：
+当我与你第一次相见时，我的心跳就加快了。你的微笑让蔚蓝天空出现。你的眼像亮星一样。我从来没告诉你“我喜欢你”，因为我害怕你没有回应。即使我听不到你的声音，感觉不到你触摸，你还永远在我心中。如果没有你，我的心就像是缺一块。

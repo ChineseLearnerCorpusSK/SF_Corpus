@@ -1,0 +1,19 @@
+<doc.id: 000049_001>
+<doc.year: 2020>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 3>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 236>
+
+亲爱的马列克：
+你好我的爱人，你最近怎么样？
+谢谢你的来信。你真的让我感受到你的爱恋。看你的信的时候我一边高兴一边难过了。我们这么长时间没见面，没拥抱。每天好想你啊！怕你已经忘了我的美丽的样子，所以我附上了上周生日聚会的照片。（我穿着一条新裙子，你觉得怎么样？好不好看？）妈妈的生日聚会好玩儿极了。我们去过一个有名的餐厅叫EVIOLOL。餐厅的饭太好吃啊。真可惜你不在。当你来看我的时候，我们必须去那里吃饭啊。不但我的父母想见你，而且我给你买了一个秘密的礼物，所以很快来吧！
+我爱你
+你的爱人

@@ -1,0 +1,21 @@
+<doc.id: 000041_001>
+<doc.year: 2020>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 3>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 165>
+
+我帅的XY：
+这张信写给你，是因为我想让你知道我多么爱你。
+从我们一起的时候我知道了我对你有感情。
+你的声音总是让我感到安全和舒服。我们笑时候你眼睛忽闪忽闪是我最喜欢的事。我好想你的拥抱，想一同入睡。
+我爱你因为每次我有困难的时候你总是帮我。你知道你应该说什么，做什么。我是真的高兴和感激我有那么在乎我的男朋友。
+谢谢你的耐心跟我。
+我真的爱你

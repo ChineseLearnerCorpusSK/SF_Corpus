@@ -1,0 +1,24 @@
+<doc.id: 000069_001>
+<doc.year: 2021>
+<doc.gender: M>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 63>
+
+A：请问，厕所在哪儿？
+B: 对不起，请在说一遍。
+A：厕所在哪？
+
+请问，林娜在吗?
+他不在。
+他在哪儿?
+对不起。我不知道。
+没关系，再见！ 
+再见。

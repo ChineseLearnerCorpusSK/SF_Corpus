@@ -1,0 +1,22 @@
+<doc.id: 000072_005>
+<doc.year: 2021>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 292>
+
+我的宠物去世了
+
+我最好的朋友，就是我们的宠物。是一只狗叫小黑。因为他老了，有一天她去世了。那时我每天哭了，很想念她。没有她我感觉很孤单。为了平静一下，我每天去了散散步。虽然我还想念她，可是明白了我们的生活怎样。应该记住有一天我们都去世。到那时我们应该关心我们爱的人让他们知道，他们很重要。
+
+生病
+
+我们都认识药。可是什么药更好吗？有人说西药比较好，是因为味道不那么重。有人说中药更好，是因为它们很有用。我就是第二种人。对我来说，中药有很多好处。虽然中药比较苦，可是一两天我身体好起来。好多种中药，就是草药。我觉得这种药有最大的好处，所以我生病的时候，就吃中草药。
+你呢？你觉得西药还是中药更好？

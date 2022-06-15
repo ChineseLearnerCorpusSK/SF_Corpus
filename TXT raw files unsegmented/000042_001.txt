@@ -1,0 +1,19 @@
+<doc.id: 000042_001>
+<doc.year: 2020>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 3>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 144>
+
+我亲爱的爱人：
+我心爱的宝贝，我的思维堆积在我的脑海里，我忍不住告诉你我对你的感觉。我不想听起来过于甜蜜，因为我不把你看作是情人。
+我视你为我的伙伴、我的朋友、我的人生导师。即使我的情绪听起来很愚蠢，我也相信它们。你知道为什么？我看到我对你的感情是如何发展的！我越了解你，我就越爱你。
+此致
+敬礼

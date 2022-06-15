@@ -1,0 +1,16 @@
+<doc.id: 000035_001>
+<doc.year: 2021>
+<doc.gender: F>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 4>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 91>
+
+我喜欢压力，但是另一方面不喜欢压力。如果学习的时间压力很大，那就身体不太健康，睡不了，有时候人会生气。但压力的时候会减肥了，那就是好处。 有人说压力提供能量，可以激励，这个也就是好处。
+

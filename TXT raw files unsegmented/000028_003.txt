@@ -1,0 +1,24 @@
+<doc.id: 000028_003>
+<doc.year: 2018>
+<doc.gender: M>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 77>
+
+我们是葩和啤
+从太虚到这里
+我们想谈得来，打招呼你
+打招呼你
+女生们先生们
+了解外星人
+寻找朋友们寻找你。
+我们很高兴认识了你
+让社会了解星系和平
+太阳下的姐妹都闪闪发光

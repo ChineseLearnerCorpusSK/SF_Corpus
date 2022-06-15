@@ -1,0 +1,18 @@
+<doc.id: 000052_001>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: N>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: 3>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 138>
+
+亲爱的劳拉：
+你好！我最内亮的星星！
+你就像冬天的太阳，世界上最美的花。你像一只鸟飞进我的心里。你是黑暗中的光。我见你，心里鹿乱撞。当我看到你美丽的笑容，丘比特用箭射中了我。为什么除了你我谁都不爱？这是命运的安排吧？你是我的火，你是我的罪。除了你没有别人。
+送出热情的吻，我在等你。
