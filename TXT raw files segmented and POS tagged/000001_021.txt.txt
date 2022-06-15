@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  021/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  201/m  >/w  
+很多/a  人/n  说/v  ，/w  年龄/nt  只是/d  一个/r  数字/n  而已/u  。/w  我/r  却/d  不/d  同意/v  ，/w  我/r  觉得/v  如果/c  两/m  个人/r  的/u  年龄/nt  差异/n  很/d  大/a  （/w  20/m  年/nt  以上/nd  ）/w  ，/w  他们/r  的/u  恋爱/v  的/u  关系/n  很/d  奇怪/a  。/w  我/r  不/d  支持/v  这样/r  的/u  关系/n  但是/c  如果/c  两/m  个人/r  在/p  一起/d  很/d  满意/a  ，/w  就是/r  最/d  重要/a  的/u  。/w  然而/c  这样/r  的/u  关系/n  常常/d  包含/v  一个/r  富翁/n  和/c  十分/d  年轻/a  的/u  妻子/n  ，/w  好像/d  是/vl  爸爸/n  和/c  女儿/n  。/w  十有八九/i  她/r  是/vl  个/q  拜金/v  女/n  ，/w  并不/d  爱/v  她/r  的/u  丈夫/n  而是/vl  爱/v  他/r  的/u  财产/n  。/w  我/r  不太/d  明白/a  三十/m  岁/nt  的/u  女生/n  怎么/r  能/vu  爱上/v  八十/m  多/a  岁/nt  的/u  先生/n  ，/w  我/r  怀疑/v  是/vl  真正/a  的/u  爱情/n  ，/w  老人/n  也/d  不/d  应该/vu  那/r  天真/a  而/c  应该/vu  客观/a  地/u  判断/v  他/r  的/u  情况/n  。/w  

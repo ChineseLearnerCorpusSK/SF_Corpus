@@ -1,0 +1,22 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000016/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2018/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  exam/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  130/m  >/w  
+他/r  把/p  这/r  本/n  课本/n  翻译/v  的/u  法语/n  了/u  。/w  
+咱们/r  已经/d  看/v  一个/r  半/m  小时/nt  的/u  画/n  儿/n  了/u  。/w  
+今天/nt  你/r  怎么/r  的/u  [/w  ]/w  把/p  护照/n  带去/v  了/u  ？/w  
+他/r  把/p  礼物/n  送去/v  了/u  。/w  
+他/r  要/vu  每天/r  都/d  写/v  半/m  个/q  小时/nt  的/u  汉字/n  。/w  
+下/nd  做/v  事情/n  喜欢/v  的/u  孩子/n  课/n  自己/r  的/u  可以/vu  就/d  外国/n  听说/v  。/w  
+昨天/nt  我/r  的/u  睡/v  长/n  时间/n  很/d  觉/v  了/u  。/w  
+妈妈/n  和/c  儿子/n  一起/d  邮局/n  到/v  光盘/n  寄/v  了/u  。/w  
+她/r  工作人员/n  盿/x  包裹/n  的/u  海关/n  让/p  去/v  哪儿/r  ？/w  

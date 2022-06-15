@@ -1,0 +1,23 @@
+/w  /w  
+</w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  010/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  151/m  >/w  
+对不起/v  今天/nt  我/r  很/d  忙/a  ，/w  没有/v  时间/n  去/v  动物园/n  。/w  明天/nt  再说/c  。/w  
+学习/v  汉语/n  很/d  有意思/v  。/w  再说/c  也/d  能/vu  让/p  你/r  了解/v  别的/r  文化/n  。/w  
+这/r  家/n  饭馆/n  比较/v  贵/a  可是/d  菜/n  做得/v  很/d  地道/n  。/w  
+她/r  住/v  在/p  上海/ns  ，/w  是/vl  地道/n  的/u  上海人/n  。/w  
+我/r  几乎/d  完成/v  了/u  这个/r  作业/n  。/w  
+农民/n  几乎/d  都/d  养/v  动物/n  。/w  
+你/r  遇到/v  问/v  匙/x  的/u  时才/nh  意识到/v  谁/r  是/vl  你/r  实在/a  的/u  朋友/n  。/w  
+我/r  实在/a  不/d  知道/v  图书馆/n  怎么/r  走/v  。/w  
+听说/v  他/r  结婚/v  了/u  ，/w  至于/v  他/r  的/u  婚礼/n  ，/w  我/r  一点儿/d  也/d  不/d  知道/v  。/w  

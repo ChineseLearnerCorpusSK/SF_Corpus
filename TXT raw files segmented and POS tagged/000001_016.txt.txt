@@ -1,0 +1,15 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  016/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  224/m  >/w  
+李文/nh  的/u  故事/n  
+李文/nh  原来/d  是/vl  一个/r  单亲/n  妈妈/n  。/w  她/r  一/m  个人/r  带/n  孩子/n  而且/c  持/v  别忙/v  。/w  她/r  给/p  儿子/n  请/v  了/u  一个/r  家教/n  因为/c  她/r  的/u  能力/n  不够/v  。/w  哪怕/c  她/r  想/v  要/vu  跟/c  孩子/n  做/v  作业/n  ，/w  也/d  没有/v  时间/n  。/w  她/r  在/p  孩子/n  还/d  算/v  听话/a  ，/w  他/r  以/p  学习/v  为主/v  。/w  儿子/n  考上/v  初中/j  以后/nt  ，/w  李文/nh  到底/d  开始/v  考虑/v  自己/r  的/u  事/n  儿/n  。/w  她/r  看/v  了/u  一个/r  征婚/v  广告/n  ，/w  就/d  跟/c  一/m  位/q  小伙子/n  联系/n  了/u  。/w  他/r  看起来/v  很/d  懂事/v  。/w  他/r  是/vl  搞/v  医生/n  工作/n  的/u  ，/w  生活/n  比较/v  安定/a  。/w  李文/nh  怕/v  因为/c  她/r  有/v  孩子/n  了/u  ，/w  这个/r  小伙子/n  会/vu  判断/v  她/r  。/w  小伙子/n  不但/c  没有/v  判断/v  她/r  ，/w  反而/d  他/r  愿意/vu  帮助/v  她/r  抚养/v  儿子/n  。/w  李文/nh  高兴/a  极/d  了/u  ，/w  守/v  着/u  他/r  一辈子/nt  。/w  哪怕/c  下刀子/v  ，/w  他们俩/r  也/d  在/p  一起/d  。/w  

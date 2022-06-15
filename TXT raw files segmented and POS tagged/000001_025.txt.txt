@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  025/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  196/m  >/w  
+我们/r  国家/n  传统/n  的/u  美食/n  叫作/v  斯洛伐克/ns  饺子/n  ，/w  英文/n  的/u  名称/n  是/vl  Pierogi/ws  。/w  斯洛伐克/ns  饺子/n  的/u  形状/n  跟/c  月亮/n  一样/a  。/w  口味/n  很/d  好/a  ，/w  有/v  甜/a  的/u  也/d  有/v  咸/a  的/u  。/w  面团/n  是/vl  由/p  土豆/n  ，/w  盐/n  ，/w  面粉/n  和/c  鸡蛋/n  组成/v  的/u  。/w  饺子/n  里面/nd  常常/d  有/v  甜/a  的/u  土豆/n  ，/w  果子/n  酱/n  凝/v  乳/x  还有/v  特殊/a  的/u  奶酪/n  。/w  准备/v  这/r  道/n  菜/n  比较/v  容易/a  所以/c  很多/a  人/n  在家/v  自己/r  做/v  。/w  不过/c  也/d  可以/vu  去/v  饭馆/n  欣赏/v  这/r  道/n  菜/n  。/w  就/d  我/r  个人/r  而/c  言/v  ，/w  我/r  特别/d  喜欢/v  斯洛伐克/ns  饺子/n  ，/w  我/r  妈妈/n  每个/r  月/nt  一/m  次/q  为/p  我/r  ，/w  我/r  哥哥/n  和/c  爸爸/n  做/v  这/r  道/n  菜/n  让/p  我们/r  大饱口福/i  。/w  来/vd  斯洛伐克/ns  的/u  游客/n  也/d  非/d  品尝/v  这/r  道/n  菜/n  不可/vu  。/w  

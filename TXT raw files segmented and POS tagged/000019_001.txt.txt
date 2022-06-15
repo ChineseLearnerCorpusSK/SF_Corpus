@@ -1,0 +1,20 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000019/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2016/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  exam/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  72/m  >/w  
+桌子/n  上/nd  没/d  放/v  着/u  电脑/n  。/w  
+他/r  没有/v  你/r  那么/r  喜欢/v  音乐/n  。/w  
+你/r  戴上/v  好看/a  的/u  围巾/n  ，/w  就/d  更/d  好看/a  了/u  。/w  
+他/r  披/v  [/w  ]/w  车骑/n  了/u  宿/v  she/ws  前/nd  。/w  
+我/r  不是/vl  那么/r  票/n  亮/a  你/r  说/v  了/u  。/w  
+请/v  浇/v  一/m  浇/v  那个/r  水果/n  。/w  
+他/r  cong/ws  来/vd  没有/v  youyong/ws  。/w  

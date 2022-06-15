@@ -1,0 +1,18 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000015/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2018/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  exam/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  63/m  >/w  
+他/r  考/v  了/u  三/m  个/q  小时/nt  口语/n  考/v  。/w  
+我/r  把/p  还/d  得/u  先/d  上次/n  借/v  的/u  书/n  了/u  。/w  
+他/r  刚才/d  去/v  邮局/n  给/p  我/r  妹妹/n  寄/v  了/u  一/m  件/n  衣服/n  。/w  
+他/r  的/u  朋友/n  没有/v  回去/vd  宿舍/n  。/w  
+我/r  翻译/v  比/p  他/r  翻译/v  课文/n  得/u  快/a  。/w  

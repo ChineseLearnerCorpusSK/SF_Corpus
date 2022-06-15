@@ -1,0 +1,17 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  017/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  250/m  >/w  
+网络/n  游戏/n  
+目前/nt  越来越/d  多/a  人/n  喜欢/v  玩/v  网络/n  游戏/n  。/w  疫情/n  中/nd  ，/w  我们/r  不能/vu  出门/v  ，/w  必须/d  留/v  在家/v  所以/c  许多/a  人/n  迷上/v  了/u  网络/n  游戏/n  。/w  玩/v  游戏/n  既/c  方便/a  又/d  好玩/a  ，/w  难怪/d  网络/n  游戏/n  受/v  大家/n  的/u  欢迎/v  。/w  然而/c  玩/v  游戏/n  不只是/v  一个/r  打发/v  时间/n  的/u  方式/n  ，/w  更多/d  是/vl  个人/r  的/u  爱好/n  。/w  
+对/a  很多/a  人/n  来说/v  ，/w  网络/n  游戏/n  对/a  我们/r  有/v  许多/a  坏处/n  。/w  比如说/c  ，/w  危害/v  身体/n  健康/a  和/c  眼睛/n  。/w  有的人/n  对/a  游戏/n  上瘾/v  了/u  ，/w  每天/r  都/d  玩/v  8/m  个/q  小时/nt  的/u  游戏/n  。/w  这样/r  的/u  态度/n  是/vl  危险/a  的/u  但是/c  对/a  我/r  而/c  言/v  ，/w  玩/v  游戏/n  对/a  我们/r  也/d  有/v  帮/v  。/w  你/r  可以/vu  提高/v  英文/n  的/u  水平/n  ，/w  交到/v  新/a  朋友/n  ，/w  减轻/v  压力/n  。/w  
+总的来说/c  ，/w  游戏/n  的/u  方面/n  好坏/n  之/u  分/v  。/w  你/r  不能/vu  成为/v  游戏/n  的/u  奴隶/n  而是/vl  成为/v  它们/r  的/u  主人/n  。/w  每个/r  人/n  应该/vu  了解/v  自己/r  的/u  极限/n  。/w  

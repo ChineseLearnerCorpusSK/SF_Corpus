@@ -1,0 +1,19 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  018/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  446/m  >/w  
+成功/a  =/w  努力/v  +/w  坚持/v  +/w  失败/v  +/w  好运/n  
+凡是/d  人/n  ，/w  没有/v  不想/v  得到/v  成功/a  的/u  。/w  但是/c  怎么/r  能/vu  得到/v  成功/a  ？/w  多/a  我/r  而/c  言/v  ，/w  成功/a  的/u  公式/n  是/vl  成功/a  =/w  努力/v  +/w  坚持/v  +/w  失败/v  +/w  好运/n  。/w  每个/r  成分/n  特别/d  重要/a  ，/w  与/c  成功/a  息息相关/i  。/w  如果/c  缺乏/v  一个/r  成分/n  ，/w  你/r  很/d  难得/a  到/v  成就/n  。/w  
+努力/v  应该/vu  放/v  在/p  第一/m  位/q  。/w  努力/v  意味着/v  你/r  天/nt  天/nt  都/d  提高/v  自己/r  的/u  能力/n  ，/w  认真/a  地/u  从事/v  工作/n  。/w  勤劳/a  的/u  人会/ns  认/v  别人/r  对/a  他们/r  刮目相看/i  ，/w  很/d  容易/a  得到/v  别人/r  的/u  敬意/n  。/w  努力/v  的/u  人会/ns  快捷/a  地/u  解决/v  形形色色/a  的/u  问题/n  。/w  对/a  他们/r  来说/v  ，/w  世界/n  上/nd  没有/v  做/v  不到/v  的/u  事/n  儿/n  ，/w  只有/c  想不到/v  的/u  事/n  儿/n  。/w  
+得到/v  成功/a  的/u  时候/n  ，/w  坚持/v  也是/vl  至关重要/i  的/u  。/w  坚持/v  意味着/v  你/r  的/u  生活/n  中/nd  ，/w  没有/v  “/w  放弃/v  ”/w  这个/r  词语/n  。/w  哪怕/c  因/c  难/a  再/d  大/a  ，/w  我/r  也要/r  坚持/v  下去/v  ，/w  不/d  放弃/v  。/w  这样/r  的/u  态度/n  令人/n  佩服/v  。/w  
+我/r  把/p  失败/v  放/v  在/p  第三/m  位/q  。/w  这个/r  抉择/v  会/vu  认/v  很多/a  人/n  惊讶/a  。/w  对/a  他们/r  来说/v  ，/w  失败/v  意味着/v  没有/v  得到/v  成功/a  。/w  这样/r  的/u  思路/n  并不/d  对/a  。/w  失败/v  只是/d  个/q  练习/v  。/w  下子/v  你/r  得到/v  成功/a  可能/vu  是/vl  因为/c  过去/vd  的/u  失败/v  。/w  失败/v  中/nd  吸取/v  教训/n  算是/vl  特别/d  重要/a  的/u  。/w  
+我们/r  当然/d  也/d  不要/vu  忽略/v  好运/n  。/w  好运/n  是/vl  个/q  很/d  抽象/a  的/u  概念/n  ，/w  很/d  难/a  描述/v  但是/c  没有/v  好运/n  也/d  没有/v  成功/a  。/w  好运/n  的/u  关键/n  在于/v  耐性/n  。/w  我们/r  没办法/v  影响/v  我们/r  的/u  运气/n  ，/w  只要/vu  你/r  耐心/a  地/u  等待/v  它/r  ，/w  命运/n  就/d  给/p  你/r  带来/v  好运/n  。/w  

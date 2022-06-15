@@ -1,0 +1,15 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  006/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  200/m  >/w  
+教育/v  孩子/n  
+要/vu  说/v  我/r  啊/e  ，/w  父母/n  不/d  应该/vu  替/v  孩子/n  什么/r  都/d  做/v  因为/c  这样/r  的/u  孩子/n  将来/nt  不/d  独立/v  。/w  父母/n  当然/d  应该/vu  帮助/v  孩子/n  但是/c  也要/r  让/p  孩子/n  自己/r  的/u  事/n  儿/n  自己/r  的/u  做/v  。/w  样/n  孩子/n  孩子/n  会/vu  培养/v  好/a  习惯/v  ，/w  他们/r  成为/v  可靠/a  的/u  大人/n  。/w  父母/n  很/d  爱/v  孩子/n  ，/w  要/vu  帮助/v  但是/c  这样/r  的/u  行为/n  可以/vu  帮倒忙/v  。/w  我/r  的/u  父母/n  也/d  很/d  照顾/v  我/r  。/w  妈妈/n  想/v  替/v  我/r  办/v  很多/a  事/n  儿/n  但是/c  我/r  说/v  我/r  应该/vu  自己/r  说/v  ，/w  不/d  需要/v  她/r  的/u  帮助/v  。/w  爸爸/n  的/u  教育/v  是/vl  相反/v  的/u  。/w  他/r  让/p  我/r  自己/r  解决/v  问/v  匙/x  。/w  我/r  赞成/v  他/r  的/u  态度/n  。/w  尽管/d  他/r  让/p  我/r  自己/r  做/v  ，/w  但是/c  我/r  真/a  需要/v  帮助/v  的/u  时候/n  ，/w  他/r  连忙/d  帮/v  我/r  。/w  

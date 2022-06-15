@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  022/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  181/m  >/w  
+我/r  能/vu  接受/v  植入/v  广告/n  因为/c  这样/r  的/u  广告/n  对/a  我/r  对/a  我/r  看/v  电影/n  的/u  卬/x  象/p  不/d  产生/v  影响/v  ，/w  我/r  不理/v  这种/r  广告/n  。/w  但是/c  在/p  斯洛伐克/ns  看/v  电视剧/n  的/u  时候/n  ，/w  电视频道/n  每个/r  20/m  分钟/q  以后/nt  播出/v  7/m  -/w  8/m  分钟/q  广告/n  ，/w  这/r  则/c  广告/n  很/d  麻烦/a  ，/w  我/r  接受/v  不了/v  。/w  如果/c  你/r  看/v  90/m  分钟/q  的/u  电影/n  ，/w  你/r  大概/d  要/vu  花/n  两/m  个/q  小时/nt  的/u  时间/n  。/w  看/v  电影/n  的/u  卬/x  象/p  也/d  不太/d  好/a  。/w  有时候/d  我/r  觉得/v  广告/n  比/p  电影/n  更/d  重要/a  。/w  有的人/n  开玩笑/i  地/u  说/v  ：/w  我/r  在/p  看/v  广告/n  ，/w  你们/r  为什么/d  用/v  电影/n  中断/v  我/r  的/u  广告/n  。/w  广告/n  也/d  很/d  无聊/a  ，/w  一点/mq  也/d  不/d  幽默/a  。/w  

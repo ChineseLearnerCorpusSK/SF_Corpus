@@ -1,0 +1,19 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  024/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  439/m  >/w  
+我/r  喜欢/v  斯洛伐克/ns  的/u  N/ws  个/q  理由/n  
+我/r  不敢/vu  说/v  斯洛伐克/ns  是/vl  世界/n  上/nd  最好/a  的/u  国家/n  不过/c  斯洛伐克/ns  是/vl  我/r  的/u  祖国/n  。/w  你们/r  没准/v  不/d  知道/v  这个/r  国家/n  位于/v  哪儿/r  。/w  你们/r  没准/v  不/d  知道/v  斯洛伐克/ns  和/c  捷克/ns  是/vl  两/m  个/q  不同/a  的/u  国家/n  。/w  可是/d  我/r  想/v  跟/c  你们/r  分享/v  我/r  热爱/v  斯洛伐克/ns  的/u  N/ws  个/q  理由/n  。/w  
+首先/d  ，/w  我们/r  国家/n  的/u  人/n  是/vl  东/nd  于/p  助人/v  的/u  ，/w  不管/c  遇到/v  什么/r  困难/n  ，/w  我们/r  毫不犹豫/i  地/u  帮助/v  你/r  。/w  你/r  迷路/v  了/u  吗/u  ？/w  你/r  的/u  车/n  抛锚/v  了/u  吗/u  ？/w  手机/n  没有/v  信号/n  吗/u  ？/w  别/d  着急/v  ，/w  在/p  斯洛伐克/ns  十有八九/i  会/vu  碰到/v  东/nd  于/p  助人/v  的/u  人/n  。/w  
+其次/r  ，/w  对/a  我/r  来说/v  ，/w  斯洛伐克/ns  是/vl  世界/n  上/nd  最/d  美丽/a  的/u  国家/n  之一/m  。/w  名胜古迹/i  多/a  得数/n  不清/a  ，/w  有/v  美妙/a  的/u  城堡/n  也/d  有/v  漂亮/a  的/u  教堂/n  。/w  除了/p  历史/n  的/u  遗产/n  ，/w  斯洛伐克/ns  给/p  游客/n  提供/v  美丽/a  的/u  大自然/n  。/w  每个/r  地区/n  很/d  有特色/v  ，/w  很/d  不/d  一样/a  。/w  
+第三/m  个/q  理由/n  是/vl  我们/r  的/u  传统/n  文化/n  。/w  传统/n  的/u  舞蹈/n  和/c  歌曲/n  优美/a  极/d  了/u  。/w  我们/r  的/u  节日/nt  也/d  挺/d  独特/a  。/w  比如说/c  在/p  复活节/nt  男孩子/n  给/p  女孩子/n  浇水/v  。/w  为什么/d  ？/w  其实/d  ，/w  原因/n  很/d  简单/a  ，/w  就是/r  为了/p  使/v  她们/r  更加/d  漂亮/a  。/w  
+总的来说/c  ，/w  我/r  的/u  祖国/n  当然/d  不是/vl  理想/n  的/u  国家/n  ，/w  也/d  有/v  一些/m  问题/n  。/w  可是/d  我/r  还/d  热爱/v  它/r  因为/c  我/r  在/p  这儿/r  出生/v  了/u  ，/w  长大/v  了/u  。/w  如果/c  你们/r  不/d  相信/v  我/r  所/u  说/v  的/u  ，/w  就/d  来/vd  斯洛伐克/ns  亲自/d  体验/v  。/w  我/r  保证/v  你们/r  不会/vu  后悔/v  。/w  

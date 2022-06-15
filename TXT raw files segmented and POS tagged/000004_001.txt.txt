@@ -1,0 +1,43 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000004/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2018/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  exam/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  424/m  >/w  
+邮局/n  后边/nd  是/vl  我们/r  学校/n  。/w  
+饭馆/n  离/v  这儿/r  不远/a  。/w  
+昨天/nt  他/r  什么/r  时候/n  回家/v  来/vd  了/u  ？/w  
+他/r  已经/d  学/v  英语/n  学/v  了/u  三/m  年/nt  了/u  。/w  
+公园/n  后边/nd  有/v  一个/r  宿舍/n  。/w  
+下/nd  公共汽车/n  以后/nt  ，/w  走/v  前边/nd  ，/w  拐/v  左边/nd  ，/w  就/d  到/v  那儿/r  。/w  
+咱们/r  系/v  队/n  踢/v  得/u  怎么/r  蛋糕/n  ？/w  
+过去/vd  ,/w  园林/n  是/vl  一些/m  有钱人/n  请/v  那些/r  人/n  修建/v  的/u  。/w  
+张/nhf  老师/n  要/vu  写/v  一/m  篇/q  文章/n  ，/w  介绍/v  他/r  租/v  的/u  房子/n  吧/u  ？/w  
+参加/v  聚会/v  的/u  时候/n  我们/r  可以/vu  带/n  吃/v  的/u  ，/w  送/v  花/n  儿/n  也是/vl  西方人/n  的/u  习惯/v  。/w  
+每天/r  他/r  都/d  要/vu  写/v  半/m  个/q  小时/nt  的/u  汉字/n  。/w  
+他/r  把/p  这/r  本/n  课本/n  翻译/v  成/v  英语/n  了/u  。/w  
+妈妈/n  和/c  儿子/n  一起/d  到/v  邮局/n  把/p  光盘/n  寄/v  了/u  。/w  
+他/r  说/v  他/r  要/vu  从/p  山下/nl  爬上/v  去/v  ，/w  再/d  从/p  山顶/nl  走下/v  米/n  [/w  Sn/ws  //w  v/ws  ]/w  。/w  
+他/r  把/p  这/r  本/n  课本/n  翻译/v  成/v  法语/n  了/u  。/w  
+咱们/r  已经/d  看/v  了/u  一个/r  半/m  小时/nt  的/u  画/n  儿/n  了/u  。/w  
+今天/nt  怎么/r  去/v  把/p  护照/n  带来/v  了/u  ？/w  
+现在/nt  你/r  是不是/v  坐/v  电梯/n  山楼/ns  去/v  ？/w  
+他/r  把/p  礼物/n  送给/v  你/r  了/u  。/w  
+他/r  要/vu  每天/r  的/u  汉字/n  都/d  写/v  半/m  个/q  小时/nt  。/w  
+听说/v  外国/n  的/u  孩子/n  下课/v  就/d  可以/vu  做/v  自己/r  喜欢/v  的/u  事情/n  。/w  
+昨天/nt  我/r  睡觉/v  了/u  很/d  长/n  的/u  时间/n  。/w  
+妈妈/n  和/c  儿子/n  一起/d  到了/v  邮局/n  寄/v  光盘/n  。/w  
+海关/n  的/u  工作人员/n  让/p  她/r  去/v  哪儿/r  取/v  包裹/n  ？/w  
+我/r  刚才/d  去/v  邮局/n  给/p  我/r  妈妈/n  寄/v  了/u  一点儿/d  东西/n  。/w  
+我/r  比/p  他/r  翻译/v  课文/n  翻译/v  的/u  好/a  。/w  
+我/r  先/d  得/u  把/p  上次/n  借/v  的/u  书/n  还/d  了/u  。/w  
+我/r  考/v  汉语/n  考/v  了/u  两/m  个/q  小时/nt  。/w  
+我/r  爸爸/n  回家/v  没有/v  去/v  。/w  
+我/r  把/p  这/r  事/n  儿/n  忘/v  了/u  。/w  

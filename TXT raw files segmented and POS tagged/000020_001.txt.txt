@@ -1,0 +1,22 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000020/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2016/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  exam/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  82/m  >/w  
+在/p  桌子/n  上/nd  不/d  放/v  着/u  。/w  
+他/r  跟/c  你/r  不如/v  喜欢/v  乐意/v  。/w  
+他/r  开车/v  地/u  来/vd  在/p  宿舍/n  前边/nd  。/w  
+我/r  不/d  这么/r  piao/ws  亮/a  跟/c  你/r  说/v  。/w  
+请/v  选/v  那个/r  。/w  
+我/r  这么/r  累/v  ，/w  我/r  在/p  。/w  
+我/r  要/vu  这儿/r  说说/v  一点儿/d  。/w  
+这个/r  衣服/n  是/vl  卖/v  的/u  。/w  
+他/r  从来/d  有/v  过/vd  you/ws  泳/x  。/w  

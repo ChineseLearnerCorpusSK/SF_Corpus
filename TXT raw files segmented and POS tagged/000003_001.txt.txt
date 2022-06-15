@@ -1,0 +1,29 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000003/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2018/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  exam/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  200/m  >/w  
+youju/ws  下/nd  ]/w  边/n  是/vl  我们/r  学/v  郊/n  [/w  Sw/ws  ]/w  。/w  
+饭馆/n  在/p  不远/a  。/w  
+他/r  学/v  英/n  文学/n  了/u  三/m  年/nt  。/w  
+园林/n  下边/nd  有/v  一个/r  sushe/ws  。/w  
+他/r  每天/r  都/d  要/vu  半/m  个/q  小时/nt  写/v  的/u  汉字/n  。/w  
+张/nhf  老师/n  要/vu  写/v  一/m  篇/q  文章/n  介绍/v  租/v  的/u  房子/n  吧/u  ？/w  
+他/r  把/p  这/r  本/n  课本/n  英语/n  翻译/v  成/v  了/u  。/w  
+他/r  把/p  这/r  本/n  英语/n  课本/n  翻译/v  成/v  了/u  。/w  
+他/r  说/v  他/r  要/vu  从/p  爬山/v  上/nd  下去/v  ，/w  再/d  从/p  山顶/nl  走/v  下来/v  。/w  
+他/r  把/p  礼物/n  送/v  gei/ws  你/r  了/u  。/w  
+我/r  昨天/nt  睡觉/v  了/u  很/d  长/n  的/u  时间/n  。/w  
+妈妈/n  和/c  儿子/n  把/p  邮局/n  一起/d  到了/v  。/w  
+我/r  刚才/d  邮局/n  去/v  了/u  给/p  我/r  妈妈/n  寄/v  一点儿/d  东西/n  。/w  
+我/r  课文/n  翻译/v  比/p  他/r  得/u  翻译/v  好/a  。/w  
+我/r  考/v  考/v  了/u  汉语/n  两/m  个/q  小时/nt  。/w  
+他/r  的/u  爸爸/n  没有/v  去/v  回家/v  。/w  

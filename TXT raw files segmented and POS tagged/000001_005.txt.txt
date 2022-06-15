@@ -1,0 +1,15 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  005/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  168/m  >/w  
+我/r  的/u  休息日/nt  
+如果/c  我/r  不/d  应该/vu  上课/v  ，/w  不/d  应该/vu  做/v  作业/n  我/r  有/v  时间/n  弄/v  个/q  别的/r  事/n  儿/n  。/w  依我看/i  ，/w  每个/r  人/n  应该/vu  有/v  许多/a  爱好/n  省得/v  之/u  味/n  生活/n  。/w  打发/v  时间/n  的/u  方式/n  很多/a  。/w  我/r  业余/n  时间/n  喜/v  做/v  运动/n  ，/w  比如说/c  打/v  网球/n  、/w  跑步/v  、/w  骑/v  自行车/n  。/w  这样/r  的/u  活动/v  对/a  健康/a  有/v  好处/n  。/w  除了/p  运动/n  以外/nd  ，/w  我/r  也/d  喜/v  玩/v  电脑/n  游戏/n  ，/w  看书/v  ，/w  跟/c  朋友/n  一起/d  去/v  玩/v  。/w  某/r  时候/n  我/r  懒得/v  出去/v  玩/v  。/w  当时/nt  我/r  在家/v  休息/v  ，/w  看/v  电视/n  。/w  要/vu  我/r  说/v  啊/e  ，/w  业余/n  活动/v  使/v  我们/r  的/u  生活/n  更有/v  意义/n  。/w  

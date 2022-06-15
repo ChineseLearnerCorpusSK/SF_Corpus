@@ -1,0 +1,21 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000009/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2018/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  exam/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  85/m  >/w  
+我/r  刚才/d  去/v  邮局/n  给/p  我/r  妈妈/n  寄/v  了/u  一点儿/d  东西/n  。/w  
+他/r  翻译/v  课文/n  比/p  我/r  翻译/v  得/u  好/a  。/w  
+我/r  先/d  得/u  把/p  上次/n  借/v  的/u  书/n  还/d  了/u  。/w  
+我/r  考/v  考/v  了/u  汉语/n  两/m  个/q  小时/nt  。/w  
+他/r  的/u  爸爸/n  没有/v  回去/vd  家/n  。/w  
+我/r  把/p  这/r  本书/ns  忘/v  了/u  。/w  
+我/r  把/p  这个/r  茶/n  喝/v  了/u  。/w  
+我/r  把/p  他/r  打/v  了/u  。/w  

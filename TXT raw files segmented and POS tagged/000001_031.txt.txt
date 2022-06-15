@@ -1,0 +1,18 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  031/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  355/m  >/w  
+人/n  之间/nd  的/u  隐私/n  
+对/a  很多/a  人/n  来说/v  ，/w  隐私/n  算是/vl  非常/d  重要/a  。/w  我们/r  的/u  隐私/n  包含/v  形形色色/a  的/u  信息/n  ，/w  比如说/c  我们/r  的/u  年龄/nt  、/w  住所/n  、/w  密码/n  和/c  相关/v  爱情/n  的/u  事件/n  。/w  有的人/n  不太/d  珍惜/v  自己/r  的/u  隐私/n  但是/c  早日/d  晚会/n  后悔/v  这样/r  的/u  态度/n  。/w  
+对/a  我/r  而/c  言/v  ，/w  人/n  之间/nd  应该/vu  有/v  隐私/n  。/w  每个/r  人/n  需要/v  隐私/n  空间/n  为了/p  感到/v  舒服/a  。/w  别人/r  侵犯/v  我/r  的/u  隐私/n  的/u  时候/n  ，/w  难免/a  会/vu  出现/v  问题/n  。/w  一来/c  呢/u  ，/w  我/r  很/d  不/d  自在/a  ，/w  二来/m  呢/u  ，/w  我/r  必须/d  教训/n  对方/n  ，/w  三/m  来/vd  呢/u  ，/w  这样/r  的/u  情况/n  会/vu  导致/v  争吵/v  。/w  我/r  不是/vl  说/v  我们/r  不/d  应该/vu  跟/c  家人/n  或者/d  朋友/n  分享/v  有些/m  隐私/n  的/u  信息/n  ，/w  比如说/c  你/r  当然/d  可以/vu  跟/c  最好/a  的/u  朋友/n  郰/x  聊/v  谈恋爱/v  的/u  话题/n  。/w  然而/c  不要/vu  泄漏/v  所有/a  的/u  信息/n  因为/c  你/r  一旦/d  让/p  别人/r  知道/v  你/r  的/u  隐私/n  信息/n  ，/w  就/d  没办法/v  扭转/v  。/w  
+说到/v  人/n  之间/nd  的/u  隐私/n  ，/w  我/r  也要/r  提到/v  明星/n  。/w  他们/r  一辈子/nt  想得到/v  名气/n  ，/w  成功/a  可是/d  得到/v  名气/n  以后/nt  ，/w  他们/r  失去/v  隐私/n  空间/n  。/w  这样/r  的/u  明星/n  抓耳挠腮/i  的/u  ，/w  偶尔/d  会/vu  自杀/v  。/w  
+总的来说/c  ，/w  每个/r  人/n  应该/vu  珍惜/v  而/c  保护/v  自己/r  的/u  隐私/n  因为/c  它/r  是/vl  无价之宝/i  。/w  失去/v  隐私/n  以后/nt  ，/w  很/d  难/a  地/u  换回/v  所/u  失去/v  的/u  。/w  

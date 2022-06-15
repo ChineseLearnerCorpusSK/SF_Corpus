@@ -1,0 +1,22 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000014/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2018/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  exam/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  120/m  >/w  
+咱们/r  已经/d  看/v  了/u  一个/r  半/m  小时/nt  画/n  儿/n  了/u  。/w  
+今天/nt  怎么/r  [/w  M/ws  ]/w  把/p  护照/n  带来/v  了/u  ？/w  
+现在/nt  你/r  是不是/v  坐/v  电梯/n  山楼/ns  去/v  ？/w  
+儿子/n  和/c  妈妈/n  一起/d  把/p  寄/v  了/u  光盘/n  到/v  邮局/n  。/w  
+他/r  考/v  了/u  三/m  个/q  小时/nt  口语/n  考/v  。/w  
+先/d  我/r  上次/n  借/v  的/u  书/n  把/p  得/u  还/d  了/u  。/w  
+我/r  妹妹/n  刚才/d  去/v  邮局/n  给/p  他/r  寄/v  了/u  一/m  件/n  衣服/n  。/w  
+朋友/n  没有/v  回去/vd  她/r  的/u  宿舍/n  。/w  
+我/r  翻译/v  课文/n  比/p  他/r  翻译/v  得/u  快/a  。/w  

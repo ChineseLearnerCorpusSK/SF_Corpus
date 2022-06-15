@@ -1,0 +1,23 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000017/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2016/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  exam/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  250/m  >/w  
+桌子/n  上/nd  没有/v  放/v  差/a  电脑/n  。/w  
+他/r  gen/ws  你/r  喜欢/v  音乐/n  不/d  一样/a  。/w  
+他/r  没有/v  你/r  那么/r  喜欢/v  音乐/n  。/w  
+她/r  穿/v  了/u  这/r  件/n  漂亮/a  的/u  围巾/n  ，/w  她/r  还/d  美/a  。/w  
+他/r  是/vl  开车/v  宿舍/n  前边/nd  来/vd  的/u  。/w  
+我/r  不是/vl  你/r  说/v  的/u  美/a  。/w  
+请/v  你/r  这个/r  水果/n  洗/v  了/u  。/w  
+我/r  累/v  了/u  ，/w  就/d  躺/v  上床/v  。/w  
+我/r  想/v  在/p  这儿/r  说/v  一点儿/d  话/n  。/w  
+这/r  件/n  衣服/n  买走/v  了/u  。/w  

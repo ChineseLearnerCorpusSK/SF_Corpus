@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  011/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  117/m  >/w  
+我/r  去/v  意大利/ns  的/u  时候/n  ，/w  我/r  看/v  了/u  很多/a  著名/a  的/u  风景区/n  。/w  意大利/ns  最大/a  人口/n  的/u  城市/n  是/vl  罗马/ns  。/w  刚/d  来/vd  的/u  时/nt  我/r  对/a  那个/r  城市/n  一点儿/d  也/d  不/d  了解/v  。/w  怎/r  去/v  商店/n  ，/w  怎么/r  坐/v  公共汽车/n  我/r  都/d  不/d  知道/v  。/w  简直/d  太/d  复杂/a  了/u  。/w  可是/d  一个/r  陌生人/n  看出/v  了/u  我/r  的/u  心事/n  。/w  他/r  成为/v  了/u  我/r  第一/m  个/q  意大利/ns  的/u  朋友/n  。/w  他/r  简直/d  多么/d  热情/a  啊/e  。/w  

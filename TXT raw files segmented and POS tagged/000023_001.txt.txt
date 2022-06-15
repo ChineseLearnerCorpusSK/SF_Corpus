@@ -1,0 +1,21 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000023/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2016/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  exam/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  74/m  >/w  
+在/p  zhuozi/ws  没有/v  上电区/ns  [/w  ]/w  。/w  
+他/r  跟/c  你/r  没/d  喜/v  对/a  [/w  ]/w  音乐/n  一样/a  。/w  
+他/r  开/v  到了/v  宿舍/n  的/u  前边/nd  。/w  
+我/r  没有/v  很/d  漂亮/a  你/r  说/v  的/u  。/w  
+请/v  ./w  ./w  那个/r  水单/n  。/w  
+我/r  要/vu  这儿/r  一点儿/d  说/v  。/w  
+这个/r  衣服/n  是/vl  就/d  卖/v  到了/v  。/w  
+他/r  从来/d  没有/v  游/v  。/w  

@@ -1,0 +1,41 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  002/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  531/m  >/w  
+我/r  更/d  喜欢/v  住/v  平房/n  因为/c  你/r  和/c  邻居/n  的/u  关系/n  密切/a  。/w  
+我/r  平时/nt  喜欢/v  跟/c  邻居/n  聊天/v  儿/n  ，/w  说/v  生活/n  的/u  事情/n  。/w  
+你/r  的/u  邻居/n  也/d  可以/vu  帮助/v  你/r  。/w  其次/r  我/r  认为/v  住/v  平房/n  非常/d  方便/a  。/w  你/r  有/v  自己/r  的/u  原子/n  和/c  花园/n  ，/w  可以/vu  养/v  各种各样/i  的/u  动物/n  和/c  植物/n  。/w  
+如果/c  你/r  吃/v  自己/r  养/v  的/u  水果/n  或者/d  肉/n  的话/u  ，/w  对/a  你/r  的/u  身体/n  挺/d  健康/a  。/w  
+除了/p  此/r  意外/a  ，/w  平方/q  多半/m  比/p  楼房/n  大/a  。/w  要是/c  你/r  家人/n  比较/v  多/a  ，/w  住/v  楼房/n  就/d  不太/d  合适/a  。/w  对/a  我/r  来说/v  住/v  平房/n  肯定/d  是/vl  最好/a  的/u  选择/v  。/w  
+别/d  理/n  她/r  ，/w  她/r  就是/r  一个/r  骗子/n  。/w  
+他/r  不想/v  理/n  她/r  因为/c  他们俩/r  分手/v  了/u  。/w  
+对于/p  我/r  的/u  婚礼/n  我/r  还/d  在/p  犹豫/v  。/w  
+我/r  不/d  知道/v  正确/a  的/u  答案/n  因此/c  忧郁/a  地/u  回答/v  老师/n  的/u  问题/n  。/w  
+马克/n  从来/d  没/d  迟到/v  过/vd  。/w  他/r  没/d  准儿/n  下来/v  了/u  。/w  
+今天/nt  我/r  头疼/v  没/d  准儿/n  不/d  上班/v  。/w  
+我/r  至今/d  看/v  没/d  见过/v  那/r  漂亮/a  的/u  姑娘/n  。/w  
+有的人/n  至今/d  不会/vu  用/v  互联网/n  。/w  
+斯洛伐克/ns  算是/vl  美丽/a  的/u  国家/n  。/w  
+中国/ns  算是/vl  按照/p  人口/n  最大/a  的/u  国家/n  。/w  
+美国/ns  的/u  总统/n  拥有/v  很/d  大/a  的/u  权力/n  。/w  
+我们/r  大学/n  拥有/v  几/m  千/m  个/q  学生/n  。/w  
+为了/p  回报/v  父母/n  退休/v  以后/nt  ，/w  我/r  照顾/v  他们/r  。/w  
+我/r  怎么/r  能/vu  回报/v  你/r  呢/u  ？/w  
+因为/c  他/r  是/vl  一个/r  孤儿/n  ，/w  我/r  必须/d  抚养/v  他/r  。/w  
+因为/c  我/r  每天/r  都/d  说/v  汉语/n  ，/w  我/r  培养/v  了/u  说/v  汉语/n  的/u  习惯/v  。/w  
+如果/c  你/r  听/v  不/d  懂/v  老师/n  说/v  什么/r  ，/w  就/d  问/v  他/r  ，/w  别/d  不/d  懂/v  装/v  懂/v  。/w  
+我/r  不会/vu  说/v  日语/n  可是/d  去/v  东京/ns  的/u  时候/n  ，/w  我/r  装/v  我/r  说/v  日语/n  。/w  
+他/r  真是/v  一个/r  慈善家/n  因为/c  常常/d  给/p  贫穷/a  的/u  人/n  捐钱/v  。/w  
+中国/ns  给/p  斯洛伐克/ns  捐/v  了/u  许多/a  口罩/n  ，/w  我们/r  很/d  感激/v  。/w  
+早/a  知道/v  他/r  这么/r  骄傲/a  ，/w  当初/nt  就/d  没/d  和/c  他/r  谈恋爱/v  。/w  
+我/r  正在/d  准备/v  去/v  机场/n  接/v  朋友/n  ，/w  谁知/v  他/r  的/u  航班/n  取消/v  了/u  。/w  
+高考/j  成绩/n  关系/n  到/v  一/m  个人/r  今后/nt  的/u  命运/n  。/w  

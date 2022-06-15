@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  014/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  356/m  >/w  
+下班/v  骑/v  自行车/n  ，/w  我/r  看到/v  一个/r  小男孩/n  儿/n  拿/v  着/u  一/m  盒/n  冰淇淋/n  跑/v  过/vd  马路/n  ，/w  不小心/v  摔倒/v  了/u  ，/w  冰淇淋/n  飞出/v  好/a  远/a  。/w  小孩子/n  趴/v  在/p  地上/nl  大哭/v  ，/w  我/r  连忙/d  下车/v  把/p  他/r  扶/v  起来/vd  。/w  这时候/nt  从/p  路边/nl  的/u  楼/n  里/nd  跑/v  出来/vd  一个/r  女人/n  ，/w  抱/v  着/u  孩子/n  左/nd  看/v  右看/v  。/w  我/r  跟/c  她/r  说/v  :/w  孩子/n  摔跤/v  了/u  。/w  孩子/n  摔跤/v  。/w  接着/v  我/r  跟/c  小/a  孩儿/n  说/v  ：/w  别/d  哭/v  了/u  ！/w  我/r  为/p  你/r  买/v  另/r  一/m  盒/n  冰淇淋/n  。/w  孩子/n  突然/d  停止/v  哭/v  。/w  孩子/n  突然/d  停止/v  哭/v  。/w  妈妈/n  听到/v  了/u  我/r  的话/u  ，/w  就/d  推辞/v  了/u  。/w  她/r  说/v  ：/w  不好意思/i  。/w  我/r  儿子/n  是/vl  一个/r  马大哈/a  。/w  妈妈/n  连声/d  道谢/v  。/w  尽管/d  她/r  拒绝/v  了/u  我/r  的/u  建议/v  ，/w  但是/c  我/r  也/d  请/v  他们/r  吃/v  冰淇淋/n  。/w  今天/nt  的/u  生活/n  非常/d  难/a  。/w  今天/nt  的/u  生活/n  非常/d  艰苦/a  。/w  社会/n  的/u  压力/n  很/d  大/a  。/w  但是/c  我们/r  都是/r  人们/n  ，/w  我们/r  应该/vu  互相/d  诚心诚意/i  地/u  帮助/v  。/w  但是/c  我们/r  都是/r  人们/n  ，/w  。/w  所以/c  下次/n  你/r  遇到/v  一个/r  有/v  问题/n  的/u  人/n  ，/w  你/r  肯定/d  帮助/v  他/r  。/w  所以/c  下次/n  你/r  遇到/v  一个/r  的/u  人/n  ，/w  你/r  肯定/d  帮助/v  他/r  。/w  可是/d  先/d  考虑/v  一下/mq  ，/w  想/v  出来/vd  最佳/a  的/u  方式/n  免得/c  帮倒忙/v  。/w  将来/nt  没/d  准儿/n  你/r  也/d  成为/v  这个/r  有/v  问/v  匙/x  的/u  人/n  。/w  

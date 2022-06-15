@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  029/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  190/m  >/w  
+我/r  是/vl  个/q  不太/d  喜欢/v  风险/n  的/u  人/n  ，/w  不过/c  生活/n  也/d  需要/v  一些/m  冒险/v  要不然/c  比较/v  平淡/a  ，/w  比较/v  乏味/a  。/w  如果/c  我/r  想/v  体验/v  到/v  冒险/v  ，/w  我/r  就/d  去/v  旅游/v  因为/c  旅行/v  非/d  冒险/v  不可/vu  。/w  你/r  能/vu  制定/v  很/d  详细/a  的/u  计划/n  可是/d  难免/a  会/vu  遇到/v  困难/n  和/c  冒险/v  。/w  我/r  曾经/d  去过/v  意大利/ns  旅游/v  ，/w  是/vl  我/r  第一次/mq  坐飞机/v  去/v  。/w  朋友们/n  安慰/v  我/r  说/v  飞机/n  很/d  安全/a  但是/c  我/r  仍然/d  害怕/v  了/u  。/w  虽然/c  飞行/v  持续/v  了/u  两/m  个/q  小时/nt  可是/d  我/r  浑身/n  不/d  自在/a  。/w  着陆/v  后/nd  ，/w  我/r  松/n  了/u  一口气/n  我/r  就/d  开心/a  得/u  什么/r  似的/u  后来/nt  。/w  我们/r  在/p  罗马/ns  玩/v  得/u  特别/d  好/a  ，/w  依我看/i  是/vl  个/q  难忘/v  的/u  旅途/n  。/w  

@@ -1,0 +1,19 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  030/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  397/m  >/w  
+我/r  的/u  一/m  张/nhf  照片/n  
+每/r  张/nhf  照片/n  有/v  自己/r  的/u  故事/n  。/w  有的/r  照片/n  使/v  我们/r  感受到/v  特别/d  开心/a  ，/w  有的/r  照片/n  给/p  我们/r  带来/v  痛苦/a  。/w  今天/nt  我/r  也要/r  给/p  你们/r  介绍/v  一下/mq  我/r  最/d  喜欢/v  的/u  照片/n  。/w  
+这/r  张/nhf  照片/n  给/p  我/r  留下/v  了/u  很/d  深刻/a  的/u  印象/n  。/w  照片/n  上/nd  有/v  我/r  和/c  三/m  个/q  铁哥们/n  在/p  罗马/ns  的/u  景/n  情/n  ，/w  后面/nl  有/v  一/m  座/q  罗马/ns  的/u  名胜古迹/i  。/w  从/p  我们/r  的/u  表情/n  你/r  能/vu  看得出/v  来/vd  我们/r  高兴/a  得/u  什么/r  似的/u  。/w  虽然/c  旅途/n  中/nd  我们/r  收到/v  了/u  有/v  一些/m  挫折/n  可是/d  我们/r  克服/v  了/u  所有/a  的/u  问题/n  。/w  
+这/r  张/nhf  照片/n  是/vl  在/p  2019/m  年/nt  夏天/nt  拍/v  下来/v  的/u  。/w  当时/nt  我们/r  都/d  成功/a  地/u  通过/p  了/u  入学/v  考试/v  所以/c  开学/v  以前/nt  要/vu  放松/v  一下/mq  。/w  我们/r  在/p  罗马/ns  住过/v  四/m  天/nt  ，/w  每天/r  的/u  日程/n  安排/v  得/u  很/d  满/a  。/w  然而/c  还有/v  很多/a  我们/r  没/d  看过/v  的/u  名胜古迹/i  。/w  因为/c  罗马/ns  见证/n  了/u  欧洲/ns  文明/a  的/u  变迁/v  所以/c  建筑/v  多/a  得数/n  不清/a  。/w  
+虽然/c  我/r  对/a  这/r  张/nhf  照片/n  入迷/v  了/u  但是/c  我/r  不/d  知道/v  拍摄/v  者/k  是/vl  谁/r  。/w  十有八九/i  是/vl  个/q  普通/a  的/u  罗马人/n  。/w  
+我/r  为什么/d  选择/v  这/r  张/nhf  照片/n  ？/w  其实/d  原因/n  极其/d  简单/a  。/w  对/a  我/r  而/c  言/v  ，/w  这/r  张/nhf  照片/n  是/vl  我们/r  四/m  个人/r  的/u  友谊/n  的/u  象征/v  。/w  虽然/c  我们/r  读/v  不同/a  的/u  大学/n  ，/w  没有/v  那么/r  多/a  机会/n  一起/d  享受/v  生活/n  可是/d  每个/r  夏天/nt  某人/n  在/p  我们/r  的/u  聊天/v  群/q  里/nd  问/v  一个/r  问题/n  ：/w  今年/nt  我们/r  去/v  哪儿/r  旅行/v  ？/w  

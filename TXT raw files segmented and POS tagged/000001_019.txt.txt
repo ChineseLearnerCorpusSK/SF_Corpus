@@ -1,0 +1,15 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  019/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  247/m  >/w  
+在/p  斯洛伐克/ns  我们/r  也/d  有/v  失学/v  的/u  儿童/n  不过/c  这样/r  的/u  孩子/n  不/d  多/a  。/w  也许/d  是/vl  因为/c  我们/r  国家/n  很/d  小/a  ，/w  没有/v  很/d  遥远/a  的/u  地方/n  ，/w  此外/c  我们/r  学校/n  是/vl  免费/v  的/u  甚至/d  大学/n  也/d  不用/d  交学费/v  。/w  可是/d  也/d  有/v  贫穷/a  的/u  孩子/n  ，/w  需要/v  买/v  学习/v  用品/n  等等/u  。/w  我们/r  国家/n  也/d  有/v  一些/m  求助/v  贫穷/a  儿童/n  的/u  协会/n  。/w  普通/a  的/u  人/n  也/d  能/vu  给/p  孩子/n  捐钱/v  ，/w  帮助/v  他们/r  重新/d  去/v  上学/v  。/w  有些/m  人/n  每个/r  月/nt  给/p  孤儿/n  捐钱/v  。/w  
+我们/r  国家/n  贫困/a  人口/n  不太/d  大/a  因为/c  政府/n  为/p  他们/r  提供/v  帮助/v  。/w  比如说/c  现在/nt  很多/a  人/n  因为/c  疫情/n  而/c  失去/v  了/u  工作/n  不过/c  政府/n  宣/x  了/u  一/m  项/q  计划/n  。/w  他/r  的/u  目的/n  是/vl  支持/v  这些/r  人/n  ，/w  每个/r  月/nt  给/p  他们/r  经济/n  支持/v  。/w  社会/n  上/nd  的/u  人/n  也/d  有/v  机会/n  帮/v  一个/r  忙/a  。/w  有的/r  慈善家/n  选择/v  一个/r  家庭/n  然后/c  求助/v  它/r  克服/v  困难/n  。/w  

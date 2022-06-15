@@ -1,0 +1,22 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000024/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2016/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  exam/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  84/m  >/w  
+电/n  M/ws  不/d  在/p  桌子/n  上/nd  。/w  
+他/r  跟/c  你/r  喜欢/v  音乐/n  不/d  一样/a  。/w  
+如果/c  她/r  穿/v  这个/r  piaoliang/ws  的/u  weijin/ws  ，/w  她/r  geng/ws  piaoliang/ws  。/w  
+在/p  宿舍/n  前边/nd  ，/w  他/r  qi/ws  到了/v  。/w  
+我/r  不/d  很/d  piaoliang/ws  ,/w  你/r  说/v  。/w  
+我/r  很/d  累/v  了/u  地/u  我/r  qichuang/ws  了/u  。/w  
+我/r  要/vu  说/v  一说/v  一点儿/d  。/w  
+这个/r  yifu/ws  是/vl  买到/v  的/u  。/w  
+他/r  从来/d  没有/v  youyong/ws  。/w  

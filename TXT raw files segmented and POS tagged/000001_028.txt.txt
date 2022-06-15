@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  028/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  174/m  >/w  
+我/r  喜欢/v  去/v  古老/a  的/u  城市/n  旅游/v  。/w  一对/n  历史/n  感兴趣/v  ，/w  喜欢/v  欣赏/v  建筑/v  ，/w  参观/v  历史/n  博物馆/n  ，/w  现代/nt  的/u  博物馆/n  很/d  有趣/a  因为/c  它们/r  很/d  互动/v  ，/w  你/r  能/vu  试/v  试/v  很多/a  活动/v  。/w  此外/c  ，/w  古老/a  的/u  城市/n  也/d  有/v  独特/a  的/u  气氛/n  ，/w  常常/d  把/p  历史/n  和/c  目前/nt  连/p  在/p  一起/d  。/w  早上/nt  你/r  可以/vu  看/v  拥有/v  1000/m  年/nt  的/u  历史/n  的/u  建筑/v  ，/w  晚上/nt  可以/vu  跟/c  朋友/n  去/v  现代/nt  的/u  酒吧/n  玩/v  儿/n  。/w  通过/p  历史/n  你/r  可以/vu  把/p  现代/nt  时代/nt  搞/v  通/a  。/w  如果/c  你/r  对/a  历史/n  不/d  感兴趣/v  ，/w  你/r  可以/vu  去/v  公园/n  散/v  散步/v  ，/w  也/d  可以/vu  租/v  自行车/n  围/v  着/u  城市/n  骑/v  一下/mq  。/w  

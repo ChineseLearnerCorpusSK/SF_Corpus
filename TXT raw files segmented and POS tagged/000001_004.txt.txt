@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  004/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  163/m  >/w  
+大家/n  好/a  。/w  我/r  的/u  名字/n  是/vl  邓大伟/nh  ，/w  我/r  是/vl  人民日报/n  的/u  记者/n  。/w  今天/nt  我/r  要/vu  采访/v  三/m  个/q  有意思/v  的/u  人/n  。/w  我们/r  一起/d  讨论/v  富翁/n  。/w  第一/m  位/q  是/vl  很/d  有名/a  的/u  富翁/n  ，/w  第二/m  个/q  是/vl  单亲/n  妈妈/n  ，/w  还有/v  一/m  位/q  留学生/n  。/w  那/r  我/r  先/d  问/v  这位/r  富翁/n  。/w  谢谢/v  您/r  几/m  位/q  。/w  我们/r  听/v  了/u  三/m  个/q  不同/a  的/u  故事/n  ，/w  三/m  个/q  幸福/a  的/u  故事/n  。/w  从/p  他们/r  的话/u  ，/w  我/r  看得出/v  来/vd  幸福/a  跟/c  钱/n  并/c  没有/v  关系/n  。/w  只要/vu  你/r  做/v  喜欢/v  的/u  事/n  儿/n  ，/w  只要/vu  你/r  身边/nl  有/v  喜爱/v  的/u  家人/n  ，/w  就/d  能/vu  感觉到/v  幸福/a  的/u  滋味/n  。/w  

@@ -1,0 +1,19 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000022/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2016/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  exam/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  66/m  >/w  
+他/r  喜欢/v  乐音/n  [/w  ]/w  比/p  你/r  不/d  一样/a  。/w  
+如果/c  他/r  戴/v  那个/r  漂亮/a  的/u  围/v  jin/ws  ，/w  …/w  。/w  
+他/r  被/p  坐车/v  来/vd  了/u  宿舍/n  的/u  前边/nd  。/w  
+我/r  想/v  在/p  这儿/r  说说/v  一点儿/d  。/w  
+这个/r  衣服/n  都是/r  卖/v  地/u  。/w  
+他/r  从来/d  没/d  过/vd  游泳/v  。/w  

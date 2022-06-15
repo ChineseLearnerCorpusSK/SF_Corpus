@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  026/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  177/m  >/w  
+假设/v  我/r  是/vl  个/q  国家/n  的/u  领导人/n  ，/w  我/r  尽量/d  要/vu  帮助/v  残疾人/n  。/w  我/r  会/vu  每个/r  月/nt  支援/v  他们/r  ，/w  我/r  会/vu  创造/v  新/a  规定/v  ，/w  每/r  家/n  公司/n  必须/d  录用/v  残疾人/n  ，/w  比如说/c  5/m  %/w  的/u  雇员/n  应该/vu  是/vl  残疾人/n  。/w  这样/r  残疾人/n  会/vu  找到/v  得体/a  的/u  工作/n  ，/w  养活/v  自己/r  ，/w  可以/vu  成为/v  独立/v  的/u  人/n  ，/w  也/d  会/vu  为/p  社会/n  作出/v  贡献/n  。/w  如果/c  残疾/n  很/d  严重/a  ，/w  需要/v  特意/d  地/u  对待/v  ，/w  我们/r  应该/vu  为/p  残疾人/n  成立/v  特殊/a  的/u  公司/n  。/w  公司/n  的/u  管理/v  按月/d  收到/v  金融/n  的/u  支持/v  但是/c  他们/r  不能/vu  录用/v  正常人/n  。/w  这样/r  的/u  残疾人/n  可以/vu  做/v  简单/a  的/u  工作/n  。/w  

@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  015/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  222/m  >/w  
+中国人/n  常常/d  说/v  ：/w  在家/v  千/m  日/nt  好/a  ，/w  出门/v  一时/nt  难/a  。/w  依我看/i  他们/r  说/v  的/u  很多/a  。/w  你/r  跟/c  父母/n  一起/d  住/v  的/u  时候/n  不用/d  办/v  很多/a  事/n  儿/n  因为/c  父母/n  替/v  你/r  解决/v  问/v  匙/x  。/w  在/p  我/r  家里/nl  也是/vl  这样/r  爸爸/n  妈妈/n  尽力/v  要/vu  帮/v  我/r  一个/r  忙/a  。/w  我/r  不/d  应该/vu  自己/r  洗/v  衣服/n  ，/w  熨烫/v  ，/w  做饭/v  。/w  但是/c  由于/c  我/r  爸爸/n  以/p  种地/v  为主/v  ，/w  我/r  总得/vu  在/p  花园/n  里/nd  帮助/v  他/r  。/w  可是/d  我/r  不能/vu  守/v  着/u  父母/n  一辈子/nt  ，/w  总得/vu  自立/v  。/w  我/r  上/nd  大学/n  以后/nt  住/v  在/p  宿舍/n  里/nd  。/w  当时/nt  我/r  应该/vu  自己/r  照顾/v  自己/r  ，/w  办/v  手续/n  ，/w  去/v  银行/n  办事/v  儿/n  。/w  总之/c  ，/w  我/r  自立/v  了/u  。/w  这/r  对/a  我/r  是/vl  个/q  锻炼/v  。/w  好在/d  我/r  在/p  宿舍/n  有/v  可靠/a  的/u  朋友/n  。/w  在家/v  靠/v  父母/n  ，/w  出门/v  靠/v  朋友/n  ，/w  这/r  也是/vl  我/r  生活/n  的/u  故事/n  。/w  

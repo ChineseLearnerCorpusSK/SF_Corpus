@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000001/m  _/w  003/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  //w  A/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  168/m  >/w  
+我/r  的/u  早饭/n  很/d  简单/a  。/w  我/r  光/n  热/a  一/m  碗/n  牛奶/n  然后/c  加/v  巧克力/n  的/u  粮食/n  就/d  做好/v  了/u  。/w  我/r  几乎/d  每天/r  都/d  吃/v  这/r  道/n  菜/n  。/w  这/r  道/n  菜/n  又/d  可口/a  又/d  清淡/a  。/w  我/r  非常/d  喜欢/v  牛奶/n  。/w  午饭/n  是/vl  由/p  两/m  道/n  菜/n  组成/v  的/u  一个/r  是/vl  荤菜/n  一个/r  是/vl  素菜/n  。/w  素菜/n  是/vl  一个/r  汤/n  。/w  汤里/nl  有/v  各种各样/i  的/u  蔬菜/n  。/w  比如说/c  豆子/n  ，/w  土豆/n  和/c  胡萝卜/n  。/w  汤/n  很/d  好吃/a  ，/w  对/a  身体/n  健康/a  有/v  好处/n  。/w  荤菜/n  是/vl  炖/v  猪肉/n  。/w  猪肉/n  的/u  味儿/n  比较/v  重/a  。/w  这/r  道/n  菜/n  挺/d  油腻/a  。/w  在/p  斯洛伐克/ns  午饭/n  是/vl  最/d  重要/a  的/u  菜/n  所以/c  常常/d  比较/v  重/a  。/w  
