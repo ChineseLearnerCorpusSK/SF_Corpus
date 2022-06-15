@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000030/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  4/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  124/m  >/w  
+对/a  我/r  最大/a  压力/n  来自/v  学校/n  ，/w  特别/d  其次/r  学期/nt  。/w  压力/n  有/v  好/a  也/d  不好/a  影响/v  。/w  在/p  我们/r  的/u  生活/n  我们/r  遇到/v  那么/r  多/a  不/d  一样/a  的/u  各种/r  压力/n  。/w  有些/m  人/n  喜欢/v  遇到/v  压力/n  。/w  临时/a  不远/a  就/d  可以/vu  努力/v  努力/v  工作/n  或者/d  学习/v  。/w  那些/r  人/n  谁/r  不/d  喜欢/v  遇到/v  压力/n  ，/w  他们/r  不/d  应该/vu  推迟/v  事情/n  哪/r  需要/v  结束/v  。/w  压力/n  对/a  身体/n  不好/a  ，/w  压力/n  鼓励/v  皮肤/n  上/nd  的/u  问题/n  。/w  

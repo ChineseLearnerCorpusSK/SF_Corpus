@@ -1,0 +1,41 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000064/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  233/m  >/w  
+A/ws  ：/w  您/r  是/vl  哪儿/r  人/n  吗/u  ？/w  
+B/ws  ：/w  我/r  是/vl  上海人/n  。/w  
+A/ws  ：/w  你/r  爸爸/n  ，/w  妈妈/n  都/d  在/p  上海/ns  吗/u  ？/w  
+B/ws  ：/w  不/d  ，/w  他们/r  现在/nt  在/p  北京/ns  。/w  
+A/ws  ：/w  他们/r  都/d  好/a  吗/u  ？/w  
+B/ws  ：/w  他们/r  都/d  很/d  好/a  ，/w  谢谢/v  。/w  
+A/ws  :/w  请问/v  ，/w  这是/r  什么/r  ?/w  
+B/ws  :/w  这是/r  无数/m  。/w  
+A/ws  :/w  无数/m  怎么样/r  
+B/ws  :/w  很/d  有意思/v  。/w  
+A/ws  :/w  我/r  去/v  跳舞/v  ，/w  好/a  吗/u  ?/w  
+B/ws  :/w  神马/n  时候/n  去/v  ?/w  
+A/ws  :/w  现在/nt  去/v  ，/w  可以/vu  吗/u  ?/w  
+B/ws  :/w  对不起/v  ，/w  今天/nt  我/r  很/d  忙/a  ，/w  恐怕/d  不行/v  。/w  
+A/ws  :/w  没关系/i  。/w  
+A/ws  :/w  您/r  好/a  。/w  请问/v  京剧/n  在/p  那人/nh  ?/w  
+B/ws  :/w  对/a  比起/v  ，/w  请/v  再说/c  一/m  遍/q  。/w  
+A/ws  :/w  京剧/n  在/p  那人/nh  哪儿/r  ?/w  
+教室/n  在/p  哪/r  人/n  哪儿/r  ?/w  
+认识/v  我/r  的/u  名片/n  。/w  
+请问/v  ，/w  您/r  是/vl  娜/x  国人/n  ?/w  
+这是/r  什么/r  ？/w  
+这是/r  熊猫/n  。/w  
+熊猫/n  怎么样/r  ？/w  
+熊猫/n  是/vl  可爱/a  。/w  
+请问/v  ，/w  医院/n  在/p  那人/nh  ？/w  
+对不起/v  ，/w  请/v  在/p  说/v  一/m  遍/q  。/w  
+医院/n  在/p  那人/nh  ？/w  

@@ -1,0 +1,20 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000041/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  3/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  165/m  >/w  
+我/r  帅/n  的/u  XY/ws  ：/w  
+这/r  张信/nh  写给/v  你/r  ，/w  是/vl  因为/c  我/r  想/v  让/p  你/r  知道/v  我/r  多么/d  爱/v  你/r  。/w  
+从/p  我们/r  一起/d  的/u  时候/n  我/r  知道/v  了/u  我/r  对/a  你/r  有/v  感情/n  。/w  
+你/r  的/u  声音/n  总是/d  让/p  我/r  感到/v  安全/a  和/c  舒服/a  。/w  我们/r  笑/v  时候/n  你/r  眼睛/n  忽闪/v  忽闪/v  是/vl  我/r  最/d  喜欢/v  的/u  事/n  。/w  我/r  好/a  想/v  你/r  的/u  拥抱/v  ，/w  想/v  一同/d  入睡/v  。/w  
+我/r  爱/v  你/r  因为/c  每次/r  我/r  有/v  困难/n  的/u  时候/n  你/r  总是/d  帮/v  我/r  。/w  你/r  知道/v  你/r  应该说/v  什么/r  ，/w  做/v  什么/r  。/w  我/r  是/vl  真的/a  高兴/a  和/c  感激/v  我/r  有/v  那么/r  在乎/v  我/r  的/u  男朋友/n  。/w  
+谢谢/v  你/r  的/u  耐心/a  跟/c  我/r  。/w  
+我/r  真的/a  爱/v  你/r  

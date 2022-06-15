@@ -1,0 +1,27 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000059/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  131/m  >/w  
+你们/r  学院/n  大/a  不大/a  ？/w  
+我们/r  学运/j  很/d  大/a  。/w  
+你们/r  学院/n  有/v  多少/d  个/q  系/v  ？/w  
+我们/r  学院/n  有/v  六/m  系/v  。/w  
+你们/r  学院/n  有/v  多少/d  个/q  专业/n  ？/w  
+我们/r  学院/n  有无/v  专业/n  。/w  
+你/r  喜欢/v  你/r  的/u  专业/n  吗/u  ？/w  
+她/r  当然/d  喜欢/v  。/w  
+你们/r  汉语/n  系/v  的/u  学生/n  多/a  不/d  多/a  ？/w  
+我们/r  系/v  的/u  学生/n  不/d  很多/a  。/w  
+你们/r  系/v  的/u  男/n  学生/n  多/a  吗/u  ？/w  
+我们/r  系/v  的/u  男/n  学生/n  很少/a  ，/w  女/n  学生/n  很多/a  。/w  
+她/r  喜欢/v  不/d  喜欢/v  他们/r  系/v  ？/w  
+我/r  很/d  喜欢/v  。/w  

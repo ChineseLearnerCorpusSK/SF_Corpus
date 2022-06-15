@@ -1,0 +1,36 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000055/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  322/m  >/w  
+张/nhf  先生/n  ，/w  你/r  好/a  吗/u  ？/w  
+B/ws  ：/w  我/r  很/d  好/a  ，/w  你/r  爸爸/n  妈妈/n  身体/n  怎么样/r  ？/w  
+A/ws  ：/w  他们/r  身体/n  很/d  好/a  。/w  
+B/ws  ：/w  请/v  你们/r  他们/r  好/a  。/w  
+A/ws  ：/w  谢谢/v  。/w  他们/r  也/d  问/v  你/r  好/a  。/w  
+A/ws  :/w  明天/nt  你/r  有/v  时间/n  吗/u  ？/w  
+B/ws  :/w  明天/nt  我/r  有/v  时间/n  。/w  什么/r  事/n  儿/n  ？/w  
+A/ws  :/w  我们/r  去/v  游泳/v  ，/w  好/a  吗/u  ？/w  
+B/ws  :/w  太/d  好了/e  !/w  几/m  点/n  去/v  ？/w  
+A/ws  :/w  二/m  点/n  下午/nt  去/v  ./w  
+我/r  看/v  街头/n  。/w  在/p  街头/n  是/vl  有/v  七/m  个人/r  。/w  二/m  个人/r  是/vl  学生/n  ，/w  三/m  个人/r  是/vl  一家人/n  ，/w  一/m  个人/r  在/p  餐厅/n  ，/w  一/m  个人/r  在/p  店/n  。/w  
+现在/nt  是/vl  冬天/nt  。/w  他们/r  过/vd  圣诞节/nt  。/w  在/p  街头/n  是/vl  有/v  圣诞树/n  。/w  孩子/n  有/v  圣诞/n  礼物/n  。/w  
+我/r  作/v  天/nt  请/v  他/r  吃/v  了/u  饭/n  。/w  
+你/r  昨天/nt  有/v  没有/v  请/v  他/r  吃饭/v  ？/w  
+我/r  昨天/nt  没有/v  请/v  他/r  吃饭/v  。/w  
+他/r  买/v  了/u  一/m  听/v  苹果/n  。/w  
+他/r  有/v  买/v  没/d  买/v  苹果/n  ？/w  
+他/r  没/d  买/v  苹果/n  。/w  
+我/r  听说/v  你/r  有/v  新/a  工作/n  了/u  ./w  
+昨天/nt  我/r  看/v  了/u  电影/n  ./w  
+让/p  他/r  借/v  你/r  的/u  电话/n  ./w  
+我/r  晚饭/n  该/vu  怎么办/v  ？/w  
+我/r  在/p  Matej/ws  Bel/ws  大学/n  经济/n  学院/n  学习/v  。/w  我们/r  的/u  学院/n  不太/d  大/a  。/w  学院/n  有/v  九/m  个/q  专业/n  。/w  我/r  的/u  专业/n  是/vl  经济/n  。/w  我/r  喜欢/v  我/r  的/u  专业/n  。/w  我们/r  专业/n  有/v  外国/n  老师/n  。/w  他/r  是/vl  美国人/n  。/w  

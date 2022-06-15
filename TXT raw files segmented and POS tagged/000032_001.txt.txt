@@ -1,0 +1,16 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000032/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  4/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  250/m  >/w  
+我/r  现在/nt  最大/a  的/u  压力/n  就是/r  我/r  的/u  毕业/v  ，/w  因为/c  我们/r  真的/a  不/d  知道/v  会/vu  发生/v  什么/r  ，/w  也/d  不/d  知道/v  我们/r  到底/d  要/vu  怎么/r  毕业/v  。/w  我/r  也/d  有/v  压力/n  因为/c  现在/nt  的/u  情况/n  ，/w  不是/vl  因为/c  我/r  害怕/v  生病/v  ，/w  而是/vl  因为/c  我/r  认为/v  有些/m  人/n  所/u  做/v  的/u  事情/n  毫无/v  意义/n  。/w  
+嗯/e  ，/w  通常/d  压力/n  对/a  我/r  有/v  不好/a  的/u  影响/v  ，/w  因为/c  我/r  会/vu  胃/n  痛/a  ，/w  感觉/v  不好/a  ，/w  但/c  有时/d  我/r  需要/v  压力/n  或/d  我/r  不能/vu  正常/a  工作/n  。/w  因为/c  我/r  的/u  学校/n  需要/v  有/v  压力/n  ，/w  否则/c  我/r  不会/vu  做/v  我/r  的/u  家庭作业/n  。/w  
+我/r  不/d  知道/v  。/w  通常/d  当/p  我/r  感到/v  有/v  压力/n  的/u  时候/n  ，/w  我/r  就/d  会/vu  去/v  睡觉/v  ，/w  哈哈/o  ，/w  但/c  有时/d  这个/r  不/d  起作用/v  ，/w  我/r  无法/d  入睡/v  。/w  其他/r  时候/n  ，/w  因为/c  我/r  没有/v  完成/v  作业/n  而/c  感到/v  压力/n  ，/w  我/r  只要/vu  完成/v  作业/n  ，/w  我/r  就/d  不再/d  有/v  压力/n  了/u  。/w  也许/d  看/v  电影/n  或/d  看书/v  会/vu  有/v  帮助/v  。/w  

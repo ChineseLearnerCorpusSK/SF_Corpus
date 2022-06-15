@@ -1,0 +1,18 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000072/m  _/w  005/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  292/m  >/w  
+我/r  的/u  宠物/n  去世/v  了/u  
+我/r  最好/a  的/u  朋友/n  ，/w  就是/r  我们/r  的/u  宠物/n  。/w  是/vl  一/m  只/d  狗/n  叫/v  小/a  黑/a  。/w  因为/c  他/r  老/a  了/u  ，/w  有一天/v  她/r  去世/v  了/u  。/w  那时/r  我/r  每天/r  哭/v  了/u  ，/w  很/d  想念/v  她/r  。/w  没有/v  她/r  我/r  感觉/v  很/d  孤单/a  。/w  为了/p  平静/a  一下/mq  ，/w  我/r  每天/r  去/v  了/u  散/v  散步/v  。/w  虽然/c  我/r  还/d  想念/v  她/r  ，/w  可是/d  明白/a  了/u  我们/r  的/u  生活/n  怎样/r  。/w  应该/vu  记住/v  有一天/v  我们/r  都/d  去世/v  。/w  到/v  那时/r  我们/r  应该/vu  关心/v  我们/r  爱/v  的/u  人/n  让/p  他们/r  知道/v  ，/w  他们/r  很/d  重要/a  。/w  
+生病/v  
+我们/r  都/d  认识/v  药/n  。/w  可是/d  什么/r  药/n  更/d  好/a  吗/u  ？/w  有人/v  说/v  西药/n  比较/v  好/a  ，/w  是/vl  因为/c  味道/n  不/d  那么/r  重/a  。/w  有人/v  说/v  中药/n  更/d  好/a  ，/w  是/vl  因为/c  它们/r  很/d  有用/a  。/w  我/r  就是/r  第二/m  种/v  人/n  。/w  对/a  我/r  来说/v  ，/w  中药/n  有/v  很多/a  好处/n  。/w  虽然/c  中药/n  比较/v  苦/a  ，/w  可是/d  一/m  两/m  天/nt  我/r  身体/n  好/a  起来/vd  。/w  好/a  多种/mq  中药/n  ，/w  就是/r  草药/n  。/w  我/r  觉得/v  这种/r  药/n  有/v  最大/a  的/u  好处/n  ，/w  所以/c  我/r  生病/v  的/u  时候/n  ，/w  就/d  吃/v  中草药/n  。/w  
+你/r  呢/u  ？/w  你/r  觉得/v  西药/n  还是/d  中药/n  更/d  好/a  ？/w  

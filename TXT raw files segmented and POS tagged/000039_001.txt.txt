@@ -1,0 +1,15 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000039/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  3/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  115/m  >/w  
+亲爱的/n  XXX/ws  ：/w  
+当/p  我/r  与/c  你/r  第一次/mq  相见/v  时/nt  ，/w  我/r  的/u  心跳/v  就/d  加快/v  了/u  。/w  你/r  的/u  微笑/v  让/p  蔚蓝/a  天空/n  出现/v  。/w  你/r  的/u  眼/n  像/v  亮/a  星/n  一样/a  。/w  我/r  从来/d  没/d  告诉/v  你/r  “/w  我/r  喜欢/v  你/r  ”/w  ，/w  因为/c  我/r  害怕/v  你/r  没有/v  回应/v  。/w  即使/c  我/r  听/v  不到/v  你/r  的/u  声音/n  ，/w  感觉/v  不到/v  你/r  触摸/v  ，/w  你/r  还/d  永远/d  在/p  我/r  心中/nl  。/w  如果/c  没有/v  你/r  ，/w  我/r  的/u  心/n  就/d  像是/vl  缺/v  一块/d  。/w  

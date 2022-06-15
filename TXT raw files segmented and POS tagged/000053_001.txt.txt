@@ -1,0 +1,17 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000053/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  3/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  150/m  >/w  
+你/r  好娜塔/ns  莉/x  ：/w  
+我/r  记得/v  我/r  见到/v  你/r  的/u  时候/n  你/r  看起来/v  多/a  好/a  。/w  认识/v  你/r  是/vl  我/r  一生/nt  中/nd  发生/v  的/u  最/d  伟大/a  的/u  事情/n  。/w  
+你/r  的/u  每/r  一个/r  声音/n  在/p  我/r  耳边/nl  就/d  像/v  音乐/n  ，/w  一/m  首/n  宁静/a  的/u  摇篮曲/n  ，/w  让/p  我/r  沉醉/a  在/p  甜蜜/a  的/u  白日梦/n  中/nd  。/w  当/p  我/r  凝视/v  你/r  深情/n  的/u  眼睛/n  时/nt  ，/w  我/r  看到/v  了/u  更/d  美好/a  的/u  明天/nt  。/w  我/r  非常/d  喜欢/v  你/r  ，/w  见到/v  你/r  我/r  就/d  会/vu  很/d  高兴/a  。/w  如果/c  你/r  愿意/vu  ，/w  也许/d  我们/r  可以/vu  一起/d  玩/v  一些/m  电脑/n  游戏/n  。/w  
+祝/v  你/r  今天/nt  过/vd  得/u  愉快/a  。/w  

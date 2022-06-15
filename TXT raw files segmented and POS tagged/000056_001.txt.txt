@@ -1,0 +1,29 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000056/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  143/m  >/w  
+您/r  是/vl  医生/n  吗/u  ？/w  
+不是/vl  ，/w  我/r  学习/v  汉语/n  ，/w  我/r  是/vl  学生/n  。/w  
+您/r  呢/u  ？/w  
+我/r  也是/vl  学生/n  ，/w  我/r  学习/v  汉族/ns  。/w  
+请问/v  ，/w  宋华/nh  是/vl  老师/n  吗/u  ？/w  
+是/vl  ，/w  她/r  是/vl  外语/n  老师/n  。/w  
+你/r  也是/vl  外语/n  老师/n  吗/u  ？/w  
+我/r  不是/vl  外语/n  老师/n  。/w  我/r  是/vl  汉语/n  学生/n  。/w  
+您/r  认识/v  孔府/n  学院/n  的/u  老师/n  吗/u  ？/w  
+认识/v  你/r  很/d  高兴/a  。/w  
+我/r  姓/n  林/n  ，/w  叫/v  林娜/nh  。/w  
+我/r  学习/v  汉语/n  。/w  /w  /w  
+认识/v  您/r  我/r  很/d  高兴/a  。/w  /w  /w  
+请问/v  ，/w  您/r  贵姓/n  ？/w  /w  /w  
+请问/v  ，/w  可以/vu  进来/v  吗/u  ？/w  /w  
+他/r  是/vl  也/d  美国人/n  。/w  

@@ -1,0 +1,19 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000036/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  4/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  299/m  >/w  
+1/m  ./w  目前/nt  ，/w  你/r  遇到/v  的/u  最大/a  压力/n  来自/v  哪/r  方面/n  ？/w  说说/v  你/r  的/u  情况/n  。/w  
+我/r  目前/nt  最大/a  遇到/v  的/u  压力/n  是/vl  驾校/j  。/w  我/r  开始/v  开车/v  的/u  时/nt  ，/w  我/r  很/d  害怕/v  ，/w  压力/n  非常/d  大/a  ，/w  我/r  的/u  能力/n  不太/d  好/a  。/w  第一次/mq  在/p  路上/nl  开车/v  时/nt  我/r  很/d  慌张/a  ，/w  因为/c  以前/nt  没/d  做/v  过/vd  这样/r  的/u  活动/v  ，/w  突然/d  要/vu  关注/v  那么/r  多/a  规则/n  对/a  我/r  来说/v  是/vl  很/d  奇怪/a  的/u  感觉/v  
+2/m  ./w  你/r  觉得/v  压力/n  给/p  你/r  带来/v  了/u  什么/r  影响/v  ？/w  有/v  什么/r  好处/n  和/c  坏处/n  ？/w  
+压力/n  给/p  我/r  带来/v  了/u  比较/v  好/a  的/u  影响/v  ，/w  因为/c  它/r  教/v  了/u  我/r  一定/d  不要/vu  低估/v  事情/n  ，/w  不要/vu  考试/v  之前/nt  学/v  所有/a  的/u  知识/n  ，/w  要/vu  纷纷/d  地/u  慢慢/a  地学/n  。/w  坏处/n  是/vl  压力/n  让/p  我/r  不/d  高兴/a  ，/w  甚至/d  害怕/v  一点儿/d  
+3/m  ./w  如果/c  你/r  觉得/v  压力/n  过大/a  时/nt  ，/w  你/r  有/v  什么/r  好/a  的/u  减轻/v  压力/n  的/u  办法/n  吗/u  ？/w  
+我/r  觉得/v  最好/a  的/u  减轻/v  压力/n  的/u  办法/n  是/vl  运动/n  ，/w  锻炼/v  身体/n  。/w  锻炼/v  帮/v  我们/r  的/u  健康/a  ，/w  而且/c  锻炼/v  时/nt  不/d  想到/v  压力/n  ，/w  因为/c  要/vu  关注/v  活动/v  。/w  运动/n  把/p  我们/r  的/u  不好/a  感情/n  失去/v  了/u  。/w  

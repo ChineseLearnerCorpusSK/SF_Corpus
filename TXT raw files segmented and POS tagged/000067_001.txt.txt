@@ -1,0 +1,39 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000067/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  386/m  >/w  
+现在/nt  我/r  住/v  在/p  宿舍/n  在/p  维也纳/ns  。/w  
+我/r  住/v  在/p  小/a  房子/n  。/w  
+我/r  的/u  房子/n  很/d  好/a  ,/w  也/d  很/d  漂亮/a  。/w  
+我/r  的/u  小/a  房子/n  有/v  一/m  间/n  厕所/n  ，/w  一/m  间/n  洗澡/v  间/n  ，/w  一/m  间/n  厨房/n  和/c  一/m  间/n  卧室/n  。/w  
+我/r  的/u  宿舍/n  在/p  繁忙/a  街头/n  。/w  
+A/ws  :/w  明天/nt  是/vl  我/r  姐姐/n  的/u  生日/nt  。/w  你/r  说/v  ，/w  我/r  应该/vu  给/p  她/r  买/v  什么/r  ？/w  
+B/ws  :/w  你/r  可以/vu  买/v  光盘/n  。/w  
+A/ws  :/w  我/r  应该/vu  在/p  哪儿/r  买/v  光盘/n  ？/w  
+B/ws  :/w  我/r  不/d  知道/v  。/w  
+A/ws  :/w  我/r  想/v  跟/c  你/r  说/v  一/m  件/n  事/n  儿/n  。/w  
+B/ws  :/w  什么/r  事/n  儿/n  ？/w  
+A/ws  :/w  星期日/nt  是/vl  我/r  奴/n  朋友/n  的/u  生日/nt  ，/w  可以/vu  宋华/nh  让/p  我/r  参加/v  一个/r  聚会/v  。/w  你/r  说/v  ，/w  我/r  应该/vu  怎么办/v  ？/w  
+B/ws  :/w  你/r  应该/vu  去/v  在/p  宋华/nh  的/u  聚会/v  。/w  
+A/ws  :/w  星期天/nt  你/r  有/v  时间/n  吗/u  ？/w  
+B/ws  :/w  我/r  有/v  时间/n  ，/w  为什么/d  ？/w  
+A/ws  :/w  我/r  想/v  请/v  你/r  吃饭/v  。/w  
+B/ws  :/w  好/a  ，/w  星期天/nt  我们/r  去/v  吃饭/v  。/w  
+A/ws  :/w  白/a  小姐/n  ，/w  晚上/nt  我/r  请/v  你/r  吃饭/v  ，/w  好/a  吗/u  ？/w  
+B/ws  :/w  对不起/v  ，/w  我/r  去/v  在/p  北京/ns  。/w  
+A/ws  :/w  你/r  什么/r  时候/n  有/v  时间/n  ？/w  
+B/ws  :/w  我/r  有/v  时间/n  明天/nt  晚上/nt  。/w  
+我们/r  看/v  了/u  一套/mq  房子/n  ，/w  房子/n  很/d  好/a  ，/w  很/d  太/d  ，/w  有/v  厨房/n  ，/w  厕所/n  。/w  
+亲爱的/n  马大/nh  为/p  ：/w  
+我/r  很/d  好/a  ，/w  你/r  呢/u  ？/w  我/r  也/d  很/d  想/v  你/r  。/w  
+我/r  很/d  高兴/a  你/r  现在/nt  好了/e  ！/w  你/r  确定/v  歇息/v  。/w  
+马大/nh  为/p  ，/w  我/r  也/d  很/d  喜欢/v  你/r  。/w  我/r  也/d  想/v  跟/c  你/r  花/n  时间/n  。/w  我/r  很/d  高兴/a  你/r  租/v  了/u  一套/mq  房子/n  。/w  我/r  星期日/nt  来看/v  你/r  的/u  新/a  房子/n  。/w  我们/r  一起/d  吃/v  烦/a  ，/w  喝/v  咖啡/n  和/c  听/v  音乐/n  。/w  

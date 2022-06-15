@@ -1,0 +1,28 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000065/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  142/m  >/w  
+A/ws  :/w  我/r  爷爷/n  是/vl  炉/x  石/n  ，/w  外公/n  是/vl  系/v  主任/n  。/w  
+A/ws  :/w  你/r  哥哥/n  做/v  什么/r  工作/n  ?/w  
+B/ws  :/w  他/r  是/vl  学生/n  。/w  
+A/ws  :/w  他/r  学习/v  什么/r  工作/n  ?/w  
+B/ws  :/w  他/r  学习/v  汉语/n  ./w  
+你们/r  学院/n  有/v  多少/d  个/q  ?/w  
+我们/r  学院/n  有无/v  西/nd  。/w  
+你们/r  学院/n  有/v  多少/d  个/q  专业/n  ?/w  
+我们/r  学院/n  有/v  四/m  个/q  专业/n  。/w  
+你们/r  系有/v  没有/v  外国/n  老师/n  ?/w  
+我们/r  系有/v  没有/v  外国/n  老师/n  。/w  
+明天/nt  ，/w  我们/r  去/v  打球/v  ，/w  好/a  吗/u  ？/w  
+太/d  好了/e  !/w  什么/r  时间/n  ？/w  
+在/p  十/m  一点/mq  ，/w  可以/vu  吗/u  ？/w  
+可以/vu  。/w  

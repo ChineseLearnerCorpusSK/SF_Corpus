@@ -1,0 +1,41 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000057/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  367/m  >/w  
+他/r  是/vl  中国人/n  ？/w  
+我/r  的/u  认识/v  一下/mq  。/w  我/r  叫/v  丁/n  李波/nh  。/w  你/r  叫/v  什么/r  名字/n  ?/w  
+我/r  介绍/v  一下/mq  ，/w  这是/r  Paul/ws  Smith/ws  ，/w  他/r  是/vl  英国人/n  ，/w  他/r  是/vl  医生/n  。/w  
+这是/r  Alice/ws  Cooper/ws  ，/w  她/r  是/vl  没/d  干/a  过人/v  ，/w  她/r  是/vl  老师/n  。/w  
+认识/v  你/r  很/d  高兴/a  。/w  
+认识/v  你/r  也/d  很/d  高兴/a  。/w  
+他/r  是/vl  谁/r  ?/w  这是/r  谁/r  的/u  名片/n  ?/w  
+你/r  什么/r  时候/n  来/vd  ?/w  抱歉/v  ，/w  我/r  今天/nt  不/d  来/vd  上课/v  了/u  。/w  
+请/v  你/r  介绍/v  一下/mq  他/r  。/w  你们/r  好/a  ，/w  我/r  来/vd  介绍/v  一下/mq  汉语/n  老师/n  。/w  
+你/r  叫/v  什么/r  名字/n  ?/w  你/r  的/u  名字/n  是/vl  什么/r  ?/w  我/r  没有/v  中文/n  名字/n  。/w  
+你/r  的/u  中文/n  很/d  好/a  ，/w  那个/r  老师/n  教/v  我们/r  中文/n  。/w  
+你/r  学习/v  不/d  学习/v  中文/n  ?/w  明天/nt  我们/r  在/p  宿舍/n  学习/v  。/w  
+你/r  学习/v  什么/r  专业/n  ?/w  你/r  的/u  专业/n  是/vl  中文/n  吗/u  ?/w  
+我/r  学习/v  美术/n  专业/n  。/w  美术/n  专业/n  怎么样/r  ?/w  
+我/r  学习/v  中国文学/n  ，/w  他/r  的/u  专业/n  是/vl  美国/ns  文学/n  。/w  
+我/r  是/vl  汉语/n  系/v  的/u  学生/n  ，/w  你/r  是/vl  那个/r  系/v  的/u  学生/n  ?/w  我们/r  系有/v  很多/a  外国人/n  。/w  
+我/r  的/u  选修课/n  是/vl  中文/n  。/w  
+请问/v  ，/w  这是/r  什么/r  。/w  
+这是/r  无数/m  。/w  
+无数/m  怎么样/r  。/w  
+无数/m  很/d  栯/x  意思/n  。/w  
+什么/r  时候/n  去/v  
+现在/nt  去/v  ,/w  可以/vu  吗/u  
+对/a  不/d  去/v  ，/w  今天/nt  我/r  很/d  忙/a  ，/w  恐怕/d  不行/v  。/w  
+明天/nt  您/r  有/v  时间/n  吗/u  
+对不起/v  ，/w  请/v  在/p  说/v  一/m  遍/q  。/w  
+明天/nt  您/r  有/v  时间/n  吗/u  ?/w  
+现在/nt  我们/r  去/v  有用/a  。/w  

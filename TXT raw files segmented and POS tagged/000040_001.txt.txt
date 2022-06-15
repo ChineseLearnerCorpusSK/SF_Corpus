@@ -1,0 +1,16 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000040/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  3/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  178/m  >/w  
+亲爱的/n  妈妈/n  ，/w  
+我/r  在/p  法国/ns  度假/v  时/nt  给/p  你/r  写/v  了/u  一封信/ns  。/w  我/r  和/c  朋友们/n  在/p  这里/r  享受/v  很多/a  阳光/n  、/w  大海/n  和/c  有趣/a  的/u  博物馆/n  。/w  很/d  抱歉/v  你/r  不能/vu  和/c  我/r  在/p  一起/d  。/w  我们/r  四/m  个/q  月/nt  没见/v  了/u  ！/w  我/r  特别/d  想/v  你/r  ，/w  特别/d  是/vl  在/p  晚上/nt  ，/w  当/p  我/r  很/d  想/v  我/r  的/u  家人/n  的/u  时候/n  。/w  但/c  只有/c  两/m  个/q  月/nt  ，/w  我/r  就/d  会/vu  回到/v  斯洛伐克/ns  的/u  家/n  。/w  那/r  段/q  时间/n  我/r  会/vu  去/v  很多/a  美丽/a  的/u  地方/n  ，/w  然后/c  我/r  会/vu  给/p  你/r  看/v  所有/a  的/u  照片/n  和/c  给/p  你/r  我/r  买/v  的/u  纪念品/n  。/w  我/r  相信/v  你/r  在/p  家里/nl  过/vd  得/u  很/d  好/a  ,/w  很快/a  就/d  会见/v  到/v  你/r  !/w  我/r  爱/v  你/r  。/w  
+你/r  可爱/a  的/u  女儿/n  

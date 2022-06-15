@@ -1,0 +1,23 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000070/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  127/m  >/w  
+那儿/r  有/v  很多/a  人/n  正在/d  扭秧歌/v  。/w  
+他们/r  一边/d  跳舞/v  ，/w  一边/d  敲锣打鼓/i  。/w  
+这种/r  舞/v  很/d  好看/a  ，/w  你/r  也/d  能/vu  很快/a  学会/v  的/u  。/w  
+我/r  每天/r  早上/nt  都/d  要/vu  锻炼/v  太极拳/n  。/w  
+那里/r  常常/d  围/v  着/u  很多/a  在/p  锻炼/v  身体/n  的/u  老人/n  。/w  
+宿舍/n  门口/nl  放/v  了/u  几/m  花盆/n  。/w  
+几个/r  年轻人/n  走/v  出来/vd  里/nd  网吧/n  。/w  
+丁立波/nh  打/v  得/u  太极拳/n  打/v  很/d  好/a  。/w  
+那个/r  姑娘/n  又/d  漂亮/a  又/d  年轻/a  ./w  
+妈妈/n  现在/nt  可以/vu  工作/n  了/u  。/w  

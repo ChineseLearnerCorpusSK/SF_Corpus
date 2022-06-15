@@ -1,0 +1,28 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000066/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  182/m  >/w  
+你/r  爸爸/n  ，/w  妈妈/n  做/v  社/n  工作/n  ？/w  
+我/r  爸爸/n  是/vl  警官/n  ，/w  妈妈/n  是/vl  醫/x  生/v  。/w  你/r  爸爸/n  妈妈/n  呢/u  ？/w  
+我/r  爸爸/n  是/vl  老师/n  ，/w  妈妈/n  不/d  工作/n  。/w  
+A/ws  :/w  你们/r  学院/n  多少/d  （/w  个/q  ）/w  系/v  ？/w  
+B/ws  :/w  我们/r  学院/n  有/v  下/nd  五/m  个/q  系/v  。/w  
+A/ws  :/w  你们/r  系/v  的/u  老师/n  多/a  不/d  多/a  ？/w  
+B/ws  :/w  我们/r  系/v  的/u  老师/n  一点/mq  。/w  
+A/ws  :/w  你们/r  系有/v  没有/v  外国/n  老师/n  ？/w  
+B/ws  :/w  我们/r  系有/v  外国/n  老师/n  。/w  
+A/ws  :/w  你们/r  系/v  的/u  外国/n  老师/n  多/a  不/d  多/a  ？/w  
+B/ws  :/w  我们/r  系/v  的/u  外国/n  老师/n  很少/a  ？/w  。/w  
+A/ws  :/w  你们/r  汉语/n  系/v  的/u  学生/n  多/a  不/d  多/a  ？/w  
+B/ws  :/w  我们/r  系/v  的/u  学生/n  很少/a  ？/w  。/w  
+A/ws  :/w  你们/r  系/v  的/u  男/n  学生/n  多/a  吗/u  ？/w  
+B/ws  :/w  我们/r  系/v  的/u  男/n  学生/n  很少/a  ，/w  奴/n  学生/n  。/w  

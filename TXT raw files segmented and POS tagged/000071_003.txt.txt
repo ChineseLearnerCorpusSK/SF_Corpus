@@ -1,0 +1,31 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000071/m  _/w  003/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  512/m  >/w  
+你/r  能/vu  告诉/v  我/r  今年/nt  语言/n  学院/n  有/v  多少/d  留学生/n  吗/u  ？/w  
+Bill/ws  ,/w  刚才/d  有人/v  敲门/v  了/u  。/w  
+只要/vu  你/r  喜欢/v  旅行/v  ，/w  就/d  可以/vu  随便/a  旅行/v  。/w  
+春天/nt  的/u  花园/n  就/d  像/v  花海/ns  一样/a  。/w  
+我/r  说/v  ，/w  你/r  全家/n  都/d  应该/vu  去/v  中国/ns  ，/w  当然/d  包括/v  你/r  。/w  
+动物园/n  走进/v  去/v  不少/a  小孩子/n  。/w  
+动物园/n  的/u  停车场/n  开走/v  了/u  三/m  辆/q  车/n  。/w  
+动物园/n  门口/nl  丢/v  了/u  一/m  辆/q  公共汽车/n  。/w  
+不/d  吃/v  垃圾/n  食品/n  以后/nt  我/r  胖/a  了/u  。/w  
+他/r  的/u  女朋友/n  会/vu  做/v  普/a  拉/v  提/v  了/u  。/w  
+我/r  爸爸/n  五十/m  岁/nt  了/u  。/w  
+她/r  的/u  哥哥/n  骑马/v  得/u  全身/n  疼痛/v  。/w  
+她/r  累/v  得/u  忘/v  了/u  刷牙/v  。/w  
+我/r  紧张/a  得/u  不会/vu  说话/v  。/w  
+这/r  件/n  毛衣/n  又/d  便宜/a  又/d  好看/a  。/w  
+公园/n  里/nd  的/u  人/n  又/d  跑/v  不/d  又/d  休息/v  。/w  
+猫/n  又/d  可爱/a  又/d  好笑/a  。/w  
+我/r  觉得/v  扭秧歌/v  很/d  好/a  跳/v  ，/w  我/r  也/d  能/vu  很快/a  学会/v  。/w  我/r  要/vu  跟/c  他们/r  一起/d  扭/v  ，/w  可是/d  我/r  还/d  得/u  先/d  把/p  动作/n  练/v  一/m  练/v  。/w  那儿/r  手里/nl  拿/v  着/u  剑/n  的/u  人/n  是/vl  练/v  太极剑/n  的/u  人/n  ，/w  宋华/nh  说/v  练/v  太极剑/n  可以/vu  很/d  好/a  的/u  锻炼/v  身体/n  。/w  她/r  的/u  妈妈/n  练/v  太极剑/n  练/v  了/u  两/m  年/nt  ，/w  他/r  身体/n  好了/e  ，/w  现在/nt  可以/vu  上班/v  了/u  。/w  她/r  的/u  妈妈/n  以前/nt  常常/d  生病/v  ，/w  不能/vu  工作/n  。/w  街心/n  花园/n  那儿/r  围/v  着/u  了/u  很多/a  人/n  。/w  他们/r  在/p  下棋/v  ，/w  也/d  有些/m  站/v  旁边/nd  的/u  人/n  看/v  下棋/v  ，/w  宋华/nh  说/v  看/v  的/u  人和/n  下/nd  的/u  人/n  也/d  可能/vu  互相/d  不/d  认识/v  。/w  东边/nd  的/u  立交桥/n  下/nd  还有/v  很多/a  人/n  ，/w  他们/r  是/vl  这个/r  小区/n  的/u  京剧/n  爱好者/n  。/w  他们/r  都是/r  老人/n  ，/w  他们/r  退休/v  了/u  ，/w  有/v  很多/a  休闲/v  的/u  时间/n  。/w  他们/r  晚上/nt  就/d  来/vd  这儿/r  高高兴兴/i  地/u  唱/v  一/m  唱/v  。/w  我/r  发现/v  这里/r  的/u  老人/n  休闲/v  活动/v  有/v  很多/a  特点/n  。/w  他们/r  非常/d  注意/v  锻炼/v  身体/n  、/w  他们/r  喜欢/v  很多/a  人/n  在/p  一起/d  活动/v  、/w  有的人/n  做/v  ，/w  有的人/n  看/v  ，/w  可能/vu  互相/d  不/d  认识/v  ，/w  可是/d  大家/n  都/d  玩/v  儿/n  得/u  很/d  高兴/a  。/w  

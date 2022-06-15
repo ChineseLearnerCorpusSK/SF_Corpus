@@ -1,0 +1,22 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000069/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  63/m  >/w  
+A/ws  ：/w  请问/v  ，/w  厕所/n  在/p  哪儿/r  ？/w  
+B/ws  :/w  对不起/v  ，/w  请/v  在/p  说/v  一/m  遍/q  。/w  
+A/ws  ：/w  厕所/n  在/p  哪/r  ？/w  
+请问/v  ，/w  林娜/nh  在/p  吗/u  ?/w  
+他/r  不/d  在/p  。/w  
+他/r  在/p  哪儿/r  ?/w  
+对不起/v  。/w  我/r  不/d  知道/v  。/w  
+没关系/i  ，/w  再见/v  ！/w  
+再见/v  。/w  

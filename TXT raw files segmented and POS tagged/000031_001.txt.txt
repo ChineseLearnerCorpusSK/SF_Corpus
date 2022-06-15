@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000031/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  4/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  242/m  >/w  
+目前/nt  ，/w  你/r  遇到/v  的/u  最大/a  的/u  压力/n  来自/v  哪/r  方面/n  ?/w  现在/nt  ，/w  我/r  在/p  担心/v  我/r  的/u  毕业/v  。/w  因为/c  我/r  选择/v  数学/n  和/c  物理学/n  ，/w  所以/c  这/r  门/n  课/n  不是/vl  很/d  容易/a  。/w  我/r  也/d  担心/v  中文/n  毕业/v  ，/w  因为/c  我/r  会/vu  中文/n  ，/w  但是/c  我/r  的/u  谈话/n  能力/n  不是/vl  很/d  好/a  。/w  我/r  一般/a  不/d  喜欢/v  和/c  人/n  说话/v  ，/w  因为/c  我/r  真的/a  很/d  害羞/v  。/w  我/r  只/d  会/vu  在/p  无法/d  影响/v  的/u  情况/n  不/d  感到/v  压力/n  。/w  我/r  不/d  喜欢/v  压力/n  ，/w  因为/c  我/r  总是/d  忘记/v  我/r  学到/v  的/u  东西/n  。/w  我/r  总是/d  在/p  工作/n  之前/nt  就/d  感到/v  压力/n  ，/w  但是/c  在/p  开始/v  的/u  哪/r  一刻/nt  ，/w  所有/a  的/u  压力/n  消失/v  了/u  。/w  对/a  我/r  来说/v  ，/w  承受/v  压力/n  没有/v  好处/n  ，/w  因为/c  如果/c  我/r  感到/v  压力/n  ，/w  我/r  就/d  会/vu  失去/v  兴趣/n  。/w  所以/c  我/r  告诉/v  自己/r  ，/w  你/r  可以/vu  做到/v  。/w  我/r  竭尽所能/i  ，/w  当/p  我/r  感到/v  自信/v  是/vl  ，/w  我/r  便/a  不/d  在/p  感到/v  压力/n  。/w  

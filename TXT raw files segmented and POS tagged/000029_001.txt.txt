@@ -1,0 +1,17 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000029/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  4/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  300/m  >/w  
+我/r  感到/v  来自/v  学校/n  的/u  压力/n  最大/a  。/w  我/r  经常/a  觉得/v  我/r  每个/r  班级/n  都/d  要/vu  做/v  太多/a  家庭作业/n  ，/w  并且/c  为/p  测试/v  做/v  准备/v  太/d  久/a  ，/w  但是/c  我/r  没有/v  足够/a  的/u  时间/n  来/vd  做/v  所有/a  的/u  事情/n  。/w  当/p  我/r  没有/v  100/m  %/w  准备/v  上/nd  课时/q  ，/w  我/r  会/vu  感到/v  最大/a  的/u  压力/n  。/w  
+当/p  我们/r  不时/d  遇到/v  压力/n  时/nt  ，/w  压力/n  也/d  会/vu  很/d  好/a  。/w  有时候/d  压力/n  会/vu  帮助/v  我/r  。/w  例如/v  ，/w  在/p  口/n  考试/v  中/nd  ，/w  当/p  我/r  不/d  记得/v  正确/a  的/u  答案/n  时/nt  ，/w  出于/v  压力/n  ，/w  我/r  开始/v  说出/v  我/r  能/vu  想到/v  的/u  一切/r  ，/w  和/c  我/r  通常/d  也/d  会/vu  说出/v  正确/a  的/u  答案/n  。/w  
+但是/c  压力/n  也/d  可能/vu  是/vl  不好/a  的/u  。/w  某些/r  人/n  长/n  时间/n  承受/v  压力/n  ，/w  这会/r  影响/v  他们/r  的/u  精神/n  。/w  例如/v  ，/w  他们/r  有/v  睡眠/n  困难/n  ，/w  不想/v  吃饭/v  和/c  他们/r  沮丧/a  。/w  
+通常/d  ，/w  当/p  我/r  感到/v  压力/n  时/nt  ，/w  我/r  会/vu  尝试/v  让/p  自己/r  冷静/a  下来/v  。/w  例如/v  ，/w  我/r  看/v  了/u  一会儿/nt  书/n  或/d  弹钢琴/v  。/w  有时/d  我/r  妈妈/n  会/vu  帮助/v  我/r  ，/w  她/r  总是/d  带/n  我/r  出去/v  走/v  一会儿/nt  ，/w  呼吸/v  新鲜/a  空气/n  ，/w  或者/d  给/p  我/r  热/a  巧克力/n  让/p  我/r  平静/a  下来/v  。/w  

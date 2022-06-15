@@ -1,0 +1,23 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000028/m  _/w  003/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2018/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  77/m  >/w  
+我们/r  是/vl  葩/n  和/c  啤/x  
+从/p  太虚/n  到/v  这里/r  
+我们/r  想/v  谈得来/v  ，/w  打招呼/v  你/r  
+打招呼/v  你/r  
+女生/n  们/k  先生/n  们/k  
+了解/v  外星人/n  
+寻找/v  朋友们/n  寻找/v  你/r  。/w  
+我们/r  很/d  高兴/a  认识/v  了/u  你/r  
+让/p  社会/n  了解/v  星系/n  和平/a  
+太阳/n  下/nd  的/u  姐妹/n  都/d  闪闪/a  发光/v  

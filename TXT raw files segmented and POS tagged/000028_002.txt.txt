@@ -1,0 +1,23 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000028/m  _/w  002/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  97/m  >/w  
+是/vl  五/m  星期/nt  晚上/nt  你/r  打算/v  去/v  那儿/r  ？/w  
+最好/a  的/u  是/vl  出去/v  玩/v  儿/n  
+一点/mq  吃/v  一点/mq  聊天/v  儿/n  
+我/r  请/v  你/r  马上/d  来/vd  加入/v  我/r  
+你/r  快/a  穿上/v  鞋/n  ，/w  快/a  跟着/v  我/r  
+我/r  让/p  你/r  看/v  我/r  最/d  喜欢/v  的/u  地方/n  
+周五/nt  晚上/nt  我们/r  出去/v  玩/v  儿/n  
+在/p  我/r  的/u  城市/n  
+你/r  一/m  定会/vu  跟/c  我/r  朋友们/n  谈得来/v  
+我/r  的/u  城市/n  打招呼/v  你/r  ，/w  欢迎/v  光临/v  

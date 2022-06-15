@@ -1,0 +1,48 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000068/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  348/m  >/w  
+A/ws  ：/w  请问/v  ，/w  办公室/n  在/p  那/r  ？/w  
+B/ws  :/w  对不起/v  ，/w  请/v  在/p  说/v  一/m  遍/q  。/w  
+A/ws  ：/w  办公室/n  在/p  那/r  ？/w  
+A/ws  :/w  你/r  哥哥/n  做/v  什么/r  工作/n  ？/w  
+B/ws  :/w  他/r  是/vl  医生/n  。/w  
+A/ws  :/w  他/r  学习/v  什么/r  专业/n  ？/w  
+B/ws  :/w  他/r  学习/v  。/w  
+A/ws  :/w  你们/r  学院/n  打/v  不/d  打/v  ？/w  
+B/ws  :/w  我们/r  学院/n  是/vl  打/v  。/w  
+A/ws  :/w  你们/r  学院/n  有/v  多少/d  系/v  ？/w  
+B/ws  :/w  我们/r  学院/n  有/v  十二/m  个/q  系/v  。/w  
+A/ws  :/w  你们/r  学院/n  有/v  多少/d  个/q  专业/n  ？/w  
+B/ws  :/w  有/v  很多/a  个/q  专业/n  。/w  
+A/ws  :/w  你们/r  系/v  的/u  老师/n  多/a  不/d  多/a  ？/w  
+B/ws  :/w  我们/r  系/v  的/u  老师/n  是/vl  多/a  。/w  
+A/ws  :/w  你们/r  系有/v  没有/v  外国/n  老师/n  ？/w  
+B/ws  :/w  我们/r  系有/v  外国/n  老师/n  。/w  
+A/ws  :/w  你们/r  系/v  的/u  外国/n  老师/n  是/vl  娜/x  过人/v  ？/w  
+B/ws  :/w  我们/r  外国/n  老师/n  是/vl  中国人/n  。/w  
+A/ws  :/w  你们/r  汉语/n  系/v  的/u  学生/n  多/a  不/d  多/a  ？/w  
+B/ws  :/w  我们/r  系/v  的/u  学生/n  是/vl  多/a  。/w  
+A/ws  :/w  你们/r  系/v  的/u  学生/n  多/a  吗/u  ？/w  
+B/ws  :/w  我们/r  系/v  的/u  男/n  学生/n  很少/a  ，/w  女/n  学生/n  是/vl  很多/a  。/w  
+A/ws  :/w  你/r  喜欢/v  不/d  喜欢/v  你们/r  系/v  ？/w  
+B/ws  :/w  我/r  很/d  喜欢/v  。/w  
+A/ws  ：/w  你/r  今年/nt  多/a  大/a  ？/w  
+B/ws  ：/w  我/r  今年/nt  二十一/j  岁/nt  。/w  
+A/ws  ：/w  你/r  的/u  生日/nt  是/vl  哪天/r  ？/w  
+B/ws  ：/w  星期五/nt  是/vl  我/r  的/u  生日/nt  。/w  
+A/ws  ：/w  是/vl  吗/u  ？/w  快乐/a  生日/nt  。/w  
+B/ws  ：/w  谢谢/v  。/w  
+A/ws  ：/w  您/r  是/vl  哪儿/r  人马/n  ？/w  
+B/ws  ：/w  我/r  是/vl  上海人/n  。/w  
+A/ws  ：/w  你/r  爸爸/n  ，/w  妈妈/n  都/d  在/p  上海/ns  吗/u  ？/w  
+B/ws  ：/w  不/d  ，/w  他们/r  现在/nt  在/p  北京/ns  。/w  

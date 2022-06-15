@@ -1,0 +1,17 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000050/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  3/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  118/m  >/w  
+你/r  好/a  伙伴/n  ：/w  
+希望/v  你/r  记得/v  我/r  。/w  如果/c  你/r  不/d  这样/r  做/v  ，/w  它/r  是/vl  我/r  陈翔龙/nh  。/w  我们/r  是/vl  高中/j  的/u  同学/n  。/w  听说/v  你/r  的/u  生活/n  正在/d  蓬勃/a  发展/v  。/w  
+尽管/d  有/v  一个/r  很/d  好/a  的/u  女朋友/n  ，/w  但/c  我/r  有/v  财务/n  问题/n  。/w  我/r  已经/d  投资/v  很多/a  钱/n  进入/v  加密/v  货币/n  。/w  你/r  所能/n  想象/v  我/r  失去/v  了/u  所有/a  。/w  求/v  求/v  你/r  至少/d  给/p  我/r  1000/m  块/q  钱/n  。/w  希望/v  你/r  能/vu  尽快/d  回复/v  。/w  
+谢谢/v  

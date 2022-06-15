@@ -1,0 +1,32 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000058/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  301/m  >/w  
+医生/n  给/p  马大/nh  为/p  只有/c  一点儿/d  药/n  。/w  
+谢谢/v  。/w  我/r  刚才/d  去/v  学院/n  有/v  中国/ns  历史/n  课/n  。/w  
+他们/r  去/v  看/v  了/u  一/m  件/n  有/v  厨房/n  和/c  厕所/n  的/u  房子/n  。/w  
+她/r  很/d  好/a  。/w  他/r  让/p  我/r  问/v  你/r  好/a  。/w  
+谢谢/v  。/w  请/v  你/r  也/d  问/v  她/r  好/a  。/w  
+我/r  很/d  好/a  ，/w  今天/nt  是/vl  你/r  的/u  第二/m  十/m  个/q  生日/nt  ，/w  我/r  要/vu  祝/v  你/r  生日/nt  快乐/a  。/w  
+不好意思/i  ，/w  这/r  椅子/n  空余/nt  吗/u  ？/w  
+她/r  做/v  什么/r  ？/w  她/r  去/v  游泳/v  了/u  ，/w  刚才/d  回家/v  。/w  
+马大/nh  为/p  星期日/nt  上午/nt  去/v  在/p  商场/n  了/u  ，/w  买/v  东西/n  。/w  
+吗/u  大/a  为/p  晚上/nt  十二/m  点/n  写/v  汉字/n  。/w  
+陈/nhf  老师/n  不/d  高兴/a  因为/c  吗/u  大/a  为/p  早上/nt  在/p  学院/n  没/d  到了/v  。/w  
+吗/u  大/a  为/p  不能/vu  来/vd  上课/v  因为/c  他/r  八/m  点/n  十分/d  还/d  没有/v  起床/v  。/w  
+马大/nh  为/p  的/u  新家/ns  大/a  ，/w  新家/ns  里面/nd  有/v  卧室/n  ，/w  客厅/n  ，/w  厨房/n  和/c  厕所/n  。/w  他/r  非常/d  高兴/a  。/w  
+他/r  的/u  新/a  房子/n  很/d  好/a  ，/w  可是/d  还/d  没有/v  家具/n  ，/w  所以/c  朋友们/n  都/d  来/vd  在/p  地上/nl  。/w  
+他/r  很/d  想家/v  ，/w  也/d  向/p  加拿大/ns  。/w  
+他们/r  都/d  工作/n  很/d  忙/a  。/w  
+他/r  不/d  知道/v  那是/r  什么/r  的/u  礼物/n  。/w  
+喂/v  ，/w  那一/nh  位/q  啊/e  ？/w  
+你/r  忙/a  吗/u  ？/w  我/r  想/v  请/v  你/r  吃饭/v  ，/w  好/a  吗/u  ？/w  

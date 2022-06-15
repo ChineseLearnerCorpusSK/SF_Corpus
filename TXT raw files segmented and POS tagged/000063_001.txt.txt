@@ -1,0 +1,46 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000063/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  370/m  >/w  
+A/ws  :/w  我们/r  跳舞/v  去/v  ，/w  好/a  吗/u  ？/w  
+B/ws  :/w  什么/r  时候/n  去/v  ？/w  
+A/ws  :/w  现在/nt  ，/w  可以/vu  吗/u  ？/w  
+B/ws  :/w  对不起/v  ，/w  现在/nt  我/r  很/d  忙/a  ，/w  恐怕/d  不/d  醒/v  。/w  
+A/ws  :/w  没关系/i  。/w  
+请问/v  ，/w  你/r  家/n  有/v  小/a  狗/n  吗/u  ？/w  
+你/r  家/n  在/p  哪儿/r  ？/w  我/r  家/n  在/p  中国/ns  北京/ns  。/w  
+你/r  有/v  几/m  本/n  汉语/n  书/n  ？/w  
+汉语/n  课/n  有/v  几个/r  学生/n  ？/w  
+这是/r  一/m  张/nhf  我/r  家/n  的/u  照片/n  。/w  
+我/r  有/v  一/m  张/nhf  男朋友/n  的/u  照片/n  。/w  
+你/r  爸爸/n  和/c  妈妈/n  都是/r  教授/n  吗/u  ？/w  
+哥哥/n  和/c  我/r  都/d  学习/v  汉语/n  。/w  
+你们/r  大学/n  有/v  几个/r  学院/n  ？/w  
+他/r  有/v  两/m  个/q  弟弟/n  吗/u  ？/w  
+你/r  家/n  一/m  共有/v  几/m  口/n  人/n  ？/w  
+我们/r  大学/n  一/m  共有/v  六千/m  人/n  。/w  
+我/r  要/vu  喝/v  咖啡/n  ，/w  还要/v  喝/v  可乐/a  。/w  
+我/r  认识/v  一个/r  美国人/n  ，/w  还/d  认识/v  两个中国/n  人/n  。/w  
+我/r  的/u  小/a  狗/n  不/d  在家/v  。/w  
+他/r  大哥/n  是/vl  医生/n  ，/w  他/r  小妹/n  是/vl  记者/n  。/w  
+我/r  是/vl  学生/n  ，/w  当然/d  要/vu  每天/r  学习/v  。/w  
+小/a  狗/n  当然/d  是/vl  我/r  的/u  家人/n  。/w  
+汉语/n  课/n  真/a  有意思/v  。/w  
+你/r  的/u  妹妹/n  真/a  可爱/a  。/w  
+我/r  有/v  一/m  只/d  可爱/a  的/u  小/a  狗/n  。/w  
+我/r  的/u  妈妈/n  在/p  大学/n  做/v  老师/n  。/w  
+你/r  和/c  朋友/n  在家/v  做/v  什么/r  ？/w  
+这个/r  工作/n  不好/a  ，/w  我/r  太/d  忙/a  了/u  。/w  
+我/r  工作/n  一天/r  ，/w  可以/vu  有/v  100/m  块/q  钱/n  。/w  
+A/ws  ：/w  你/r  爸爸/n  ，/w  妈妈/n  什么/r  工作/n  ？/w  
+B/ws  ：/w  我/r  爸爸/n  是/vl  经理/n  ，/w  妈妈/n  是/vl  老师/n  。/w  我/r  爸爸/n  ，/w  妈妈/n  呢/u  ？/w  
+A/ws  ：/w  我/r  爸爸/n  是/vl  医生/n  ，/w  妈妈/n  不/d  工作/n  。/w  

@@ -1,0 +1,31 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000055/m  _/w  002/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  563/m  >/w  
+林娜/nh  去/v  在/p  英国/ns  朋友/n  家/n  ./w  
+林娜/nh  打的/v  回/v  学院/n  ./w  
+今年/nt  他/r  有/v  五十二/m  岁/nt  ./w  
+今年/nt  她/r  有/v  六/m  岁/nt  ./w  
+他/r  星期日/nt  上午/nt  去/v  商场/n  买/v  东西/n  ./w  
+他/r  十二/m  点/n  晚上/nt  写/v  汉字/n  ./w  
+他/r  星期一/nt  八/m  点/n  有/v  课/n  ./w  
+陈/nhf  老师/n  为什么/d  不/d  高兴/a  ？/w  
+因为/c  马大/nh  为/p  不/d  在/p  来/vd  上课/v  ./w  
+我/r  要/vu  看/v  电影/n  在/p  电影院/n  里/nd  。/w  
+我/r  喜欢/v  汉语/n  。/w  我/r  想/v  做/v  一个/r  汉语/n  老师/n  。/w  
+我/r  不住/v  在/p  宿舍/n  ./w  我/r  有/v  新/a  房子/n  ./w  我/r  家/n  附近/n  是/vl  面包/n  店/n  。/w  我/r  住/v  在/p  Banská/ws  Bystrica/ws  。/w  我/r  的/u  家/n  在/p  二/m  层/q  四/m  好/a  。/w  我/r  的/u  新/a  房子/n  有/v  三/m  间/n  卧室/n  。/w  我/r  的/u  老/a  房子/n  有/v  二/m  间/n  卧室/n  。/w  房子/n  里/nd  有/v  二/m  间/n  卧室/n  ，/w  客厅/n  ,/w  厨房/n  ，/w  厕所/n  和/c  一/m  间/n  小/a  房间/n  。/w  我/r  睡/v  在/p  沙发/n  上/nd  ./w  我/r  不/d  坐/v  在/p  地上/nl  ，/w  我/r  坐/v  在/p  沙发/n  还是/d  椅子/n  。/w  
+十二月/nt  二十四/m  号/n  斯洛伐克/ns  人/n  过/vd  圣诞节/nt  。/w  我们/r  三/m  天/nt  过/vd  圣诞节/nt  ./w  二十四/m  号/n  白天/nt  我们/r  不/d  吃饭/v  。/w  我们/r  吃/v  圣诞节/nt  晚餐/n  。/w  我们/r  吃/v  鱼/n  和/c  土豆/n  沙拉/n  。/w  我们/r  吃/v  圣诞节/nt  蛋糕/n  。/w  晚饭/n  后/nd  我们/r  给/p  礼物/n  。/w  一起/d  家人/n  看/v  圣诞节/nt  电影/n  ./w  有些/m  人/n  去/v  教堂/n  ./w  我们/r  休息/v  ./w  家/n  有/v  圣诞节/nt  东西/n  。/w  在家/v  是/vl  漂亮/a  圣诞节/nt  树/n  。/w  外面/nd  很/d  冷/a  又/d  下雪/v  ./w  我/r  喜欢/v  圣诞节/nt  ./w  
+亲爱/a  大/a  为/p  ，/w  
+我/r  很/d  好/a  。/w  我/r  也/d  很/d  想/v  你/r  。/w  我/r  很/d  高兴/a  你/r  还/d  好/a  。/w  
+我/r  星期五/nt  早上/nt  有/v  时间/n  。/w  我们/r  可以/vu  一起/d  吃/v  早餐/n  。/w  你/r  给/p  我/r  看/v  你/r  的/u  新/a  房子/n  。/w  下午/nt  我们/r  去/v  商场/n  ，/w  我/r  帮/v  你/r  找/v  家具/n  。/w  
+再见/v  
+我/r  不常/d  去/v  旅行/v  。/w  现在/nt  我/r  不能/vu  去/v  旅行/v  。/w  我/r  上次/n  旅行/v  在/p  英国/ns  伦敦/ns  。/w  那时/r  我/r  不会/vu  说/v  英语/n  很/d  好/a  。/w  那是/r  一/m  次/q  中学/n  旅行/v  。/w  我/r  十五/m  岁/nt  。/w  我/r  七/m  天/nt  在/p  了/u  英国/ns  。/w  两/m  天/nt  我/r  坐/v  了/u  公车/n  。/w  然后/c  我/r  第一次/mq  坐/v  渡轮/n  -/w  -/w  轮渡/n  。/w  三月/nt  ，/w  我/r  去/v  了/u  英国/ns  旅行/v  。/w  天气/n  不怎么样/a  。/w  冷/a  得/u  和/c  下雨/v  的/u  。/w  我/r  去/v  了/u  很多/a  博物院/n  。/w  我/r  也/d  去/v  了/u  商场/n  。/w  我/r  买/v  了/u  衣服/n  。/w  我/r  拍/v  了/u  很多/a  照片/n  。/w  我/r  玩/v  得/u  很/d  开心/a  。/w  

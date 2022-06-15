@@ -1,0 +1,16 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000072/m  _/w  004/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  386/m  >/w  
+你/r  认识/v  这/r  场/q  山/n  吗/u  ？/w  在/p  中国/ns  很/d  名胜/n  。/w  无论/c  中国人/n  或/d  外国人/n  ，/w  我们/r  都/d  喜欢/v  这个/r  地方/n  。/w  这个/r  地方/n  是/vl  中国/ns  的/u  特色/n  ，/w  因为/c  在/p  中/nd  人民/n  市/n  你/r  也/d  可以/vu  看到/v  它/r  ，/w  就是/r  在/p  二十/m  元/q  的/u  纸币/n  。/w  这条/r  河/n  随/p  中国人/n  ，/w  都/d  认识/v  ，/w  是/vl  因为/c  它/r  环境/n  像/v  连环/n  片/q  画/n  一样/a  漂亮/a  。/w  不仅/c  景/n  鱼/n  很/d  美/a  而/c  气候/n  也/d  很/d  好/a  这条/r  河/n  早在/v  五/m  百年/nt  多/a  就/d  咸/a  了/u  名胜/n  。/w  
+你们/r  可能/vu  以为/v  这条/r  河/n  肯定/d  有/v  变化/v  。/w  这/r  可能/vu  有点/d  奇怪/a  ，/w  其实/d  没什么/i  大/a  变化/v  。/w  看/v  这/r  张/nhf  照片/n  ，/w  就/d  知道/v  。/w  
+因为/c  你们/r  不/d  认识/v  我/r  的/u  小/a  城市/n  ，/w  我/r  老家/n  ，/w  我/r  要/vu  给/p  你们/r  介绍/v  介绍/v  。/w  这个/r  城市/n  叫/v  萨/x  拉/v  。/w  是/vl  在/p  斯洛伐克/ns  的/u  西南/nd  。/w  虽然/c  我/r  的/u  城市/n  比较/v  小/a  ，/w  可是/d  有/v  一条/r  河/n  ，/w  森林/n  ，/w  还有/v  一家/mq  古屋/n  。/w  如果/c  你/r  来/vd  这里/r  的话/u  ，/w  你/r  肯定/d  不/d  后悔/v  。/w  在/p  森林/n  里/nd  你/r  可以/vu  看到/v  不少/a  棵/q  树/n  ，/w  几/m  朵/q  花/n  ，/w  矮树/n  等/v  。/w  在/p  森林/n  好多/m  家人/n  散/v  散步/v  ，/w  跑/v  肯/vu  或/d  遛/v  狗/n  。/w  我/r  和/c  家人/n  总是/d  在/p  这里/r  遛/v  狗/n  。/w  因为/c  萨/x  拉/v  的/u  河/n  也/d  在/p  森林/n  ，/w  狗/n  ，/w  孩子/n  都/d  很/d  喜欢/v  去/v  这里/r  。/w  虽然/c  斯洛伐克/ns  有/v  很多/a  漂亮/a  的/u  地方/n  ，/w  尤其/d  是/vl  在/p  我们/r  的/u  山/n  ，/w  这是/r  我/r  老家/n  。/w  我/r  在/p  这里/r  长大/v  了/u  ，/w  所以/c  这个/r  城市/n  在/p  我/r  心里/nl  和/c  它/r  的/u  风景/n  也是/vl  。/w  

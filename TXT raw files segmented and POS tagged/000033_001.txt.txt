@@ -1,0 +1,16 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000033/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  4/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  146/m  >/w  
+最大/a  的/u  压力/n  来自/v  无法/d  完成/v  工作/n  的/u  情况/n  。/w  我/r  总是/d  尽责/v  地/u  按时/d  完成/v  工作/n  。/w  所以/c  当/p  我/r  工作/n  时/nt  突然/d  发生/v  了/u  什么/r  事/n  ，/w  我/r  对/a  此/r  感到/v  难过/a  。/w  
+解决/v  这种/r  压力/n  只有/c  一种/r  方法/n  。/w  我/r  必须/d  对/a  所有/a  事情/n  进行/v  完善/a  的/u  计划/n  ，/w  以免/c  发生/v  意外/a  事件/n  。/w  但是/c  ，/w  这/r  并不/d  总是/d  可能/vu  的/u  。/w  
+压力/n  也/d  有/v  其/r  好处/n  。/w  就/d  我/r  而/c  言/v  ，/w  压力/n  迫使/v  我/r  计划/n  自己/r  的/u  工作/n  。/w  没有/v  压力/n  ，/w  我/r  将/d  无法/d  做/v  大多数/n  事情/n  。/w  

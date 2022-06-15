@@ -1,0 +1,16 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000034/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  4/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  143/m  >/w  
+我/r  认为/v  很多/a  压力/n  来自/v  责任/n  。/w  学校/n  ，/w  工作/n  ，/w  养育/v  子女/n  ，/w  人际关系/n  。/w  我/r  自己/r  最大/a  的/u  压力/n  来自/v  学校/n  ，/w  正在/d  准备/v  考试/v  。/w  
+我/r  看/v  不到/v  压力/n  太/d  大/a  的/u  优势/n  。/w  它/r  可以/vu  帮助/v  某些/r  人/n  更多/d  地/u  工作/n  。/w  我/r  不/d  喜欢/v  压力/n  状况/n  ，/w  我/r  也/d  不/d  擅长/v  应对/v  压力/n  。/w  我/r  不能/vu  集中/v  精力/n  ，/w  我/r  做错/v  了/u  。/w  
+减轻/v  压力/n  的/u  好/a  方法/n  是/vl  深呼吸/v  。/w  还要/v  告诉/v  自己/r  一切/r  都会/vu  好/a  起来/vd  ，/w  或者/d  在/p  考虑/v  我/r  爱/v  的/u  人/n  。/w  

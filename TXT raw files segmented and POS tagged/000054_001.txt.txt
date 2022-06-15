@@ -1,0 +1,35 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000054/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  152/m  >/w  
+请问/v  ，/w  这是/r  什么/r  ？/w  
+这是/r  无数/m  。/w  
+无数/m  怎么样/r  ？/w  
+很/d  有意思/v  。/w  
+这是/r  什么/r  ？/w  
+这是/r  熊猫/n  。/w  
+熊猫/n  怎么样/r  ？/w  
+很/d  有意思/v  。/w  
+二/m  
+今天/nt  天气/n  很/d  好/a  ，/w  我们/r  去/v  打球/v  ，/w  好/a  吗/u  ？/w  
+太/d  好了/e  。/w  什么/r  时候/n  去/v  ？/w  
+现在/nt  去/v  ，/w  可以/vu  吗/u  ？/w  
+可以/vu  。/w  
+我们/r  去/v  跳舞/v  ，/w  好/a  吗/u  ？/w  
+什么/r  时候/n  去/v  ？/w  
+现在/nt  去/v  ，/w  可以/vu  吗/u  ？/w  
+对不起/v  ，/w  现在/nt  我/r  很/d  忙/a  ，/w  恐怕/d  不行/v  。/w  
+没关系/i  。/w  
+三/m  
+明天/nt  您/r  有/v  时间/n  吗/u  ？/w  
+对不起/v  ，/w  请/v  在/p  说/v  一/m  遍/q  。/w  
+明天/nt  您/r  有/v  时间/n  吗/u  ？/w  

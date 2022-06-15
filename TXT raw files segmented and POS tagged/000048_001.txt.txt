@@ -1,0 +1,18 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000048/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  3/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  182/m  >/w  
+我/r  的/u  爱/v  朋友/n  ：/w  
+你/r  好/a  。/w  我/r  希望/v  你/r  一切/r  都/d  好/a  。/w  我/r  也/d  希望/v  你/r  不会/vu  生气/v  因为/c  我/r  在/p  这种/r  情况/n  下/nd  给/p  你/r  写/v  书信/n  。/w  如/v  你/r  所知/n  我/r  还/d  在/p  学习/v  ，/w  而且/c  一点/mq  也/d  不/d  便宜/a  。/w  但/c  我/r  只/d  会/vu  学习/v  一/m  年/nt  。/w  我/r  也/d  没有/v  时间/n  边/n  学习/v  边/n  打工/v  挣钱/v  。/w  我/r  想/v  请/v  你/r  借给/v  我/r  一点/mq  钱/n  。/w  我/r  知道/v  你/r  是/vl  个/q  很/d  有名/a  的/u  设计师/n  。/w  你/r  设计/v  漂亮/a  的/u  衣服/n  。/w  我/r  想/v  向/p  你/r  要/vu  1000/m  欧元/n  。/w  我/r  需要/v  支付/v  学校/n  的/u  费用/n  。/w  如果/c  你/r  帮助/v  我/r  ，/w  我/r  会/vu  很/d  高兴/a  。/w  一旦/d  我/r  开始/v  工作/n  ，/w  我/r  会/vu  把/p  一切/r  钱/n  给/p  你/r  。/w  
+谢谢/v  。/w  
+祝/v  你/r  快乐/a  ！/w  
+健康/a  幸福/a  ！/w  

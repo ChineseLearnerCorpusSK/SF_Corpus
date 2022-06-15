@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000038/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  4/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  113/m  >/w  
+目前/nt  ，/w  我/r  觉得/v  最大/a  的/u  压力/n  是/vl  冠状/n  病毒/n  。/w  我们/r  必须/d  隔离/v  ./w  。/w  某些/r  人/n  可能/vu  会/vu  感到/v  与/c  外界/n  隔绝/v  。/w  我/r  感到/v  学校/n  压力/n  对/a  我/r  是/vl  最大/a  的/u  。/w  因为/c  我/r  今年/nt  毕业/v  ，/w  所以/c  我/r  需要/v  学习/v  很多/a  东西/n  。/w  我/r  通过/p  散步/v  ，/w  跑步/v  或/d  运动/n  来/vd  减轻/v  压力/n  。/w  压力/n  有利于/v  推动/v  您/r  做事/v  。/w  坏处/n  是/vl  您/r  会/vu  开始/v  感到/v  焦虑/a  。/w  

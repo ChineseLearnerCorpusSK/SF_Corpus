@@ -1,0 +1,20 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000047/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  3/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  210/m  >/w  
+亲爱的/n  朋友/n  !/w  
+你/r  好/a  ！/w  
+我/r  叫/v  白梅/n  。/w  我/r  猜/v  你/r  现在/nt  觉得/v  有点/d  儿/n  糊涂/a  ，/w  因为/c  你/r  不/d  知道/v  我/r  为什么/d  给/p  你/r  写/v  这/r  封信/ns  。/w  原因/n  是/vl  我/r  想/v  交/v  新/a  的/u  中国/ns  朋友/n  。/w  在/p  我/r  的/u  高中/j  ，/w  我们/r  学习/v  汉语/n  。/w  因为/c  今年/nt  病毒/n  的/u  情况/n  ，/w  我们/r  有/v  很少/a  中国/ns  老师/n  ，/w  所以/c  我/r  没有/v  机会/n  练习/v  我/r  的/u  汉语/n  。/w  我/r  希望/v  我们俩/r  能/vu  互相/d  了解/v  一下/mq  。/w  
+让/p  我/r  自我/r  介绍/v  一下/mq  ，/w  我/r  来自/v  斯洛伐克/ns  ，/w  我/r  今年/nt  19/m  岁/nt  。/w  我/r  喜欢/v  看/v  电影/n  ，/w  尤其/d  恐怖片/n  影/n  。/w  我/r  除了/p  喜欢/v  看/v  电影/n  ，/w  还/d  喜欢/v  旅游/v  和/c  玩/v  儿/n  跟/c  我/r  的/u  猫/n  。/w  我/r  有/v  两/m  只/d  猫/n  。/w  你/r  有/v  宠物/n  吗/u  ？/w  你/r  的/u  爱好/n  是/vl  什么/r  ？/w  
+我/r  期待/v  你/r  的/u  回复/v  。/w  
+此致/v  
+敬礼/v  ！/w  

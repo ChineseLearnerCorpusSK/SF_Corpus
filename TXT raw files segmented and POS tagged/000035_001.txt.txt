@@ -1,0 +1,14 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000035/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  4/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  91/m  >/w  
+我/r  喜欢/v  压力/n  ，/w  但是/c  另一方面/c  不/d  喜欢/v  压力/n  。/w  如果/c  学习/v  的/u  时间/n  压力/n  很/d  大/a  ，/w  那/r  就/d  身体/n  不太/d  健康/a  ，/w  睡/v  不了/v  ，/w  有时候/d  人会/ns  生气/v  。/w  但/c  压力/n  的/u  时候/n  会/vu  减肥/v  了/u  ，/w  那/r  就是/r  好处/n  。/w  有人/v  说/v  压力/n  提供/v  能量/n  ，/w  可以/vu  激励/v  ，/w  这个/r  也就是/d  好处/n  。/w  

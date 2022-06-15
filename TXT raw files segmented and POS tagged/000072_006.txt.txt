@@ -1,0 +1,31 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000072/m  _/w  006/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Beg/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  416/m  >/w  
+一/m  堆/v  对象/n  马上/d  要/vu  了/u  过来/vd  商场/n  。/w  
+妈妈/n  和/c  孩子/n  牵手/v  了/u  过去/vd  商场/n  。/w  
+一对/n  对象/n  走/v  过来/vd  商场/n  。/w  
+妈妈/n  和/c  孩子/n  走/v  过去/vd  商场/n  。/w  
+公交/j  车/n  快/a  开/v  过去/vd  公共汽车站/n  。/w  
+那儿/r  有/v  很多/a  人/n  正在/d  唱/v  秧歌/n  。/w  
+他们/r  一边/d  跳舞/v  ，/w  一边/d  听/v  锣/n  打鼓/v  。/w  
+这种/r  舞/v  很/d  好学/v  ，/w  你/r  也/d  能/vu  很快/a  学会/v  的/u  。/w  
+我/r  每天/r  早上/nt  都/d  要/vu  打太极拳/v  。/w  
+那里/r  常常/d  看/v  看/v  着/u  很多/a  在/p  锻炼/v  身体/n  的/u  老人/n  。/w  
+宿舍/n  门口/nl  放/v  了/u  几/m  盆花/n  。/w  
+网吧/n  里/nd  几个/r  年轻人/n  走/v  出来/vd  。/w  
+丁立波/nh  打太极拳/v  打/v  得/u  很/d  好/a  。/w  
+那个/r  姑娘/n  又/d  年轻/a  又/d  漂亮/a  。/w  
+妈妈/n  现在/nt  可以/vu  了/u  工作/n  。/w  
+在/p  这/r  张/nhf  照片/n  里/nd  我们/r  能/vu  看到/v  公交/j  车站/n  ，/w  商场/n  和/c  一条/r  长椅/n  。/w  在/p  有/v  边/n  是/vl  那/nh  一站/ns  。/w  人们/n  等/v  在/p  这里/r  。/w  俩/m  男士/n  来/vd  晚/a  了/u  ，/w  是/vl  因为/c  一/m  车/n  两/m  公交/j  车/n  已经/d  开走/v  了/u  。/w  可是/d  这/r  件/n  事/n  为/p  女士/n  不是/vl  间/n  题/n  。/w  她/r  没有/v  生气/v  的/u  打车/v  了/u  。/w  这/r  辆/q  车开/nh  过来/vd  接/v  她/r  。/w  可是/d  男性/a  怎么办/v  ？/w  我/r  觉得/v  ，/w  他们/r  能/vu  汽车/n  ，/w  是/vl  因为/c  在/p  车/n  交/v  车站/n  旁边/nd  有/v  停/v  自行车/n  的/u  地方/n  。/w  在/p  那儿/r  放/v  着/u  三/m  辆/q  车/n  可以/vu  租/v  。/w  
+在/p  金源/nh  商场/n  能/vu  看到/v  开/v  着/u  两/m  肩/n  门/n  ，/w  是/vl  因为/c  有人/v  走/v  出来/vd  ，/w  有人/v  走进/v  去/v  。/w  因为/c  在/p  门口/nl  有/v  热闹/a  ，/w  我/r  觉得/v  这/r  家/n  商场/n  很/d  好/a  。/w  
+在/p  金源/nh  商场/n  前边/nd  有/v  一条/r  长椅/n  。/w  一个/r  男性/a  和/c  一/m  位/q  女性/n  在/p  这条/r  长椅/n  坐/v  着/u  。/w  他们/r  聊天/v  得/u  很/d  开心/a  。/w  

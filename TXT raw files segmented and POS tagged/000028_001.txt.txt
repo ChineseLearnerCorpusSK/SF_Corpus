@@ -1,0 +1,26 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000028/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2020/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  M/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  150/m  >/w  
+我/r  跟/c  我/r  朋友们/n  在/p  森林/n  里/nd  迷路/v  了/u  
+都/d  不/d  知道/v  到底/d  到了/v  哪里/r  
+很/d  容易/a  会/vu  受伤/v  ，/w  甚至/d  会/vu  死/v  
+天空/n  开始/v  变/v  黑/a  了/u  逐渐/d  感到/v  冷/a  
+森林/n  那么/r  黑/a  ,/w  手机/n  没有/v  电/n  
+冷汗/n  流/v  下来/v  ，/w  全部/n  在/p  我/r  脸上/nl  
+突然/d  从/p  阴/a  深/a  的/u  地方/n  出现/v  了/u  一/m  只/d  个/q  鬼/n  
+森林/n  那么/r  黑/a  ，/w  逐渐/d  我们/r  累/v  
+越来越/d  近/a  ，/w  好像/d  没有/v  嘴/n  。/w  
+我们/r  飞快/a  的/u  逃走/v  ，/w  看起来/v  像/v  在/p  飞/v  
+因为/c  在/p  我/r  背后/nl  有/v  只/d  难看/a  鬼/n  
+所以/c  我/r  天使/n  请/v  你/r  快/a  球/n  我/r  吧/u  
+因为/c  在/p  我/r  背后/nl  有/v  只/d  难看/a  鬼/n  

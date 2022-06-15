@@ -1,0 +1,16 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000037/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  4/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  170/m  >/w  
+我/r  遇到/v  的/u  最大/a  的/u  压力/n  来自/v  学校/n  。/w  我们/r  有/v  很多/a  考试/v  ，/w  所以/c  我/r  必须/d  复习/v  一下/mq  。/w  然后/c  我/r  必须/d  选择/v  大学/n  ，/w  但/c  压力/n  越来越/d  大/a  。/w  
+压力/n  带来/v  了/u  更多/d  的/u  焦虑/a  。/w  现在/nt  我/r  不能/vu  正确/a  地/u  专注/v  于/p  我/r  的/u  学习/v  ，/w  晚上/nt  睡/v  不/d  着/u  觉/v  。/w  压力/n  的/u  好处/n  是/vl  你/r  会/vu  尝试/v  更多/d  。/w  坏处/n  是/vl  你/r  担心/v  一切/r  。/w  
+如果/c  我/r  觉得/v  压力/n  过大/a  时/nt  ，/w  我/r  的/u  办法/n  是/vl  睡觉/v  ，/w  看/v  电影/n  ，/w  听/v  音乐/n  等/v  。/w  因为/c  我/r  不/d  可以/vu  学习/v  ，/w  我/r  休息/v  休息/v  一下/mq  ，/w  但是/c  我/r  的/u  最好/a  的/u  减轻/v  压力/n  的/u  办法/n  是/vl  热/a  浴缸/n  。/w  
