@@ -1,0 +1,26 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000025/m  _/w  008/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2014/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Adv/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  Hungarian/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  373/m  >/w  
+食谱/n  
+我/r  来/vd  介绍/v  的/u  食谱/n  关系/n  到/v  我/r  从小/d  最/d  喜欢/v  的/u  蛋糕/n  ，/w  也是/vl  第一/m  种/v  我/r  自己/r  烤/v  的/u  蛋糕/n  。/w  对/a  我/r  家人/n  来说/v  每/r  星期天/nt  他们/r  一定/d  让/p  我/r  烤/v  某种/r  甜/a  的/u  蛋糕/n  ：/w  海绵/n  或者/d  发/v  面的/j  蛋糕/n  ，/w  或者/d  布丁/n  —/w  —/w  尤其/d  孩子/n  很/d  喜欢/v  吃/v  这种/r  点心/n  。/w  
+关于/p  这/r  具体/a  的/u  蛋糕/n  ，/w  我/r  第一/m  试验/v  不是/vl  太/d  成功/a  的/u  —/w  —/w  我/r  13/m  岁/nt  的/u  时候/n  没有/v  什么/r  作/v  饭/n  的/u  经验/n  。/w  最后/n  我们/r  的/u  女/n  邻居/n  得/u  帮/v  我/r  救/v  我/r  的/u  ,/w  ,/w  作品/n  “/w  ，/w  因为/c  我/r  的/u  蛋糕/n  几乎/d  烤/v  掉/v  了/u  。/w  今天/nt  就是/r  我/r  孩子/n  最/d  喜欢/v  的/u  点心/n  。/w  
+，/w  ，/w  两/m  色/n  “/w  海绵/n  蛋糕/n  的/u  食谱/n  ：/w  
+材料/n  ：/w  
+面粉/n  ，/w  鸡蛋/n  ，/w  白糖/n  ，/w  香/a  糖/n  ，/w  黄油/n  ，/w  发/v  面粉/n  ，/w  牛奶/n  ，/w  可可/n  粉/n  ，/w  葡萄干/n  ，/w  朗姆酒/ns  
+做法/n  ：/w  
+把/p  蛋黄/n  蛋/n  精/a  分开/v  ，/w  装/v  在/p  两/m  个大/v  容器/n  里/nd  。/w  
+把/p  白糖/n  倒入/v  蛋黄/n  中/nd  混合/v  （/w  好/a  好儿/n  地/u  混合/v  ）/w  。/w  加/v  黄油/n  香/a  糖/n  混/v  在/p  一起/d  。/w  
+加入/v  牛奶/n  ，/w  面粉/n  和/c  发/v  面粉/n  。/w  
+把/p  蛋白/n  搅拌/v  成/v  泡沫/n  ，/w  后来/nt  加入/v  面团/n  中/nd  。/w  小心/a  ，/w  加入/v  泡沫/n  的/u  时候/n  应该/vu  细心/a  地/u  混/v  。/w  
+最后/n  把/p  面团/n  分开/v  ，/w  装/v  在/p  两/m  个/q  容器/n  里/nd  。/w  第一/m  半/m  面团/n  里/nd  加/v  葡萄干/n  ，/w  第二/m  半/m  里/nd  加/v  可可/n  粉/n  和/c  朗姆酒/ns  。/w  
+把/p  两/m  半/m  面团/n  放/v  在/p  蛋糕/n  模子/n  里/nd  ，/w  在/p  烤箱/n  里/nd  烤/v  55/m  分钟/q  。/w  

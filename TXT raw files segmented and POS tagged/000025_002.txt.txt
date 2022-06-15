@@ -1,0 +1,19 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000025/m  _/w  002/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2007/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  Hungarian/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  513/m  >/w  
+我/r  爱/v  我/r  的/u  家/n  
+我/r  来/vd  介绍/v  一下/mq  我/r  的/u  家/n  。/w  我/r  的/u  家/n  在/p  一个/r  南方/nd  斯洛伐克/ns  的/u  城市/n  。/w  我们/r  的/u  城市/n  不太/d  大/a  ，/w  也/d  不太/d  小/a  ，/w  我/r  觉得/v  很/d  方便/a  。/w  我/r  家人/n  在/p  一个/r  别墅/n  住/v  。/w  我们/r  四/m  口/n  人/n  住/v  。/w  别墅/n  有/v  两/m  层/q  ，/w  对/a  我/r  来说/v  够/v  。/w  也/d  有/v  一个/r  相当/d  大/a  的/u  院子/n  ，/w  特别/d  对/a  我/r  孩子/n  来说/v  非常/d  重要/a  。/w  进/v  大门/n  的/u  时候/n  你/r  可能/vu  怕/v  一下/mq  ，/w  因为/c  我们/r  三/m  只/d  小/a  狗/n  跑/v  得/u  很快/a  （/w  一定/d  比/p  你/r  跑/v  得/u  快/a  多/a  了/u  ）/w  。/w  
+进门/v  以后/nt  前边/nd  是/vl  客厅/n  ，/w  左边/nd  是/vl  书房/n  ，/w  右边/nd  是/vl  洗手间/n  。/w  往/p  右/nd  拐/v  以后/nt  你/r  看/v  我们/r  的/u  厨房/n  ，/w  这/r  就是/r  我/r  的/u  特别/d  喜欢/v  的/u  地方/n  ，/w  因为/c  我/r  在/p  这/r  做饭/v  ，/w  听/v  音乐/n  ，/w  看报/v  或者/d  跟/c  我/r  家人/n  聊天/v  。/w  第二/m  层/q  有/v  儿童/n  房/n  ，/w  洗手间/n  ，/w  还有/v  一个/r  办公室/n  。/w  在/p  这儿/r  我/r  也/d  过/vd  很多/a  时间/n  ，/w  因为/c  我/r  每天/r  做工作/v  ，/w  学习/v  ，/w  查/v  电脑/n  后者/n  看书/v  在/p  办公室/n  。/w  
+我们/r  的/u  别墅/n  在/p  城市/n  的/u  市中心/n  ，/w  很/d  方便/a  ！/w  别墅/n  旁边/nd  有/v  一个/r  银行/n  。/w  商店/n  ，/w  邮局/n  ，/w  医院/n  ，/w  小学/n  ，/w  别的/r  办公室/n  都/d  不/d  在/p  远/a  ，/w  所以/c  我们/r  的/u  生活/n  非常/d  实用/a  。/w  我们/r  家人/n  有时候/d  喜欢/v  去/v  饭馆/n  吃饭/v  （/w  不是/vl  因为/c  我/r  不/d  喜欢/v  做饭/v  ，/w  我们/r  就/d  喜欢/v  休息/v  和/c  玩/v  儿/n  一下/mq  ）/w  。/w  孩子/n  常/a  习惯/v  去/v  图书馆/n  看书/v  或者/d  去/v  电影院/n  一/m  饭馆/n  ，/w  电影院/n  ，/w  图书馆/n  都/d  不/d  在/p  远/a  ，/w  所以/c  生活/n  真的/a  很/d  舒服/a  。/w  
+我/r  只有/c  一个/r  问题/n  ：/w  我/r  的/u  学校/n  离/v  我/r  家/n  有点/d  儿/n  远/a  ，/w  我/r  每天/r  是/vl  坐/v  公共汽车/n  来/vd  学校/n  的/u  。/w  大学/n  离/v  车站/n  不远/a  ，/w  我/r  是/vl  走到/v  大学/n  的/u  。/w  这/r  就是/r  我/r  的/u  早上/nt  锻炼/v  。/w  
+我/r  觉得/v  老师/n  的/u  最后/n  问题/n  是/vl  一个/r  《/w  画蛇添足/i  》/w  的/u  你/r  不用/d  问/v  ，/w  我/r  当然/d  喜欢/v  我/r  家/n  ，/w  也/d  喜欢/v  我/r  家人/n  。/w  

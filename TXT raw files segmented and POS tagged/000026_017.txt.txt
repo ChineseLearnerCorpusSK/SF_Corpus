@@ -1,0 +1,21 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000026/m  _/w  017/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2014/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Adv/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  5/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  580/m  >/w  
+我/r  喜欢/v  的/u  角色/n  
+小时候/nt  我/r  有/v  很多/a  喜欢/v  的/u  电影明星/n  ，/w  好像/d  我/r  每次/r  看过/v  一/m  部/n  电影/n  后/nd  ，/w  我/r  就/d  迷上/v  了/u  角色/n  扮演/v  。/w  随着/p  时间/n  的/u  推移/v  ，/w  我/r  逐渐/d  变/v  得/u  成熟/a  起来/vd  。/w  结果/n  ，/w  在/p  我/r  最/d  喜欢/v  的/u  明星/n  中/nd  ，/w  时下/nt  只有/c  几个/r  人/n  被/p  淘汰/v  的/u  。/w  我/r  喜欢/v  的/u  角色/n  包括/v  一/m  位/q  美剧/ns  《/w  生活/n  大/a  爆炸/v  》/w  里/nd  扮演/v  物理学家/n  在内/v  。/w  
+这位/r  物理学家/n  中文/n  名字/n  叫/v  谢/v  耳朵/n  。/w  因为/c  他/r  的/u  性格/n  与/c  别人/r  有/v  天壤之别/i  ，/w  他/r  只有/c  三/m  个/q  有/v  同样/a  的/u  职业/n  的/u  朋友/n  。/w  谢/v  耳朵/n  是/vl  非常/d  聪明/a  的/u  人/n  ，/w  至于/v  他/r  认为/v  自己/r  是/vl  个/q  伟大/a  的/u  物理学/n  天才/n  。/w  从/p  物理/n  定律/n  来看/v  ，/w  在/p  一瞬间/nt  里/nd  他/r  就/d  会/vu  任何/r  问题/n  详细/a  地/u  措/x  述/x  。/w  他/r  做/v  什么/r  事情/n  都/d  井井有条/i  。/w  他/r  总是/d  从实际出发/i  ，/w  永远/d  不要/vu  把/p  侥幸/a  心理/n  。/w  
+但是/c  说到/v  日常生活/n  ，/w  他/r  对/a  交际/v  一/m  窍/x  不同/a  。/w  遇到/v  人间/nl  关系/n  的/u  问题/n  的/u  时候/n  ，/w  他/r  都/d  非常/d  迷茫/a  ，/w  无法/d  估计/v  形势/n  。/w  可以说/v  他/r  有点/d  看不起/v  别人/r  ，/w  很/d  自以为是/i  。/w  虽然/c  他/r  不/d  善于/v  交友/v  ，/w  他/r  与/c  其他/r  的/u  三/m  个/q  朋友/n  之间/nd  的/u  关系/n  蛮/d  亲密/a  。/w  他们/r  三/m  个人/r  常常/d  足不出户/i  ，/w  他们/r  不是/vl  看/v  电视/n  ，/w  就是/r  在/p  玩/v  儿/n  游戏/n  。/w  他们/r  一开始/v  玩/v  儿/n  ，/w  就/d  自己/r  无法/d  自拔/v  。/w  在/p  谢/v  耳朵/n  的/u  生活/n  当/p  中/nd  ，/w  电脑/n  扮演/v  多么/d  重要/a  的/u  角色/n  。/w  有时候/d  他们/r  生活/n  在/p  虚拟/v  的/u  世界/n  里/nd  。/w  从/p  以上/nd  地/u  描述/v  来看/v  ，/w  他/r  是/vl  个/q  傲慢/a  的/u  男生/n  。/w  
+我/r  为什么/d  喜欢/v  他/r  呢/u  ？/w  有/v  三/m  个/q  原因/n  ：/w  
+第一/m  ，/w  /w  他/r  每次/r  着凉/v  的/u  时候/n  ，/w  他/r  一/m  真/a  躺/v  在/p  床上/nl  ，/w  赖/v  床/n  不/d  起/v  。/w  为了/p  给/p  他/r  带来/v  方便/a  ，/w  他/r  让/p  朋友/n  给/p  他/r  唱/v  他/r  最/d  喜欢/v  的/u  歌/n  。/w  
+第二/m  ，/w  /w  他/r  穿/v  衣服/n  很/d  有/v  品味/v  。/w  他/r  的/u  T/ws  恤/x  都/d  有/v  独创性/n  ，/w  比如/c  呢/u  ，/w  有些/m  T/ws  恤/x  的/u  图片/n  来/vd  表示/v  原子/n  结构/n  。/w  
+第三/m  ，/w  /w  和/c  别的/r  电视剧/n  不同/a  ，/w  他/r  给/p  我们/r  带来/v  新鲜/a  的/u  幽默/a  。/w  百闻不如一见/i  ！/w  

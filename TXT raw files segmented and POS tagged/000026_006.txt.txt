@@ -1,0 +1,19 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000026/m  _/w  006/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2013/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  635/m  >/w  
+城市/n  和/c  农村/n  ：/w  哪儿/r  更/d  适合/v  居住/v  
+我/r  的/u  老家/n  在/p  农村/n  ，/w  所/u  我/r  是/vl  在/p  那里/r  长大/v  的/u  。/w  小/a  的/u  时候/n  我/r  希望/v  有/v  机会/n  住/v  在/p  城市/n  ，/w  因为/c  我/r  认为/v  ，/w  与/c  农村/n  的/u  生活/n  相比/v  ，/w  在/p  城市/n  都是/r  更有/v  意思/n  ，/w  很/d  时髦/a  。/w  这是/r  我/r  最初/nt  的/u  想法/n  。/w  但/c  现在/nt  我/r  要/vu  从/p  其他/r  的/u  方面/n  来/vd  相比/v  这/r  两/m  个/q  住/v  的/u  地方/n  。/w  
+我/r  有生以来/i  住/v  在/p  农村/n  ，/w  但/c  我/r  的/u  学校/n  位于/v  首都/n  。/w  我/r  的/u  国家/n  是/vl  比较/v  小/a  ，/w  那/r  从/p  农村/n  到/v  最近/nt  的/u  城市/n  需要/v  一个/r  小时/nt  左右/n  。/w  我/r  的/u  生活/n  本来/d  就是/r  这样/r  的/u  。/w  不/d  上课/v  的/u  时候/n  我/r  在/p  农村/n  欣赏/v  了/u  安静/a  的/u  节奏/n  ，/w  上/nd  课时/q  我/r  在/p  城市/n  。/w  那个/r  时候/n  我/r  爸爸/n  、/w  妈妈/n  都/d  在/p  首都/n  工作/n  ，/w  所以/c  对/a  他们/r  来说/v  ，/w  这样/r  做/v  比较/v  方便/a  。/w  可是/d  话/n  又/d  说/v  回来/vd  ，/w  每天/r  上下班/v  在/p  汽车/n  上/nd  花/n  的/u  时间/n  真的/a  是/vl  个/q  浪费/v  时间/n  。/w  
+眼前/nl  的/u  问题/n  是/vl  哪里/r  更/d  适合/v  居住/v  ？/w  这/r  要/vu  看/v  怎么说/v  。/w  在/p  很/d  大/a  程度/n  下/nd  ，/w  人们/n  常常/d  认为/v  城市/n  生活/n  水平/n  比/p  农村/n  高/a  ，/w  因为/c  大部分/n  的/u  我们/r  需要/v  的/u  设施/n  ，/w  像/v  医院/n  、/w  学校/n  、/w  图书馆/n  、/w  电影院/n  ，/w  都/d  集中/v  在/p  大/a  城市/n  。/w  在/p  很/d  大/a  的/u  城市/n  里/nd  ，/w  经/n  流/v  发展/v  比较/v  快/a  ，/w  交通/n  、/w  服务/v  比较/v  发达/a  ，/w  毫无疑问/i  ，/w  生活/n  的/u  节奏/n  也/d  比较/v  快/a  。/w  最近/nt  ，/w  在/p  我/r  的/u  国家/n  出现/v  了/u  一个/r  很/d  有意思/v  的/u  现象/n  ，/w  就是/r  很多/a  城市/n  里/nd  人/n  搬家/v  到/v  农村/n  或者/d  小/a  城市/n  居住/v  。/w  他们/r  不管/c  花/n  每天/r  至少/d  两/m  个/q  小时/nt  上下班/v  ，/w  更/d  重要/a  的/u  是/vl  ，/w  他们/r  在/p  家里/nl  可以/vu  休息/v  ，/w  他们/r  的/u  孩子/n  们/k  可以/vu  一起/d  玩/v  儿/n  ，/w  心里/nl  很/d  放松/v  。/w  他们/r  不是/vl  被/p  大/a  城市/n  的/u  压力/n  影响/v  了/u  。/w  【/w  ？/w  】/w  
+农村/n  环境/n  还/d  没有/v  那么/r  污染/v  ，/w  空气/n  也/d  还/d  好/a  。/w  除了/p  这些/r  困难/n  之外/nd  ，/w  人们/n  的/u  关系/n  也/d  比较/v  密切/a  。/w  他们/r  都/d  彼此/r  认识/v  ，/w  遇到/v  困难/n  时/nt  ，/w  可以/vu  靠/v  别人/r  的/u  帮助/v  。/w  
+居住/v  的/u  地方/n  ，/w  选择/v  农村/n  还是/d  选择/v  城市/n  ，/w  都/d  有/v  很多/a  利/a  和/c  壁/n  ，/w  肯定/d  不会/vu  戴/v  着/u  有色/a  的/u  眼镜/n  来/vd  决定/v  这个/r  问题/n  。/w  我们/r  喜欢/v  哪/r  一种/r  ，/w  全/a  看/v  我们/r  自己/r  的/u  性格/n  、/w  兴趣/n  、/w  思维/n  方式/n  、/w  工作/n  情况/n  的/u  了/u  。/w  

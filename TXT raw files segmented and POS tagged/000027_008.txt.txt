@@ -1,0 +1,15 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000027/m  _/w  008/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2011/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  180/m  >/w  
+你/r  好/a  丽/x  脸/n  ！/w  
+我/r  非常/d  高兴/a  你/r  想来/v  上海/ns  旅行/v  。/w  当然/d  我/r  在/p  上海/ns  可以/vu  陪/v  你/r  。/w  我/r  给/p  你/r  看/v  看/v  最/d  有意思/v  的/u  地方/n  。/w  首先/d  你/r  到/v  虹桥/ns  机场/n  以后/nt  ，/w  有/v  一些/m  方法/n  怎么/r  到/v  我/r  的/u  家/n  —/w  —/w  最/d  简单/a  ，/w  但是/c  也/d  最/d  贵/a  是/vl  坐/v  出租车/n  。/w  我/r  的/u  住址/n  是/vl  655/m  ，/w  交通/n  大学/n  ，/w  然后/c  你/r  在/p  番禺/ns  路上/nl  讲/v  来/vd  校园/n  的/u  入口/n  。/w  我/r  的/u  住址/n  是/vl  655/m  ，/w  交通/n  大学/n  ，/w  然后/c  你/r  在/p  番禺/ns  路上/nl  讲/v  来/vd  校园/n  的/u  入口/n  。/w  在/p  校园/n  500/m  米/n  一直/d  走/v  ，/w  你/r  看/v  一家/mq  饭馆/n  ，/w  然后/c  右/nd  拐/v  而/c  一直/d  走/v  。/w  你/r  在/p  你/r  的/u  右边/nd  看/v  一六/m  层/q  的/u  楼/n  叫做/v  联兴楼/ns  。/w  

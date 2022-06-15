@@ -1,0 +1,20 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000025/m  _/w  004/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2014/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Adv/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  Hungarian/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  452/m  >/w  
+美丽/a  的/u  秋天/nt  
+秋天/nt  是/vl  我/r  最/d  喜欢/v  的/u  季节/nt  。/w  原因/n  是/vl  天气/n  不太/d  热/a  ，/w  也/d  不太/d  冷/a  ，/w  有时候/d  有/v  太阳/n  ，/w  有时候/d  下雨/v  ；/w  有/v  刮风/v  的/u  天/nt  ，/w  也/d  有/v  安静/a  的/u  天/nt  。/w  这/r  各种各样/i  的/u  性/n  就是/r  秋/nt  的/u  美/a  。/w  
+第二/m  个/q  原因/n  是/vl  秋天/nt  的/u  自然/d  景色/n  ，/w  树上/nl  （/w  和/c  树下/nl  ）/w  许多/a  颜色/n  的/u  叶/n  ：/w  红色/n  的/u  ，/w  黄色/n  的/u  ，/w  紫色/n  的/u  ，/w  褐色/n  的/u  ，/w  橙黄色/n  的/u  —/w  —/w  可以说/v  几乎/d  都/d  有/v  ；/w  秋/nt  有/v  它/r  自己/r  一些/m  种花/v  ：/w  菊花/n  是/vl  我/r  最/d  喜欢/v  的/u  ；/w  空气/n  充满/v  了/u  秋/nt  味儿/n  ：/w  湿/a  叶/n  ，/w  熟/a  水果/n  …/w  …/w  春天/nt  的/u  颜色/n  ，/w  味道/n  和/c  花/n  类/n  可能/vu  还/d  多/a  ，/w  可是/d  没有/v  秋天/nt  的/u  深/a  ，/w  没有/v  秋天/nt  的/u  悲/a  。/w  
+我们/r  家/n  的/u  院子/n  里/nd  有/v  一个/r  不太/d  大/a  的/u  菜园/n  。/w  每个/r  春天/nt  我/r  高高兴兴/i  地/u  出去/v  做/v  那些/r  必要/a  的/u  工作/n  ；/w  每个/r  秋天/nt  我/r  减轻/v  地/u  心里/nl  想/v  ：/w  终于/d  我/r  不得/vu  每天/r  出去/v  菜园/n  做/v  那些/r  小/a  工作/n  …/w  
+我们/r  的/u  家人/n  秋天/nt  常常/d  去/v  海边/nl  旅游/v  。/w  有些/m  异国/n  情调/n  地方/n  的/u  天气/n  还/d  很/d  好/a  ，/w  可以说/v  水/n  的/u  温度/n  比/p  春天/nt  或者/d  早/a  夏天/nt  更/d  好/a  ，/w  浴场/n  已经/d  没有/v  那么/r  多/a  人/n  。/w  这样/r  的/u  休假/v  是/vl  一个/r  很/d  好/a  的/u  机会/n  休息/v  一下/mq  。/w  
+我/r  为什么/d  喜欢/v  秋天/nt  最后/n  的/u  原因/n  就是/r  ：/w  圣诞节/nt  已经/d  快要/vu  来到/v  ，/w  到/v  外/nd  可以/vu  感受到/v  它/r  的/u  心情/n  。/w  这/r  时期/nt  对/a  我/r  来说/v  就是/r  真的/a  圣诞节/nt  —/w  —/w  不是/vl  12/m  月/nt  那一天/nt  ，/w  是/vl  秋天/nt  末/n  的/u  那些/r  星期/nt  。/w  那时候/r  我/r  烤/v  圣诞节/nt  糖果/n  ，/w  打扫/v  房子/n  ，/w  写/v  圣诞节/nt  卡/n  ，/w  想/v  一/m  想/v  我/r  的/u  亲戚/n  和/c  朋友/n  …/w  
+这/r  就是/r  秋天/nt  最/d  美丽/a  的/u  时期/nt  。/w  

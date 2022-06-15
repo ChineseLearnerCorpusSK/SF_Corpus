@@ -1,0 +1,19 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000026/m  _/w  009/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2014/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Adv/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  5/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  525/m  >/w  
+杭州/ns  
+我/r  很/d  开心/a  有/v  机会/n  参观/v  许多/a  闻名于世/i  的/u  地方/n  ，/w  譬如/v  罗马/ns  、/w  威尼斯/ns  、/w  伦敦/ns  、/w  柏林/ns  、/w  开罗/ns  的/u  金字塔/n  、/w  土耳其/ns  、/w  希腊/ns  、/w  越南/ns  、/w  等/v  。/w  在/p  我/r  去过/v  的/u  地方/n  中/nd  ，/w  中国/ns  占有/v  很/d  重要/a  的/u  地位/n  。/w  
+三/m  年/nt  之前/nt  ，/w  我/r  第一次/mq  来到/v  中国/ns  ，/w  也/d  第一次/mq  去过/v  杭州/ns  。/w  归功于/v  我/r  那个/r  时候/n  在/p  日记本/n  里/nd  记录/v  的/u  事情/n  ，/w  现在/nt  什么/r  都/d  我/r  会/vu  想/v  起来/vd  。/w  2010/m  年/nt  12/m  月/nt  11/m  日/nt  ，/w  星期六/nt  ，/w  我/r  跟/c  一个/r  从/p  哥斯达黎加/ns  来/vd  的/u  朋友/n  一起/d  坐/v  火车/n  去/v  杭州/ns  。/w  虽然/c  我们/r  杭州/ns  只/d  去/v  了/u  一天/r  ，/w  但是/c  这/r  座/q  城市/n  给/p  我/r  留下来/v  很/d  深刻/a  的/u  印象/n  。/w  那天/r  我/r  经历/n  过/vd  很多/a  “/w  第一次/mq  ”/w  。/w  我/r  第一次/mq  坐/v  人力车/n  ，/w  第一次/mq  来到/v  佛庙/ns  ，/w  第一次/mq  享受/v  了/u  西湖/ns  之/u  美/a  。/w  那时/r  我/r  没想到/v  三/m  年/nt  后/nd  我/r  会/vu  成为/v  杭州/ns  师范大学/n  的/u  学生/n  。/w  
+我/r  去年/nt  来/vd  杭州/ns  学习/v  ，/w  与/c  以前/nt  来/vd  这里/r  旅游/v  的/u  感觉/v  完全/a  不/d  一样/a  。/w  该/vu  城市/n  是/vl  我/r  时下/nt  住/v  的/u  地方/n  ，/w  所以/c  除了/p  西湖/ns  、/w  雷/nh  峰塔/ns  ，/w  这些/r  游览区/n  之外/nd  ，/w  我/r  还/d  得/u  注意/v  银行/n  在/p  哪里/r  ，/w  超市/j  在/p  哪里/r  ，/w  等/v  。/w  假如/c  有空/v  的话/u  ，/w  我/r  喜欢/v  坐/v  公交/j  车/n  去/v  市中心/n  散/v  散步/v  步/n  。/w  一/m  个人/r  去/v  或者/d  跟/c  朋友/n  一起/d  去/v  ，/w  我/r  无所谓/v  。/w  我/r  喜欢/v  在/p  西湖/ns  旁边/nd  的/u  咖啡店/n  一边/d  喝/v  咖啡/n  ，/w  一边/d  看书/v  。/w  这是/r  让/p  我/r  放松/v  、/w  缓解/v  压力/n  的/u  最/d  有效/a  的/u  方法/n  。/w  
+随着/p  春天/nt  地/u  来到/v  ，/w  杭州/ns  成为/v  一/m  座/q  到处/nl  都/d  能/vu  看见/v  绿色/n  的/u  城市/n  。/w  看到/v  旮/x  旮旯/nl  旯/x  都/d  开花/v  ，/w  让/p  我们/r  有/v  个/q  满足感/n  。/w  该/vu  城市/n  让/p  我们/r  更/d  深刻/a  地/u  了解/v  “/w  知足常乐/i  ”/w  ，/w  这/r  四/m  个/q  词/n  的/u  内涵/n  意义/n  。/w  
+总的来说/c  ，/w  有/v  机会/n  住/v  在/p  名声/n  大/a  噪/x  的/u  杭州/ns  ，/w  我/r  感到/v  非常/d  荣幸/a  。/w  

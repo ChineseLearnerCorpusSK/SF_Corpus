@@ -1,0 +1,15 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000027/m  _/w  010/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2011/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  150/m  >/w  
+介绍/v  人物/n  
+一些/m  年/nt  以前/nt  我/r  跟/c  一/m  位/q  在/p  德国/ns  留学/v  的/u  同学/n  交/v  了/u  朋友/n  。/w  他/r  不是/vl  很/d  外向/a  性格/n  的/u  人/n  ，/w  但是/c  认识/v  他/r  以后/nt  ，/w  我/r  发现/v  他/r  的/u  生活方式/n  非常/d  厉害/a  。/w  因为/c  他/r  是/vl  从/p  阿/h  尔/x  阿尔卑斯山脉/ns  的/u  城市/n  来/vd  的/u  ，/w  所以/c  他/r  一向/d  很/d  爱/v  活动/v  。/w  什么/r  运动/n  他/r  都/d  云/n  作/v  ：/w  足球/n  、/w  篮球/n  、/w  排球/n  等等/u  。/w  除了/p  这些/r  以外/nd  ，/w  他/r  最/d  喜欢/v  的/u  运动/n  是/vl  去/v  登山/v  。/w  他/r  也是/vl  喜欢/v  冒险/v  的/u  。/w  有的时候/nt  他/r  开/v  摩托车/n  开/v  得/u  很快/a  。/w  

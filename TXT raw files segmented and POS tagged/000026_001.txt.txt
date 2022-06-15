@@ -1,0 +1,18 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000026/m  _/w  001/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2014/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Adv/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  5/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  525/m  >/w  
+我/r  怎么/r  会/vu  做/v  母亲/n  
+在/p  开始/v  写/v  这/r  篇/q  文章/n  前/nd  ，/w  我/r  努力/v  想/v  想/v  我/r  会/vu  怎么/r  做/v  母亲/n  ？/w  “/w  好/a  妈妈/n  ”/w  的/u  标准/n  到底/d  是/vl  什么/r  ？/w  我/r  应该/vu  每次/r  都/d  满足/a  孩子/n  的/u  需求/n  还是/d  陪/v  养/v  他/r  自己/r  的/u  事情/n  自己/r  做/v  的/u  习惯/v  呢/u  ？/w  严格/a  的/u  妈妈/n  好/a  还是/d  温柔/a  的/u  妈妈/n  好/a  ？/w  
+我/r  想/v  与/c  孩子/n  保持/v  亲切/a  密/a  ，/w  更/d  像/v  好朋友/n  一样/a  的/u  关系/n  ，/w  让/p  我们/r  之间/nd  没有/v  什么/r  距离/n  。/w  我/r  认为/v  很/d  重要/a  的/u  事/n  ，/w  从小/d  的/u  时候/n  赢得/v  他/r  的/u  信任/v  。/w  我/r  要/vu  提醒/v  他/r  每次/r  遇到/v  困难/n  ，/w  他/r  随时/d  可以/vu  找/v  我/r  帮忙/v  。/w  当/p  他/r  心情/n  泪/n  丧/v  的话/u  ，/w  我/r  就/d  会/vu  帮助/v  他/r  放松/v  一下/mq  。/w  我/r  想/v  让/p  他/r  学会/v  如果/c  他/r  做错/v  了/u  ，/w  就要/vu  承认/v  。/w  我/r  的/u  意思/n  并不是/v  让/p  他/r  随便/a  做/v  ，/w  得/u  让/p  他/r  明白/a  后果/n  。/w  我/r  的/u  意思/n  并不是/v  让/p  他/r  随便/a  做/v  ，/w  得/u  让/p  他/r  明白/a  后果/n  。/w  在/p  我/r  的/u  帮助/v  下/nd  ，/w  让/p  他/r  相信/v  自己/r  ，/w  避免/v  让/p  他/r  的/u  内心/n  产生/v  自卑感/n  。/w  我/r  要/vu  反复/d  跟/c  他/r  述说/v  ，/w  不要/vu  觉得/v  自己/r  渺小/a  ，/w  因为/c  每个/r  人/n  都是/r  独特/a  的/u  ，/w  每个/r  人/n  都/d  有/v  自己/r  唯一/a  的/u  价值/n  。/w  
+我/r  还要/v  让/p  他/r  学会/v  放弃/v  偏见/n  。/w  之所以/c  我们/r  常常/d  戴/v  着/u  有色眼镜/n  来看/v  问题/n  ，/w  是/vl  因为/c  我们/r  被/p  许多/a  陈/nhf  腔/n  滥调/n  影响/v  着/u  。/w  抛弃/v  偏见/n  ，/w  给予/v  自由/a  。/w  我/r  让/p  他/r  少/a  看/v  电视/n  ，/w  多/a  看书/v  。/w  童年/n  是/vl  人生/n  中/nd  非常/d  重要/a  的/u  一/m  段/q  时间/n  ，/w  我们/r  被/p  那时/r  积累/v  的/u  经历/n  影响/v  了/u  ，/w  所以/c  想/v  让/p  他/r  一直/d  开阔/a  自己/r  的/u  视野/n  。/w  童年/n  是/vl  人生/n  中/nd  非常/d  重要/a  的/u  一/m  段/q  时间/n  。/w  
+我/r  知道/v  培养/v  孩子/n  并不是/v  容易/a  的/u  事/n  ，/w  真的/a  需要/v  耐心/a  的/u  态度/n  ，/w  努力/v  坚持/v  下去/v  ，/w  然而/c  我/r  很/d  乐意/v  接受/v  这个/r  挑战/v  。/w  

@@ -1,0 +1,15 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000027/m  _/w  009/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2010/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  355/m  >/w  
+土耳其/ns  的/u  圣/n  索菲亚/nh  大/a  教堂/n  
+清真寺/n  是/vl  一个/r  跟/c  伊斯兰教/n  有/v  关系/n  的/u  建筑/v  。/w  世界/n  上/nd  有/v  许多/a  清真寺/n  ，/w  大部分/n  位于/v  在/p  穆斯林/n  的/u  国家/n  或者/d  在/p  穆斯林/n  少数/n  民/n  生活/n  的/u  区域/n  。/w  圣/n  索菲亚/nh  大/a  教堂/n  属于/v  最/d  著名/a  的/u  清真寺/n  之一/m  。/w  它/r  的/u  名字/n  源自/v  希腊语/n  —/w  —/w  它/r  的/u  意思/n  是/vl  上帝/n  智慧/n  。/w  圣/n  索菲亚/nh  大/a  教堂/n  的/u  位置/n  在/p  土耳其/ns  最大/a  的/u  都市/n  叫做/v  伊斯坦布尔/ns  。/w  圣/n  索菲亚/nh  大/a  教堂/n  俱/x  很/d  长/n  的/u  历史/n  。/w  因为/c  它/r  是/vl  拜占庭/n  以内/nd  建设/v  的/u  ，/w  所以/c  它/r  不可/vu  分/v  传统/n  文化/n  。/w  清真寺/n  跟/c  欧洲/ns  式/k  的/u  教堂/n  有/v  很多/a  差别/n  。/w  圣/n  索菲亚/nh  大/a  教堂/n  有/v  四座/n  塔/n  ，/w  每/r  塔/n  朝/p  一个/r  方向/n  。/w  四座/n  塔/n  的/u  中间/nd  是/vl  主/n  大/a  教堂/n  被/p  邻近/v  的/u  教堂/n  围/v  着/u  。/w  全部/n  的/u  教堂/n  面积/n  既/c  巨大/a  ，/w  又/d  惊/v  艳/a  。/w  除了/p  它/r  的/u  外表/n  以外/nd  ，/w  内/nd  饰/v  也/d  很/d  有意思/v  。/w  墙上/nl  和/c  绮/x  井上/nl  都/d  有/v  各种各样/i  马赛克/n  的/u  画幅/n  。/w  马赛克/n  的/u  画/n  不仅/c  拥有/v  基督教/n  父兄/n  ，/w  天使/n  与/c  圣者/n  ，/w  而且/c  几何学/n  彩色/n  的/u  形态/n  。/w  如今/nt  圣/n  索菲亚/nh  大/a  教堂/n  成为/v  了/u  博物馆/n  。/w  每个/r  年/nt  它/r  引起/v  不少/a  旅行/v  者/k  到/v  伊斯坦布尔/ns  参观/v  古代/nt  有名/a  属/v  录/v  的/u  建筑/v  之一/m  。/w  

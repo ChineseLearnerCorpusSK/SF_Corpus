@@ -1,0 +1,23 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000026/m  _/w  011/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2013/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  620/m  >/w  
+我/r  的/u  很/d  好/a  的/u  朋友/n  。/w  
+我/r  有/v  一/m  位/q  不太/d  久/a  以前/nt  认识/v  的/u  朋友/n  。/w  他/r  是/vl  从/p  捷克/ns  来/vd  的/u  ，/w  中文/n  名字/n  叫/v  马可/nh  。/w  去年/nt  我们/r  在/p  一/m  所/u  外国/n  的/u  学校/n  一起/d  留学/v  了/u  一个/r  学期/nt  。/w  
+我/r  第一次/mq  看见/v  他/r  就/d  知道/v  他/r  是/vl  很/d  幽默/a  的/u  男孩/n  。/w  这是/r  他/r  最大/a  的/u  优点/n  ，/w  难怪/d  他/r  赢得/v  了/u  大家/n  的/u  喜爱/v  。/w  虽然/c  他/r  不是/vl  那么/r  喜欢/v  说话/v  的/u  人/n  ，/w  但/c  毕竟/d  他/r  一/m  开/v  嘴/n  ，/w  就/d  说话/v  都是/r  很/d  有趣/a  的/u  。/w  
+对/a  我/r  来说/v  ，/w  马可/nh  的/u  外貌/n  没有/v  那么/r  特别/d  ，/w  然而/c  很多/a  女孩/n  把/p  他/r  看作/v  帅/n  个/q  。/w  他/r  眼睛/n  是/vl  蓝色/n  的/u  ，/w  关发/nh  亚麻/n  的/u  。/w  
+他/r  是/vl  个/q  足球迷/n  ，/w  有/v  空儿/n  就/d  很快/a  跟/c  其他/r  的/u  朋友/n  踢/v  一些/m  。/w  我/r  记得/v  一个/r  晚上/nt  我/r  给/p  他/r  打电话/v  问/v  他/r  想/v  不想/v  跟/c  我/r  一起/d  吃饭/v  。/w  他/r  开心/a  地/u  回答/v  ：/w  “/w  不行/v  ，/w  不行/v  。/w  电视/n  里/nd  有/v  个/q  足球/n  比赛/v  ，/w  我/r  比/p  你/r  更/d  喜欢/v  足球/n  。/w  ”/w  
+没有/v  人/n  是/vl  完美/a  ，/w  所以/c  他/r  也/d  有/v  很多/a  缺点/n  。/w  马可/nh  最大/a  的/u  短处/n  是/vl  他/r  非常/d  不是/vl  有/v  责任/n  的/u  人/n  。/w  说实话/v  ，/w  他/r  真的/a  是/vl  个/q  丢三落四/i  、/w  很/d  粗心/a  的/u  人/n  。/w  
+马可/nh  的/u  特点/n  是/vl  把/p  他/r  的/u  东西/n  放/v  在/p  他/r  以后/nt  不能/vu  记住/v  的/u  地方/n  。/w  比如/c  ，/w  有/v  一个/r  周末/nt  他/r  把/p  两/m  套/n  上衣/n  都/d  丢失/v  了/u  ！/w  
+除了/p  这个/r  缺点/n  以外/nd  ，/w  他/r  还/d  不会/vu  直截了当/i  地/u  表达/v  对/a  别人/r  的/u  批评/v  。/w  他/r  不敢/vu  告诉/v  别人/r  他/r  不/d  喜欢/v  的/u  事/n  儿/n  。/w  我/r  不/d  知道/v  是/vl  为什么/d  。/w  对/a  我/r  来说/v  ，/w  可能/vu  他/r  怕/v  他们/r  快/a  能/vu  改变/v  对/a  马可/nh  的/u  意见/n  。/w  
+他/r  现在/nt  在/p  捷克/ns  学习/v  ，/w  他/r  的/u  专业/n  是/vl  地理学/n  。/w  他/r  会/vu  无疑/d  地/u  说/v  所有/a  的/u  世界/n  上/nd  国家/n  的/u  首都/n  。/w  他/r  也/d  每个/r  国家/n  的/u  地理/n  很/d  熟悉/v  。/w  因为/c  他/r  的/u  专业/n  也是/vl  他/r  的/u  爱好/n  ，/w  他/r  听说/v  我/r  去/v  中国/ns  留学/v  的/u  时候/n  ，/w  他/r  说/v  肯定/d  要/vu  来到/v  。/w  但是/c  飞机票/n  比较/v  贵/a  而/c  钱/n  不够/v  ，/w  马可/nh  夏天/nt  时/nt  都/d  在/p  德国/ns  工作/n  了/u  。/w  我/r  希望/v  他/r  可以/vu  来到/v  这里/r  ，/w  他/r  十分/d  爱上/v  中国/ns  。/w  
+因为/c  我/r  离/v  很/d  远/a  ，/w  我们/r  经常/a  用/v  聊天/v  软件/n  ，/w  那/r  就/d  我/r  和/c  他/r  有/v  接触/v  。/w  

@@ -1,0 +1,15 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000027/m  _/w  003/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2014/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Adv/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  4/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  150/m  >/w  
+龟/n  兔/x  赛跑/v  
+…/w  因为/c  兔子/n  认/v  沩/x  乌龟/n  太/d  慢/a  ，/w  所以/c  它/r  觉得/v  还有/v  很/d  长/n  时间/n  ，/w  不要/vu  赶到/v  。/w  兔子/n  看到/v  乌龟/n  很/d  远/a  ，/w  所以/c  它/r  决定/v  吃/v  一点/mq  。/w  兔子/n  发现/v  了/u  很多/a  新鲜/a  的/u  胡萝卜/n  。/w  它/r  开始/v  吃/v  ，/w  吃饱/v  了/u  以后/nt  看到/v  乌龟/n  ，/w  好像/d  它/r  仍然/d  比较/v  远/a  。/w  兔子/n  慢慢/a  走/v  ，/w  它/r  突然/d  碰到/v  一个/r  好朋友/n  。/w  他们/r  在/p  聊天/v  的/u  时候/n  没/d  注意/v  乌龟/n  几乎/d  到达/v  了/u  目/n  地/u  。/w  虽然/c  兔子/n  开始/v  跑/v  很快/a  ，/w  但是/c  它/r  的/u  速度/n  不够/v  。/w  

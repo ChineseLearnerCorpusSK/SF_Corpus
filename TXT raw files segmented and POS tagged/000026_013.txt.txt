@@ -1,0 +1,17 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000026/m  _/w  013/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2013/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  395/m  >/w  
+介绍/v  一/m  位/q  你/r  熟悉/v  的/u  历史/n  名人/n  
+我/r  对/a  中国/ns  的/u  哲学/n  很/d  有/v  兴趣/n  ，/w  因为/c  跟/c  欧洲/ns  的/u  思维/n  方式/n  完全/a  不/d  一样/a  ，/w  深刻/a  内涵/n  。/w  我/r  特别/d  喜欢/v  道家/n  。/w  老子/n  是/vl  道家/n  创始人/n  ，/w  他/r  被/p  认为/v  是/vl  中国/ns  古代/nt  伟大/a  的/u  哲学家/n  和/c  思想家/n  。/w  他/r  姓/n  李名/nh  耳/n  ，/w  出生/v  在/p  公元前/nt  六/m  世纪/nt  ，/w  所以/c  生活/n  在/p  孔子/nh  死后/nt  一百/m  多年/nt  的/u  时间/n  里/nd  。/w  我/r  还/d  记得/v  有/v  一个/r  中国/ns  传统/n  故事/n  说/v  ，/w  有一天/v  老子/n  打算/v  出国/v  。/w  越过/v  边界/n  的/u  时候/n  ，/w  有/v  一/m  位/q  关守/nh  认出/v  了/u  他/r  是/vl  谁/r  ，/w  然后/c  请求/v  老子/n  把/p  自己/r  的/u  思想/n  写/v  出来/vd  。/w  过/vd  了/u  一/m  段/q  时间/n  ，/w  老子/n  写完/v  《/w  道德经/n  》/w  。/w  这/r  本书/ns  作为/n  宗教/n  的/u  主要/a  经典/n  。/w  
+所谓/a  的/u  《/w  道/n  》/w  ，/w  就是/r  中国/ns  古代/nt  哲学/n  的/u  重要/a  的/u  一/m  词/n  ，/w  说明/v  界/n  世/nt  的/u  规律/n  、/w  本原/n  、/w  原理/n  。/w  老子/n  说/v  “/w  道法/n  自然/d  ”/w  ，/w  的/u  意思/n  是/vl  我们/r  无法/d  控制/v  世界/n  的/u  事情/n  ，/w  因为/c  它们/r  有/v  自己/r  的/u  规律/n  。/w  老子/n  的/u  格言/n  “/w  无为/v  而/c  无所谓/v  ”/w  也/d  显示/v  他/r  的/u  想法/n  。/w  
+除了/p  这些/r  世界/n  之外/nd  ，/w  他/r  也/d  说/v  一个/r  很/d  有道理/v  的/u  句/n  话/n  ：/w  “/w  千里之行/i  ，/w  始于/v  足下/nl  。/w  ”/w  。/w  我/r  非常/d  同意/v  ，/w  因为/c  出生/v  第一/m  步/n  是/vl  最/d  困难/n  的/u  。/w  回道/ns  往事/n  ，/w  我们/r  肯定/d  会/vu  发现/v  第一/m  步/n  虽然/c  是/vl  很/d  不/d  容易/a  ，/w  但是/c  一定/d  是/vl  珍惜/v  。/w  

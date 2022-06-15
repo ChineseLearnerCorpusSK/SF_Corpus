@@ -1,0 +1,18 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000027/m  _/w  007/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2012/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  4/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  285/m  >/w  
+难忘/v  的/u  香港/ns  之/u  旅/n  
+上/nd  个/q  寒假/n  我/r  跟/c  一个/r  朋友/n  决定/v  去/v  香港/ns  旅行/v  。/w  因为/c  那时候/r  在/p  中国/ns  开始/v  春节/nt  ，/w  所以/c  到/v  香港/ns  的/u  机票/n  很/d  贵/a  。/w  我/r  没有/v  其他/r  的/u  办法/n  只/d  买/v  机票/n  从/p  上海/ns  到/v  深圳/ns  ，/w  然后/c  坐/v  巴士/n  就/d  到了/v  香港/ns  。/w  
+香港/ns  的/u  天气/n  比/p  上海/ns  的/u  比较/v  温暖/a  。/w  第一/m  天/nt  有/v  一点/mq  下雨/v  ，/w  我/r  却/d  参观/v  了/u  很多/a  地方/n  。/w  香港/ns  有/v  一些/m  特点/n  ，/w  比如说/c  它/r  各种各样/i  的/u  点心/n  很/d  好吃/a  。/w  我/r  还/d  对/a  喝/v  奶茶/n  入迷/v  ，/w  所以/c  我/r  终于/d  有/v  了/u  机会/n  品味/v  真正/a  的/u  香港/ns  奶茶/n  。/w  除了/p  小/a  饭馆/n  和/c  市场/n  以外/nd  ，/w  有一天/v  我/r  去/v  了/u  大屿山/ns  。/w  大屿山/ns  的/u  风景/n  非常/d  优美/a  。/w  那天/r  的/u  天气/n  真/a  不错/a  —/w  —/w  很/d  热和/a  阴/a  。/w  坐/v  索道/n  的/u  时候/n  我/r  一边/d  拍照/v  照相/v  ，/w  一边/d  欣赏/v  。/w  
+大屿山/ns  是/vl  一个/r  值得/v  参观/v  的/u  地方/n  之一/m  。/w  我/r  看到/v  了/u  天坛/ns  大佛/n  ，/w  就/d  我/r  心里/nl  很/d  感动/v  。/w  
+香港/ns  是/vl  热闹/a  的/u  城市/n  ，/w  每个/r  人/n  可以/vu  找/v  得到/v  合适/a  的/u  娱乐/v  活动/v  。/w  

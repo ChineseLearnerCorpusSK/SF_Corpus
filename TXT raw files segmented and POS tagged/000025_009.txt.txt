@@ -1,0 +1,18 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000025/m  _/w  009/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2014/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Adv/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  Hungarian/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  476/m  >/w  
+我/r  最/d  喜欢/v  的/u  一/m  次/q  旅行/v  
+小/a  的/u  时候/n  我/r  跟/c  我/r  家人/n  和/c  一些/m  熟人/n  曾经/d  去过/v  旅行/v  。/w  我们/r  去/v  了/u  一/m  座/q  山区/n  小屋/n  ，/w  我们/r  玩/v  儿/n  得/u  非常/d  好/a  。/w  那时/r  是/vl  冬天/nt  ，/w  三月/nt  ，/w  可是/d  天气/n  很/d  合适/a  ，/w  不/d  冷/a  ，/w  没有/v  太多/a  雪/n  ，/w  很/d  舒服/a  。/w  离开/v  的/u  时候/n  我们/r  没有/v  想到/v  天气/n  可以/vu  有/v  那么/r  大/a  的/u  变化/v  。/w  路上/nl  开始/v  下雪/v  ，/w  刮/v  大风/n  ，/w  道路/n  旁边/nd  突然/d  有/v  很多/a  很/d  高/a  的/u  雪堆/n  。/w  
+我们/r  是/vl  十/m  几个/r  人/n  ，/w  有/v  一些/m  小/a  孩儿/n  ，/w  看到/v  我们/r  没有/v  办法/n  继续/v  去/v  ，/w  我们/r  就/d  应该/vu  把/p  汽车/n  掉/v  过头/a  来/vd  。/w  还/d  好/a  我们/r  能/vu  来到/v  一家/mq  旅馆/n  。/w  我们/r  一/m  特别/d  是/vl  小孩子/n  —/w  —/w  非常/d  高兴/a  。/w  下/nd  一天/r  是/vl  星期一/nt  ，/w  我们/r  应该/vu  去/v  上课/v  ，/w  可是/d  怎么办/v  ？/w  没有/v  办法/n  回家/v  ，/w  也/d  没有/v  办法/n  去/v  小学/n  上课/v  。/w  太/d  好了/e  ！/w  
+下/nd  些/q  天/nt  我们/r  的/u  父母/n  每个/r  早上/nt  都/d  试/v  一/m  试/v  打电话/v  ，/w  想/v  知道/v  天气/n  和/c  道路/n  的/u  情况/n  怎么样/r  。/w  那时候/r  我们/r  没有/v  想到/v  天气/n  是/vl  全/a  国家/n  的/u  一个/r  大/a  问题/n  ，/w  办公室/n  ，/w  学校/n  ，/w  商店/n  都/d  关门/v  了/u  ，/w  没有/v  往来/v  的/u  公共汽车/n  或者/d  火车/n  ，/w  人们/n  都/d  留/v  在/p  家里/nl  。/w  每个/r  晚上/nt  我们/r  感到/v  高兴/a  因为/c  没有/v  办法/n  回家/v  。/w  这样/r  我们/r  过/vd  了/u  一些/m  天/nt  —/w  —/w  可能/vu  是/vl  五六/m  天/nt  。/w  最后/n  我/r  爸爸/n  对/a  交通部/ni  打/v  了/u  一个/r  电话/n  ，/w  告诉/v  他们/r  他/r  是/vl  有名/a  报纸/n  的/u  一/m  位/q  记者/n  ，/w  问/v  他们/r  道路/n  的/u  情况/n  。/w  这样/r  我们/r  知道/v  了/u  我们/r  的/u  路/n  已经/d  是/vl  可/vu  通行/v  的/u  。/w  仅/d  回家/v  的/u  时候/n  我们/r  知道/v  了/u  我们/r  不用/d  追上/v  学习/v  的/u  材料/n  ，/w  因为/c  所有/a  的/u  同学/n  放假/v  了/u  。/w  
+那/r  次/q  旅行/v  是/vl  我/r  最/d  难忘/v  的/u  旅游/v  经验/n  。/w  

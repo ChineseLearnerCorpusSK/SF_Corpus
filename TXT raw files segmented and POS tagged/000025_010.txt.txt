@@ -1,0 +1,26 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000025/m  _/w  010/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2014/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Adv/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  Hungarian/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  493/m  >/w  
+保护/v  环境/n  
+今天/nt  我/r  写/v  的/u  文章/n  来/vd  关系/n  到/v  保护/v  环境/n  的/u  问题/n  。/w  因为/c  狩猎/v  是/vl  我/r  的/u  爱好/n  之一/m  ，/w  我/r  的/u  文章/n  就/d  来/vd  描写/v  这种/r  对/a  我/r  来说/v  很/d  有意思/v  和/c  对/a  自然界/n  很/d  重要/a  的/u  活动/v  。/w  
+我/r  当/p  了/u  猎人/n  已经/d  二/m  十年/nt  以前/nt  。/w  从小/d  我/r  对/a  狩猎/v  感兴趣/v  ，/w  原因/n  是/vl  我/r  的/u  爸爸/n  是/vl  一/m  位/q  非常/d  敏锐/a  的/u  猎人/n  。/w  后来/nt  当/p  地道/n  猎人/n  的/u  时候/n  我/r  知道/v  了/u  打猎/v  动物/n  不只是/v  得到/v  野/a  肉/n  或者/d  步枪/n  身/n  击/v  ，/w  而是/vl  保护/v  动物/n  ，/w  保护/v  自然界/n  ，/w  帮助/v  它们/r  。/w  怎么/r  会/vu  一/m  位/q  猎人/n  保护/v  环境/n  呢/u  ？/w  这样/r  的/u  帮助/v  就/d  有/v  一些/m  方式/n  ：/w  
+第一/m  是/vl  饲养/v  动物/n  有/v  困难/n  的/u  时候/n  ，/w  如果/c  它们/r  自己/r  没有/v  办法/n  找到/v  饲料/n  （/w  冬天/nt  ，/w  干旱/a  ，/w  太/d  热/a  的/u  时候/n  ）/w  。/w  没有/v  猎人/n  的/u  关切/v  ，/w  这样/r  的/u  情况/n  就是/r  对/a  动物/n  很/d  危险/a  的/u  。/w  
+第二/m  是/vl  对/a  动物/n  的/u  健康/a  加以/v  注意/v  。/w  猎人/n  常常/d  要/vu  出去/v  散步/v  ，/w  检查/v  动物/n  的/u  健康/a  情况/n  。/w  如果/c  他们/r  注意/v  到/v  什么/r  问题/n  ，/w  他们/r  就/d  会/vu  采取/v  适当/a  的/u  步骤/n  ，/w  比如说/c  把/p  合适/a  的/u  药/n  混/v  在/p  饲料/n  。/w  
+第三/m  是/vl  培植/v  动物/n  菩/x  欢/a  吃/v  的/u  种类/n  相/d  物/n  。/w  收割/v  期/nt  后/nd  猎人/n  一定/d  要/vu  把/p  一部分/n  相/d  物/n  留/v  在/p  田里/nl  ，/w  让/p  动物/n  困难/n  的/u  时候/n  有/v  饲料/n  吃/v  。/w  
+第/h  四/m  个/q  方式/n  是/vl  种/v  上/nd  焚/x  林带/n  ，/w  让/p  动物/n  热/a  或者/d  危险/a  的/u  时候/n  躲藏/v  。/w  
+第/h  五/m  是/vl  狩猎/v  的/u  方式/n  。/w  真/a  可惜/a  今天/nt  有/v  很多/a  不/d  愿意/vu  注意/v  动物/n  情况/n  的/u  猎人/n  。/w  狩猎/v  的/u  方式/n  一定/d  要/vu  附着/v  一些/m  原则/n  ，/w  比如/c  ：/w  
+不/d  打猎/v  比较/v  经/n  健康/a  的/u  动物/n  ；/w  
+不/d  打猎/v  母/n  的/u  养/v  幼/n  兽/n  的/u  动物/n  ；/w  
+不/d  打猎/v  吃/v  饲料/n  的/u  时候/n  ；/w  
+不/d  打猎/v  黑/a  的/u  时候/n  ；/w  
+不用/d  受/v  禁止/v  的/u  打猎/v  方式/n  。/w  

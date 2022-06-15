@@ -1,0 +1,26 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000025/m  _/w  005/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2014/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Adv/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  Hungarian/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  136/m  >/w  
+招聘/v  启事/n  ：/w  
+一家/mq  对外贸易/v  公司/n  招聘/v  一/m  位/q  懂/v  英语/n  ，/w  汉语/n  和/c  斯洛伐克/ns  语/n  的/u  翻译/v  。/w  
+要求/v  ：/w  
+现行/a  地/u  精通/v  上述/v  的/u  外语/n  ；/w  
+灵活/a  工作/n  时间/n  ；/w  
+谈判/n  时/nt  进行/v  现场/n  翻译/v  ；/w  
+进行/v  同时/c  翻译/v  ；/w  
+进行/v  上述/v  外语/n  的/u  译文/n  ；/w  
+高等教育/n  的/u  毕业/v  。/w  
+本/n  公司/n  申请/v  谋职/v  位/q  的/u  人/n  寄/v  求职/v  申请/v  与/c  短/a  自传/n  。/w  
+本/n  公司/n  的/u  地址/n  ：/w  斯/x  中/nd  对外贸易/v  公司/n  
+电话号码/n  ：/w  
+电子邮件/n  地址/n  ：/w  

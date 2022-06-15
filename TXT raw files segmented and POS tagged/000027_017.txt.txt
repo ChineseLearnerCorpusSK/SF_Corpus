@@ -1,0 +1,21 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000027/m  _/w  017/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2018/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Adv/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  5/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  academic/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  815/m  >/w  
+个人/r  陈述/v  
+尊/v  亲/n  的/u  国家/n  汉/n  办/v  委员会/n  ，/w  
+我/r  想/v  通过/p  中外/j  合作/v  培养/v  博士/n  项目/n  申请/v  华东/nl  师范大学/n  一/m  年/nt  的/u  留学/v  项目/n  。/w  我/r  是/vl  斯洛伐克/ns  布拉迪斯拉发考门/ns  斯/x  基/x  大学/n  中文系/n  的/u  一/m  年级/n  的/u  博士生/n  。/w  
+归功于/v  两/m  个/q  机会/n  去/v  中国/ns  留学/v  -/w  -/w  -/w  我/r  在/p  考门/ns  斯/x  基/x  大学/n  读/v  本科/n  的/u  时候/n  一/m  年/nt  在/p  上海/ns  交通/n  大学/n  ，/w  在/p  维也纳/ns  大学/n  读/v  硕士/n  的/u  时候/n  ，/w  我/r  还/d  一个/r  学期/nt  在/p  厦门/ns  大学/n  ，/w  所以/c  我/r  认为/v  对/a  中文系/n  的/u  学生/n  是/vl  一个/r  宝贵/a  的/u  经验/n  ，/w  我/r  也/d  相信/v  参加/v  中外/j  合作/v  培养/v  项目/n  对/a  提高/v  这个/r  领域/n  的/u  知识/n  很/d  重要/a  。/w  
+除了/p  提高/v  汉语/n  水平/n  之外/nd  ，/w  暂时/nt  的/u  导师/n  为/p  得到/v  博士/n  研究/v  项目/n  的/u  结论/n  代表/n  巨大/a  的/u  帮助/v  。/w  博士/n  论文/n  的/u  语言/n  是/vl  英语/n  ，/w  因此/c  讨论/v  论文/n  内容/n  没有/v  任何/r  语言/n  障碍/n  。/w  
+该/vu  研究/v  项目/n  分析/v  在/p  学习/v  汉语/n  的/u  过程/n  中/nd  母语/n  干扰/v  的/u  程度/n  。/w  我们/r  的/u  学生/n  在/p  本/n  过程/n  中/nd  受到/v  他们/r  母语/n  的/u  影响/v  。/w  由于/c  使用/v  语料库/n  语言学/n  ，/w  我们/r  能够/vu  在/p  相对/a  较/v  短/a  的/u  时间/n  内/nd  分析/v  大量/a  的/u  文本/n  。/w  收集/v  的/u  大量/a  文本/n  提高/v  研究/v  的/u  证明/v  力/n  ，/w  并/c  显示/v  中文系/n  学生/n  的/u  文本/n  中/nd  出现/v  的/u  各种/r  误差/n  。/w  分析/v  的/u  结论/n  有助于/v  明确/v  地/u  确定/v  学生/n  的/u  主要/a  错误/n  ，/w  并/c  提出/v  解决/v  方案/n  ，/w  以/p  减少/v  误差/n  的/u  数量/n  或/d  提出/v  如何/r  避免/v  这些/r  误差/n  的/u  方法/n  。/w  
+研究/v  的/u  理论/n  框架/n  体现/v  对/a  外教/j  中文/n  的/u  教学/v  方法/n  、/w  创建/v  学习者/n  语料库/n  的/u  方法/n  以及/c  翻译/v  的/u  教学法/n  。/w  研究/v  的/u  重要/a  步骤/n  之一/m  是/vl  收集/v  由/p  学生/n  写/v  的/u  文本/n  。/w  根据/p  基于/p  文本/n  分析/v  的/u  结果/n  ，/w  我们/r  创建/v  误差/n  的/u  分类/v  和/c  标注/v  。/w  关于/p  误差/n  标注/v  集/n  的/u  创造/v  ，/w  假如/c  母语/n  为/p  中文/n  的/u  人/n  的/u  误差/n  评估/v  能够/vu  提供/v  补充/v  的/u  信息/n  ，/w  我们/r  也/d  提高/v  本/n  研究/v  的/u  客观性/n  和/c  从/p  研究/v  得到/v  信息/n  的/u  使用/v  范围/n  。/w  一方面/n  ，/w  收集/v  文本/n  代表/n  我们/r  分析/v  的/u  基础/n  ，/w  另一方面/c  是/vl  中文/n  学习者/n  语料库/n  所/u  需要/v  的/u  基础/n  。/w  我们/r  建议/v  中文/n  学习者/n  语料库/n  成为/v  布拉迪斯拉发考门/ns  斯/x  基/x  大学/n  的/u  《/w  汉库/ns  语料库/n  》/w  的/u  部分/n  。/w  
+关于/p  我/r  的/u  专业/n  成长/v  ，/w  作为/n  一/m  年级/n  的/u  博士生/n  ，/w  我/r  负责/v  为/p  本/n  系/v  学士/n  学生/n  的/u  汉语/n  课程/n  的/u  一部分/n  ，/w  所以/c  上述/v  关注/v  学生/n  主要/a  难点/n  的/u  研究/v  以及/c  机会/n  采用/v  不同/a  教学/v  方法/n  直接/a  影响/v  到/v  并/c  改善/v  目前/nt  的/u  教学法/n  和/c  教材/n  。/w  我/r  认为/v  参加/v  中外/j  合作/v  培养/v  博士/n  项目/n  为/p  我/r  未来/nt  研究/v  生涯/n  体现/v  重要/a  的/u  步骤/n  。/w  成功/a  地/u  论文/n  结论/n  提高/v  继续/v  进行/v  这/r  一/m  领域/n  的/u  研究/v  的/u  可能性/n  ，/w  并且/c  归功于/v  研究/v  的/u  结论/n  还/d  可以/vu  作为/n  编辑/n  专心/a  到/v  斯洛伐克/ns  中文系/n  学生/n  的/u  难点/n  的/u  教材/n  的/u  基础/n  。/w  

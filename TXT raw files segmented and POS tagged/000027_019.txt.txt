@@ -1,0 +1,19 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000027/m  _/w  019/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2021/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Adv/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  5/m  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  academic/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  747/m  >/w  
+研究/v  项目/n  的/u  简介/n  
+该/vu  研究/v  项目/n  分析/v  学习者/n  的/u  母语/n  在/p  汉语/n  习得/n  过程/n  中/nd  干扰/v  程度/n  。/w  语料库/n  语言学/n  的/u  使用/v  适合/v  在/p  简短/a  的/u  时间/n  内/nd  处理/v  大量/a  的/u  语言/n  材料/n  ，/w  并且/c  允许/v  我们/r  分析/v  在/p  汉语/n  学习者/n  的/u  语言/n  生产/v  中/nd  反映/v  出/vd  的/u  偏/a  误/v  范围/n  。/w  同时/c  收集/v  大量/a  的/u  语言/n  数据/n  进行/v  偏/a  误/v  分析/v  提高/v  研究/v  成果/n  的/u  针对性/n  。/w  
+研究/v  项目/n  由/p  两/m  个/q  主要/a  的/u  部分/n  组成/v  -/w  -/w  -/w  第一/m  部分/n  是/vl  语言/n  数据/n  的/u  收集/v  、/w  处理/v  并/c  标注/v  —/w  —/w  建设/v  汉语/n  学习者/n  语料库/n  的/u  基础/n  。/w  第二/m  部分/n  的/u  研究/v  专注/v  于/p  学习者/n  语言/n  生产/v  的/u  分析/v  和/c  评估/v  ，/w  重点/n  是/vl  出现/v  的/u  偏/a  误/v  范畴/n  和/c  数量/n  。/w  由于/c  目前/nt  《/w  汉库/ns  语料库/n  》/w  没有/v  学习者/n  语料库/n  的/u  部分/n  ，/w  所以/c  也/d  缺少/v  偏/a  误/v  标志/n  系统/n  。/w  设计/v  符合/v  本/n  研究/v  的/u  偏/a  误/v  标注/v  集/n  作为/n  其/r  整理/v  重要/a  的/u  步骤/n  。/w  
+由于/c  学习者/n  的/u  语言/n  能力/n  和/c  错误/n  类型/n  会/vu  在/p  不同/a  学习/v  时期/nt  改变/v  并/c  演变/v  ，/w  为了/p  获得/v  客观/a  的/u  研究/v  结果/n  ，/w  我们/r  有必要/v  进行/v  长期/nt  地/u  语言/n  数据/n  的/u  收集/v  。/w  研究/v  项目/n  的/u  目标/n  是/vl  总结/v  在/p  汉语/n  习得/n  过程/n  中/nd  学习者/n  的/u  母语/n  干扰/v  程度/n  以及/c  学习者/n  在/p  汉语/n  习得/n  各个/r  阶段/n  发生/v  的/u  变化/v  。/w  研究/v  结论/n  将/d  介绍/v  适应/v  的/u  教学/v  方法/n  以/p  减少/v  或/d  消除/v  出现/v  的/u  偏/a  误/v  。/w  
+来华/v  研究/v  计划/n  
+在/p  华东/nl  师范大学/n  国际/n  汉语/n  文化/n  学院/n  进行/v  一部分/n  的/u  研究/v  代表/n  很/d  宝贵/a  的/u  机会/n  。/w  一方面/n  为/p  该/vu  研究/v  项目/n  提供/v  与/c  语料库/n  语言学/n  的/u  专家/n  和/c  教授/n  合作/v  的/u  基础/n  ，/w  另一方面/c  在/p  中方/n  导师/n  的/u  指导/v  下/nd  为/p  研究/v  项目/n  得到/v  相应/v  的/u  建议/v  。/w  我/r  相信/v  ，/w  有/v  机会/n  与/c  该/vu  领域/n  的/u  专家/n  协商/v  在/p  建设/v  语料库/n  过程/n  中/nd  出现/v  的/u  问题/n  ，/w  包括/v  协调/v  适应/v  的/u  偏/a  误/v  标注/v  方法/n  ，/w  有助于/v  改善/v  研究/v  的/u  成果/n  。/w  另外/d  ，/w  也/d  计划/n  多/a  参加/v  国内/nl  的/u  语料库/n  方面/n  的/u  学术/n  活动/v  、/w  研修班/n  或/d  研/v  论/v  会/vu  以/p  介绍/v  本/n  研究/v  项目/n  。/w  除了/p  上述/v  之外/nd  ，/w  来华/v  进行/v  一部分/n  研究/v  的/u  机遇/n  有助于/v  在/p  叶/n  教授/n  的/u  指导/v  下/nd  进一步/v  了解/v  汉语/n  语音/n  习得/n  的/u  理论/n  ，/w  通过/p  专门/a  的/u  课程/n  深化/v  语音/n  学/v  方面/n  的/u  知识/n  以及/c  更/d  好/a  了解/v  汉语/n  学习者/n  语音/n  偏/a  误/v  语料库/n  的/u  建设/v  理论/n  和/c  标注/v  方法/n  。/w  母语/n  干扰/v  的/u  范围/n  不仅/c  涉及/v  到/v  学习者/n  的/u  书面语/n  ，/w  而且/c  也/d  包括/v  学习者/n  的/u  语音/n  习得/n  过程/n  中/nd  反映/v  的/u  偏/a  误/v  。/w  最后/n  ，/w  两/m  个/q  学期/nt  的/u  时间/n  也/d  可以/vu  利用/v  于/p  收集/v  汉语/n  学习者/n  的/u  语料/n  数据/n  。/w  因为/c  斯洛伐克/ns  唯一/a  具有/v  中文系/n  的/u  高等教育/n  机构/n  是/vl  靠/v  门/n  斯/x  基/x  大学/n  ，/w  所以/c  学习者/n  的/u  人数/n  有限/a  。/w  

@@ -1,0 +1,20 @@
+/w  </w  doc/ws  ./w  id/ws  :/w  000027/m  _/w  013/m  >/w  
+</w  doc/ws  ./w  year/ws  :/w  2012/m  >/w  
+</w  doc/ws  ./w  gender/ws  :/w  F/ws  >/w  
+</w  doc/ws  ./w  degree/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  study/ws  _/w  exchange/ws  :/w  Y/ws  >/w  
+</w  doc/ws  ./w  proficiency/ws  :/w  Int/ws  >/w  
+</w  doc/ws  ./w  hsk/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  mother/ws  _/w  tongue/ws  :/w  Slovak/ws  >/w  
+</w  doc/ws  ./w  bilingual/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  chinese/ws  _/w  heritage/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  translation/ws  :/w  N/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  type/ws  :/w  homework/ws  >/w  
+</w  doc/ws  ./w  text/ws  _/w  length/ws  :/w  413/m  >/w  
+不同/a  购物/v  场所/n  的/u  特点/n  
+现代人/n  有/v  许多/a  购物/v  的/u  方法/n  。/w  比如说/c  百货商店/n  ，/w  小/a  商店/n  ，/w  超市/j  或者/d  网上/nl  。/w  每个/r  方法/n  有/v  一些/m  优点/n  也/d  有/v  缺点/n  。/w  
+首先/d  来看/v  百货商店/n  的/u  情况/n  。/w  对/a  购买者/n  来说/v  肯定/d  方便/a  ，/w  有/v  很多/a  名牌/n  在/p  一个/r  地方/n  ，/w  特别/d  好/a  天气/n  不好/a  的/u  时候/n  一/m  不要/vu  出去/v  。/w  付钱/v  时/nt  也/d  有/v  好处/n  因为/c  百货商店/n  提供/v  国际/n  刷卡/v  ，/w  所以/c  对/a  外国/n  很/d  方便/a  。/w  另/r  一/m  外/nd  ，/w  不要/vu  怕/v  它/r  卖/v  的/u  产品/n  是/vl  假/a  的/u  。/w  
+当然/d  百货商店/n  有/v  缺点/n  。/w  放假/v  时/nt  人山人海/i  。/w  除了/p  这个/r  情况/n  以外/nd  ，/w  还有/v  价格/n  的/u  问题/n  。/w  因为/c  人们/n  喜欢/v  名牌/n  ，/w  所以/c  它们/r  常常/d  很/d  贵/a  。/w  
+小/a  商店/n  的话/u  ，/w  售货员/n  对/a  客人/n  可以/vu  注意/v  更多/d  ，/w  建议/v  一/m  件/n  衣服/n  。/w  虽然/c  小/a  商店/n  没有/v  那么/r  多/a  东西/n  ，/w  但是/c  买/v  的/u  衣服/n  一定/d  没/d  每个/r  美女/n  ，/w  所以/c  有/v  这种/r  好处/n  。/w  从/p  代价/n  以来/nt  也/d  跟/c  百货商店/n  没有/v  那么/r  贵/a  。/w  
+如今/nt  人们/n  比较/v  喜欢/v  网上/nl  购买/v  。/w  他/r  么/k  有/v  很多/a  原因/n  ：/w  第一/m  个/q  是/vl  网上/nl  购买/v  只/d  需要/v  网络/n  ，/w  电脑/n  与/c  时间/n  ，/w  不要/vu  出去/v  同时/c  购买/v  的/u  时间/n  没有/v  范围/n  。/w  无论/c  东西/n  的/u  数量/n  最大/a  。/w  每个/r  商店/n  提供/v  上门/v  服务/v  ，/w  所以/c  得到/v  产品/n  时/nt  只要/vu  接/v  电话/n  。/w  
+如果/c  你/r  订/v  了/u  产品/n  的/u  质量/n  有/v  问题/n  或者/d  不/d  合适/a  你/r  ，/w  这/r  可以/vu  使/v  一点/mq  麻烦/a  ，/w  但是/c  网上/nl  购物/v  的/u  人/n  越来越/d  多/a  。/w  
