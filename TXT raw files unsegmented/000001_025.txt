@@ -1,0 +1,16 @@
+<doc.id: 000001_025>
+<doc.year: 2021>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 196>
+
+
+我们国家传统的美食叫作斯洛伐克饺子，英文的名称是Pierogi。斯洛伐克饺子的形状跟月亮一样。口味很好，有甜的也有咸的。面团是由土豆，盐，面粉和鸡蛋组成的。饺子里面常常有甜的土豆，果子酱凝乳还有特殊的奶酪。准备这道菜比较容易所以很多人在家自己做。不过也可以去饭馆欣赏这道菜。就我个人而言，我特别喜欢斯洛伐克饺子，我妈妈每个月一次为我，我哥哥和爸爸做这道菜让我们大饱口福。来斯洛伐克的游客也非品尝这道菜不可。

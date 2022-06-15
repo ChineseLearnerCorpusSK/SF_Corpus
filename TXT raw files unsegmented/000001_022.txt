@@ -1,0 +1,15 @@
+<doc.id: 000001_022>
+<doc.year: 2021>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 181>
+
+我能接受植入广告因为这样的广告对我对我看电影的卬象不产生影响，我不理这种广告。但是在斯洛伐克看电视剧的时候，电视频道每个20分钟以后播出7-8分钟广告，这则广告很麻烦，我接受不了。如果你看90分钟的电影，你大概要花两个小时的时间。看电影的卬象也不太好。有时候我觉得广告比电影更重要。有的人开玩笑地说：我在看广告，你们为什么用电影中断我的广告。广告也很无聊，一点也不幽默。

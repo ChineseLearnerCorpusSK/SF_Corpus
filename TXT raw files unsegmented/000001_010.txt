@@ -1,0 +1,24 @@
+	
+<doc.id: 000001_010>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 151>
+
+对不起今天我很忙，没有时间去动物园。明天再说。
+学习汉语很有意思。再说也能让你了解别的文化。
+这家饭馆比较贵可是菜做得很地道。
+她住在上海，是地道的上海人。
+我几乎完成了这个作业。
+农民几乎都养动物。
+你遇到问匙的时才意识到谁是你实在的朋友。
+我实在不知道图书馆怎么走。
+听说他结婚了，至于他的婚礼，我一点儿也不知道。

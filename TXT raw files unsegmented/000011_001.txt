@@ -1,0 +1,18 @@
+<doc.id: 000011_001>
+<doc.year: 2018>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 51>
+
+我刚才去邮局寄给我妈妈一点儿东西了。
+我得课文翻译比他翻译好。
+我汉语考了两个小时考。
+他的爸爸没有回去家。

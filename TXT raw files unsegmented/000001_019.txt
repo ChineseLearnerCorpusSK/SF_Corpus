@@ -1,0 +1,16 @@
+<doc.id: 000001_019>
+<doc.year: 2021>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 247>
+
+在斯洛伐克我们也有失学的儿童不过这样的孩子不多。也许是因为我们国家很小，没有很遥远的地方，此外我们学校是免费的甚至大学也不用交学费。可是也有贫穷的孩子，需要买学习用品等等。我们国家也有一些求助贫穷儿童的协会。普通的人也能给孩子捐钱，帮助他们重新去上学。有些人每个月给孤儿捐钱。
+我们国家贫困人口不太大因为政府为他们提供帮助。比如说现在很多人因为疫情而失去了工作不过政府宣了一项计划。他的目的是支持这些人，每个月给他们经济支持。社会上的人也有机会帮一个忙。有的慈善家选择一个家庭然后求助它克服困难。

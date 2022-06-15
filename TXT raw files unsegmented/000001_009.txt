@@ -1,0 +1,17 @@
+<doc.id: 000001_009>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 336>
+
+我经历过次风雨
+
+中学毕业以后我选择了去斯洛伐克首都学习汉语因为我对中国感兴趣。我对学习汉语充满了向往。可是开学的时候我经历了风雨。我对新环境一点儿也不熟悉。我家住在一个很小的村子但是我在一个巨大的城市。怎去学校，怎么去宿舍，我简直不知道。有时候我坐错了然后迷路了。在学校我也遇到了一些问匙。我对自己的能力失去信心。我觉得汉语多么难啊。可是我好朋友一直鼓励我。他常常对我说：失败是成功之母。我知道如果要取得成功的话，就应该付出艰苦的努力和很多时间。我希望未来可以看见我的彩虹。

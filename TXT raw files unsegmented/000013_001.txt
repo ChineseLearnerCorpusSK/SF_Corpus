@@ -1,0 +1,19 @@
+<doc.id: 000013_001>
+<doc.year: 2018>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 64>
+
+小时他三个口语考考了。
+我上次借的书把还还先了。
+刚才我妹妹去邮局给寄他一件衣服了。
+他的朋友没有去回宿舍。
+我得翻译课文快比他番译。

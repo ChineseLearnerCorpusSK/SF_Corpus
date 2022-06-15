@@ -1,0 +1,23 @@
+<doc.id: 000016_001>
+<doc.year: 2018>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 109>
+
+他把这本课本翻译的法语了。
+咱们已经看一个半小时的画儿了。
+今天你怎么的[]把护照带去了？
+他把礼物送去了。
+他要每天都写半个小时的汉字。
+下做事情喜欢的孩子课自己的可以就外国听说。
+昨天我的睡长时间很觉了。
+妈妈和儿子一起邮局到光盘寄了。
+她工作人员盿包裹的海关让去哪儿？

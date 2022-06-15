@@ -1,0 +1,21 @@
+<doc.id: 000019_001>
+<doc.year: 2016>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 72>
+
+桌子上没放着电脑。
+他没有你那么喜欢音乐。
+你戴上好看的围巾，就更好看了。
+他披[]车骑了宿she前。
+我不是那么票亮你说了。
+请浇一浇那个水果。
+他cong来没有youyong。

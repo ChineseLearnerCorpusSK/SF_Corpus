@@ -1,0 +1,15 @@
+<doc.id: 000001_004>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 163>
+
+大家好。我的名字是邓大伟，我是人民日报的记者。今天我要采访三个有意思的人。我们一起讨论富翁。第一位是很有名的富翁，第二个是单亲妈妈，还有一位留学生。那我先问这位富翁。谢谢您几位。我们听了三个不同的故事，三个幸福的故事。从他们的话，我看得出来幸福跟钱并没有关系。只要你做喜欢的事儿，只要你身边有喜爱的家人，就能感觉到幸福的滋味。

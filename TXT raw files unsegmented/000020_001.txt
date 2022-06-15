@@ -1,0 +1,23 @@
+<doc.id: 000020_001>
+<doc.year: 2016>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 82>
+
+在桌子上不放着。
+他跟你不如喜欢乐意。
+他开车地来在宿舍前边。
+我不这么piao亮跟你说。
+请选那个。
+我这么累，我在。
+我要这儿说说一点儿。
+这个衣服是卖的。
+他从来有过you泳。

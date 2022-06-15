@@ -1,0 +1,23 @@
+<doc.id: 000014_001>
+<doc.year: 2018>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 120>
+
+咱们已经看了一个半小时画儿了。
+今天怎么[M]把护照带来了？
+现在你是不是坐电梯山楼去？
+儿子和妈妈一起把寄了光盘到邮局。
+他考了三个小时口语考。
+先我上次借的书把得还了。
+我妹妹刚才去邮局给他寄了一件衣服。
+朋友没有回去她的宿舍。
+我翻译课文比他翻译得快。

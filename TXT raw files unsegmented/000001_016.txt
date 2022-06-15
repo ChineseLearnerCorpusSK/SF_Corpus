@@ -1,0 +1,17 @@
+<doc.id: 000001_016>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 224>
+
+李文的故事
+
+李文原来是一个单亲妈妈。她一个人带孩子而且持别忙。她给儿子请了一个家教因为她的能力不够。哪怕她想要跟孩子做作业，也没有时间。她在孩子还算听话，他以学习为主。儿子考上初中以后，李文到底开始考虑自己的事儿。她看了一个征婚广告，就跟一位小伙子联系了。他看起来很懂事。他是搞医生工作的，生活比较安定。李文怕因为她有孩子了，这个小伙子会判断她。小伙子不但没有判断她，反而他愿意帮助她抚养儿子。李文高兴极了，守着他一辈子。哪怕下刀子，他们俩也在一起。

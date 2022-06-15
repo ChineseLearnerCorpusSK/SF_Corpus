@@ -1,0 +1,24 @@
+<doc.id: 000024_001>
+<doc.year: 2016>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 84>
+
+电M不在桌子上。
+他跟你喜欢音乐不一样。
+如果她穿这个piaoliang的weijin，她geng piaoliang。
+在宿舍前边，他qi到了。
+我不很piaoliang,你说。
+我很累了地我qichuang了。
+我要说一说一点儿。
+这个yifu是买到的。
+他从来没有youyong。
+

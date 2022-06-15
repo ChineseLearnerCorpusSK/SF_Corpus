@@ -1,0 +1,23 @@
+<doc.id: 000021_001>
+<doc.year: 2016>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 87>
+
+在桌子不放电脑。
+我没有你喜欢那么音乐。
+他开到前番的宿舍。
+他是开车宿舍前边来的。
+我是那儿这么漂亮，…你说。
+请你把那的水果。
+我想在这儿聊一会儿天。
+这个衣服卖完了。
+他没有从来游过。

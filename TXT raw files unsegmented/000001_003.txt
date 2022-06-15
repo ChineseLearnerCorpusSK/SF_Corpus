@@ -1,0 +1,15 @@
+<doc.id: 000001_003>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 168>
+
+我的早饭很简单。我光热一碗牛奶然后加巧克力的粮食就做好了。我几乎每天都吃这道菜。这道菜又可口又清淡。我非常喜欢牛奶。午饭是由两道菜组成的一个是荤菜一个是素菜。素菜是一个汤。汤里有各种各样的蔬菜。比如说豆子，土豆和胡萝卜。汤很好吃，对身体健康有好处。荤菜是炖猪肉。猪肉的味儿比较重。这道菜挺油腻。在斯洛伐克午饭是最重要的菜所以常常比较重。

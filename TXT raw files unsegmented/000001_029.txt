@@ -1,0 +1,16 @@
+<doc.id: 000001_029>
+<doc.year: 2021>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 190>
+
+
+我是个不太喜欢风险的人，不过生活也需要一些冒险要不然比较平淡，比较乏味。如果我想体验到冒险，我就去旅游因为旅行非冒险不可。你能制定很详细的计划可是难免会遇到困难和冒险。我曾经去过意大利旅游，是我第一次坐飞机去。朋友们安慰我说飞机很安全但是我仍然害怕了。虽然飞行持续了两个小时可是我浑身不自在。着陆后，我松了一口气我就开心得什么似的后来。我们在罗马玩得特别好，依我看是个难忘的旅途。

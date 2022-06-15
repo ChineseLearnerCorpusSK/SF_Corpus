@@ -1,0 +1,19 @@
+<doc.id: 000015_001>
+<doc.year: 2018>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 63>
+
+他考了三个小时口语考。
+我把还得先上次借的书了。
+他刚才去邮局给我妹妹寄了一件衣服。
+他的朋友没有回去宿舍。
+我翻译比他翻译课文得快。

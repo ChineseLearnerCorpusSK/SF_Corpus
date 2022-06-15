@@ -1,0 +1,20 @@
+<doc.id: 000022_001>
+<doc.year: 2016>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 66>
+
+他喜欢乐音[]比你不一样。
+如果他戴那个漂亮的围jin，…。
+他被坐车来了宿舍的前边。
+我想在这儿说说一点儿。
+这个衣服都是卖地。
+他从来没过游泳。

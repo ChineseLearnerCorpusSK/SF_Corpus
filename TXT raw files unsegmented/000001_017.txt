@@ -1,0 +1,19 @@
+<doc.id: 000001_017>
+<doc.year: 2021>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 250>
+
+网络游戏
+
+目前越来越多人喜欢玩网络游戏。疫情中，我们不能出门，必须留在家所以许多人迷上了网络游戏。玩游戏既方便又好玩，难怪网络游戏受大家的欢迎。然而玩游戏不只是一个打发时间的方式，更多是个人的爱好。
+对很多人来说，网络游戏对我们有许多坏处。比如说，危害身体健康和眼睛。有的人对游戏上瘾了，每天都玩8个小时的游戏。这样的态度是危险的但是对我而言，玩游戏对我们也有帮。你可以提高英文的水平，交到新朋友，减轻压力。
+总的来说，游戏的方面好坏之分。你不能成为游戏的奴隶而是成为它们的主人。每个人应该了解自己的极限。

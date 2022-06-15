@@ -1,0 +1,22 @@
+<doc.id: 000018_001>
+<doc.year: 2016>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 82>
+
+桌子上不着放电脑。
+他跟你喜欢意乐不一样。
+如果她戴了这好看的weijin，她多美了。
+在宿舍前边他开着车。
+我在那儿这么漂亮。
+请选哪个水果。
+我想在这儿一点儿说。
+他从来没有游泳。

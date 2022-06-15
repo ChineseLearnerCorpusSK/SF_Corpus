@@ -1,0 +1,15 @@
+<doc.id: 000001_007>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 254>
+
+第一照是我骑自行车的时候拍下来的。这张照片是被我哥哥照的。骑自行车是一项运动。对身体健康有很多好处。骑自行车有预防疾病的作用还可以增强体质。骑自行车以前应该舒展一下身体。这项运动一点儿也不贵基本上你只需要自行车。第二照片是我去罗马的时候拍下来的。去国外的时候我们应该靠朋友。我也跟三个朋友去罗马了。我们很快地适应了那儿的生活。罗马一定是一个好玩儿的城市。第三照片是他画中国画儿的时候拍下来的。她写汉字写得很不错。他幅字挂在橱窗里。最后的照片是被他女朋友拍下来的。是她用筷子吃饭的情景。她已经适应了中国的习惯。

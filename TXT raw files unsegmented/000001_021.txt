@@ -1,0 +1,15 @@
+<doc.id: 000001_021>
+<doc.year: 2021>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 201>
+
+很多人说，年龄只是一个数字而已。我却不同意，我觉得如果两个人的年龄差异很大（20年以上），他们的恋爱的关系很奇怪。我不支持这样的关系但是如果两个人在一起很满意，就是最重要的。然而这样的关系常常包含一个富翁和十分年轻的妻子，好像是爸爸和女儿。十有八九她是个拜金女，并不爱她的丈夫而是爱他的财产。我不太明白三十岁的女生怎么能爱上八十多岁的先生，我怀疑是真正的爱情，老人也不应该那天真而应该客观地判断他的情况。

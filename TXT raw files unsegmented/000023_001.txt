@@ -1,0 +1,22 @@
+<doc.id: 000023_001>
+<doc.year: 2016>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 74>
+
+在zhuozi没有上电区[]。
+他跟你没喜对[]音乐一样。
+他开到了宿舍的前边。
+我没有很漂亮你说的。
+请..那个水单。
+我要这儿一点儿说。
+这个衣服是就卖到了。
+他从来没有游。

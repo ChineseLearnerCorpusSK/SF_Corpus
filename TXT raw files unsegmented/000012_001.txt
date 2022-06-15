@@ -1,0 +1,26 @@
+<doc.id: 000012_001>
+<doc.year: 2018>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 159>
+
+咱们已经看一个半小时画画儿了。
+今天怎么办把护照带米了？
+他把礼物送你了。
+他都要写半个小时汉字的每天[]。
+昨天我的睡觉很长时间了。
+儿子和妈妈一起把光盘寄到邮局了。
+她让海关去的工作人员取包裹哪儿？
+三个小时他考口语考了。
+我得书先把上次借的还了。
+刚才他给我妹妹去邮局寄了一件衣服。
+他的朋友回没有去宿舍。
+我得翻译课文比他翻译快。

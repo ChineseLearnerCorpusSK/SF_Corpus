@@ -1,0 +1,17 @@
+<doc.id: 000001_005>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 168>
+
+我的休息日
+
+如果我不应该上课，不应该做作业我有时间弄个别的事儿。依我看，每个人应该有许多爱好省得之味生活。打发时间的方式很多。我业余时间喜做运动，比如说打网球、跑步、骑自行车。这样的活动对健康有好处。除了运动以外，我也喜玩电脑游戏，看书，跟朋友一起去玩。某时候我懒得出去玩。当时我在家休息，看电视。要我说啊，业余活动使我们的生活更有意义。

@@ -1,0 +1,16 @@
+<doc.id: 000001_012>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 224>
+
+从前有几个人一起喝酒。他们人比较多酒比较少。他们互相说：谁喝完这瓶酒？有人说：我们竞争。我们每个人画一条蛇。第一个画一条蛇的人赢这瓶酒。他们都同意了。他们开始画画儿。一个人画得比别人快多了。他很得意而且说：你画得太慢了。我已经画了一条蛇，可是还有时间给条蛇加一个脚。他画出来了一个脚以后，另外人说：我结束了。我瓶酒是我的。你画了一个脚，每个人知道一条蛇没有脚。你画的不是蛇。别人都同意了而且这个人赢了那瓶酒。如果一个人做了多余的事儿，就叫画蛇添足。
+

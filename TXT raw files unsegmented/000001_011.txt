@@ -1,0 +1,16 @@
+<doc.id: 000001_011>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 117>
+
+我去意大利的时候，我看了很多著名的风景区。意大利最大人口的城市是罗马。刚来的时我对那个城市一点儿也不了解。怎去商店，怎么坐公共汽车我都不知道。简直太复杂了。可是一个陌生人看出了我的心事。他成为了我第一个意大利的朋友。他简直多么热情啊。
+

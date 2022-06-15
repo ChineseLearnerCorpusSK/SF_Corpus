@@ -1,0 +1,15 @@
+<doc.id: 000001_023>
+<doc.year: 2021>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 136>
+
+去应聘的时候，我们应该充分地准备。我们的准备取决于职业和公司。你应该更新你的简历因为可能有些信息不太准确。你也应该知道这份工作包括什么责任。你也不妨看一看招聘公司的网页，了解一下他们的业务。你可以练习一下怎么介绍自己，无论是英语还是汉语，你都可以练习。你也要穿得体的衣服。

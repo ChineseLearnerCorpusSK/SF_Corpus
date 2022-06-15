@@ -1,0 +1,15 @@
+<doc.id: 000001_026>
+<doc.year: 2021>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 177>
+
+假设我是个国家的领导人，我尽量要帮助残疾人。我会每个月支援他们，我会创造新规定，每家公司必须录用残疾人，比如说5%的雇员应该是残疾人。这样残疾人会找到得体的工作，养活自己，可以成为独立的人，也会为社会作出贡献。如果残疾很严重，需要特意地对待，我们应该为残疾人成立特殊的公司。公司的管理按月收到金融的支持但是他们不能录用正常人。这样的残疾人可以做简单的工作。

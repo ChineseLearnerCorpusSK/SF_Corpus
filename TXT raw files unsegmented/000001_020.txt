@@ -1,0 +1,16 @@
+<doc.id: 000001_020>
+<doc.year: 2021>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 159>
+
+剩男剩女
+在斯洛伐克，到30岁还没有男女朋友就算是剩男女。毕业后很多人面临这个问题：我要集中家庭还是要集中工作。所以很多人由于工作特别忙而没有时间谈恋爱。老板对你的压力很大，父母会催你结婚，那你到底应该做怎么？对我而言，每个人应该追求自己的梦想，自己的幸福。在工作获得成功以后，当然也会结婚然而对女生来说，生孩子不那么容易。

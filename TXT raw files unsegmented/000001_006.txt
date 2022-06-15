@@ -1,0 +1,17 @@
+<doc.id: 000001_006>
+<doc.year: 2020>
+<doc.gender: M>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Int>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: homework>
+<doc.text_length: 200>
+
+教育孩子
+
+要说我啊，父母不应该替孩子什么都做因为这样的孩子将来不独立。父母当然应该帮助孩子但是也要让孩子自己的事儿自己的做。样孩子孩子会培养好习惯，他们成为可靠的大人。父母很爱孩子，要帮助但是这样的行为可以帮倒忙。我的父母也很照顾我。妈妈想替我办很多事儿但是我说我应该自己说，不需要她的帮助。爸爸的教育是相反的。他让我自己解决问匙。我赞成他的态度。尽管他让我自己做，但是我真需要帮助的时候，他连忙帮我。

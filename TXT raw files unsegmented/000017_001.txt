@@ -1,0 +1,24 @@
+<doc.id: 000017_001>
+<doc.year: 2016>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 250>
+
+桌子上没有放差电脑。
+他gen你喜欢音乐不一样。
+他没有你那么喜欢音乐。
+她穿了这件漂亮的围巾，她还美。
+他是开车宿舍前边来的。
+我不是你说的美。
+请你这个水果洗了。
+我累了，就躺上床。
+我想在这儿说一点儿话。
+这件衣服买走了。

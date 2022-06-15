@@ -1,0 +1,30 @@
+<doc.id: 000003_001>
+<doc.year: 2018>
+<doc.gender: F>
+<doc.degree: Y>
+<doc.study_exchange: N>
+<doc.proficiency: Beg>
+<doc.hsk: N>
+<doc.mother_tongue: Slovak>
+<doc.bilingual: N/A>
+<doc.chinese_heritage: N>
+<doc.translation: N>
+<doc.text_type: exam>
+<doc.text_length: 200>
+
+youju下]边是我们学郊[Sw]。
+饭馆在不远。
+他学英文学了三年。
+园林下边有一个sushe。
+他每天都要半个小时写的汉字。
+张老师要写一篇文章介绍租的房子吧？
+他把这本课本英语翻译成了。
+他把这本英语课本翻译成了。
+他说他要从爬山上下去，再从山顶走下来。
+他把礼物送gei你了。
+我昨天睡觉了很长的时间。
+妈妈和儿子把邮局一起到了。
+我刚才邮局去了给我妈妈寄一点儿东西。
+我课文翻译比他得翻译好。
+我考考了汉语两个小时。
+他的爸爸没有去回家。
